@@ -1,0 +1,36 @@
+{
+  "name": "github-top-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/src/index.js",
+  "bin": "build/src/github-top-users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "codegen": "graphql-codegen --config codegen.ts",
+    "build": "tsc",
+    "start": "node build/src/github-top-users.js",
+    "generate-json": "node build/src/github-top-users.js generate-json",
+    "print-json": "node build/src/github-top-users.js print-json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@graphql-codegen/cli": "5.0.0",
+    "@graphql-codegen/typescript": "4.0.1",
+    "@graphql-codegen/typescript-document-nodes": "4.0.1",
+    "@graphql-codegen/typescript-operations": "^4.0.1",
+    "@graphql-codegen/typescript-resolvers": "4.0.1",
+    "@octokit/graphql-schema": "^14.45.1",
+    "@types/lodash": "^4.14.202",
+    "graphql": "^16.8.1",
+    "prettier": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "lodash": "^4.17.21",
+    "octokit": "^3.1.2"
+  }
+}

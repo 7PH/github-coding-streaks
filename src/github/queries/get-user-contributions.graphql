@@ -1,0 +1,24 @@
+query getUserContributions($username: String!, $from: DateTime!, $to: DateTime!) {
+    user(login: $username) {
+        contributionsCollection(from: $from, to: $to) {
+            contributionCalendar {
+                totalContributions
+                weeks {
+                    firstDay
+                    contributionDays {
+                        weekday
+                        date
+                        contributionCount
+                    }
+                }
+            }
+            restrictedContributionsCount
+        }
+    }
+    rateLimit {
+        limit
+        remaining
+        used
+        resetAt
+    }
+}

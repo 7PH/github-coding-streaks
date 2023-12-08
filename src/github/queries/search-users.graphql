@@ -1,0 +1,32 @@
+query searchUsers($q: String!, $count: Int!, $cursor: String) {
+    search(type: USER, query: $q, first: $count, after: $cursor) {
+        edges {
+            node {
+                __typename
+                ... on User {
+                    id
+                    login
+                    company
+                    avatarUrl(size: 72)
+                    name
+                    email
+                    location
+                    estimatedNextSponsorsPayoutInCents
+                    followers {
+                        totalCount
+                    }
+                }
+            }
+        }
+        pageInfo {
+            endCursor
+            hasNextPage
+        }
+    }
+    rateLimit {
+        limit
+        remaining
+        used
+        resetAt
+    }
+}
