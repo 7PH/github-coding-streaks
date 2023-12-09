@@ -16,23 +16,6 @@ Users with the longest daily commit streak
         <tr>
     <td>1</td>
     <td>
-        <a href="https://github.com/rphlr">
-            <img src="https://avatars.githubusercontent.com/u/81936759?s=72&u=16d474f3ea49909c7490969815d71d36affc90ee&v=4" height="12" />
-             <b>Raphael</b>
-        </a>
-    </td>
-    <td>
-        @42-School
-    </td>
-    <td>
-        switzerland
-    </td>
-    <td>
-        <b>31</b>
-    </td>
-</tr><tr>
-    <td>2</td>
-    <td>
         <a href="https://github.com/lszomoru">
             <img src="https://avatars.githubusercontent.com/u/3372902?s=72&u=f559f04d198c85273afe3414e56a5ebe6e47ee02&v=4" height="12" />
              <b>Ladislau Szomoru</b>
@@ -46,6 +29,23 @@ Users with the longest daily commit streak
     </td>
     <td>
         <b>17</b>
+    </td>
+</tr><tr>
+    <td>2</td>
+    <td>
+        <a href="https://github.com/meodai">
+            <img src="https://avatars.githubusercontent.com/u/608386?s=72&u=e0af7daa6c755b64e2ddf03ee2046ac708ca4f51&v=4" height="12" />
+             <b>David Aerne</b>
+        </a>
+    </td>
+    <td>
+        elastiq
+    </td>
+    <td>
+        Zürich
+    </td>
+    <td>
+        <b>9</b>
     </td>
 </tr><tr>
     <td>3</td>

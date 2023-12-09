@@ -1,0 +1,16 @@
+{
+    "countries": [
+        {
+            "countryKey": "switzerland",
+            "countryName": "Switzerland",
+            "countryMatch": ["Switzerland", "Swiss", "Schweiz", "Suisse", "Zürich", "Geneva", "Basel", "Lausanne"],
+            "minFollowerCount": 70
+        },
+        {
+            "countryKey": "france",
+            "countryName": "France",
+            "countryMatch": ["France", "Paris", "Marseille", "Lyon", "Bordeaux", "Toulouse", "Strasbourg", "Nice", "Nantes", "Montpellier", "Lille"],
+            "minFollowerCount": 150
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 import jsonConfig from './config.json';
-import { JsonConfiguration } from './types';
+import { JsonConfiguration } from '../types';
 
 export type CountryDefinition = {
     countryKey: string;

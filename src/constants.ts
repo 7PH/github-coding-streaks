@@ -4,10 +4,10 @@ import { RankingType, SavedGithubUser } from './types';
  * Max years to go back in time to count contributions.
  * This is used to avoid making too many requests.
  */
-export const MAX_PAST_YEAR_COUNT = 1;
+export const MAX_PAST_YEAR_COUNT = 6;
 
 /**
- * Ranking defintinion.
+ * Ranking definition.
  */
 export const RANKINGS: {
     type: RankingType;
@@ -24,7 +24,7 @@ export const RANKINGS: {
     {
         type: RankingType.WeekStreak,
         title: 'Current Week Streak',
-        userCount: 100,
+        userCount: 200,
         savedUserKey: 'weekStreak',
     },
 ];

@@ -1,5 +1,5 @@
 import { program } from 'commander';
-import config from './config';
+import config from './config/config';
 import { generateJson } from './controller/generate-json';
 import { printJson } from './controller/print-json';
 import { generateMarkdown } from './controller/generate-markdown';

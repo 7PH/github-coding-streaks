@@ -2,7 +2,7 @@ import path from 'path';
 import fs from 'fs';
 import { RankingType, SavedGithubUser } from '../types';
 import { getJsonPath } from './generate-json';
-import config from '../config';
+import config from '../config/config';
 import { RANKINGS } from '../constants';
 
 const MARKDOWN_PATH = path.join(process.cwd(), 'docs', 'markdown');
