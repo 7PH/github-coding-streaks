@@ -12,6 +12,12 @@ query searchUsers($q: String!, $count: Int!, $cursor: String) {
                     email
                     location
                     estimatedNextSponsorsPayoutInCents
+                    contributionsCollection {
+                        contributionCalendar {
+                            totalContributions
+                        }
+                        restrictedContributionsCount
+                    }
                     followers {
                         totalCount
                     }

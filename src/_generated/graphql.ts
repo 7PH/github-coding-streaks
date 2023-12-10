@@ -43178,6 +43178,12 @@ export const SearchUsers = gql`
           email
           location
           estimatedNextSponsorsPayoutInCents
+          contributionsCollection {
+            contributionCalendar {
+              totalContributions
+            }
+            restrictedContributionsCount
+          }
           followers {
             totalCount
           }
@@ -43213,4 +43219,4 @@ export type SearchUsersQueryVariables = Exact<{
 }>;
 
 
-export type SearchUsersQuery = { __typename?: 'Query', search: { __typename?: 'SearchResultItemConnection', edges?: Array<{ __typename?: 'SearchResultItemEdge', node?: { __typename: 'App' } | { __typename: 'Discussion' } | { __typename: 'Issue' } | { __typename: 'MarketplaceListing' } | { __typename: 'Organization' } | { __typename: 'PullRequest' } | { __typename: 'Repository' } | { __typename: 'User', id: string, login: string, company?: string | null, avatarUrl: any, name?: string | null, email: string, location?: string | null, estimatedNextSponsorsPayoutInCents: number, followers: { __typename?: 'FollowerConnection', totalCount: number } } | null } | null> | null, pageInfo: { __typename?: 'PageInfo', endCursor?: string | null, hasNextPage: boolean } }, rateLimit?: { __typename?: 'RateLimit', limit: number, remaining: number, used: number, resetAt: any } | null };
+export type SearchUsersQuery = { __typename?: 'Query', search: { __typename?: 'SearchResultItemConnection', edges?: Array<{ __typename?: 'SearchResultItemEdge', node?: { __typename: 'App' } | { __typename: 'Discussion' } | { __typename: 'Issue' } | { __typename: 'MarketplaceListing' } | { __typename: 'Organization' } | { __typename: 'PullRequest' } | { __typename: 'Repository' } | { __typename: 'User', id: string, login: string, company?: string | null, avatarUrl: any, name?: string | null, email: string, location?: string | null, estimatedNextSponsorsPayoutInCents: number, contributionsCollection: { __typename?: 'ContributionsCollection', restrictedContributionsCount: number, contributionCalendar: { __typename?: 'ContributionCalendar', totalContributions: number } }, followers: { __typename?: 'FollowerConnection', totalCount: number } } | null } | null> | null, pageInfo: { __typename?: 'PageInfo', endCursor?: string | null, hasNextPage: boolean } }, rateLimit?: { __typename?: 'RateLimit', limit: number, remaining: number, used: number, resetAt: any } | null };

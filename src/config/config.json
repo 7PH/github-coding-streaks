@@ -1,10 +1,16 @@
 {
     "countries": [
         {
+            "countryKey": "debug",
+            "countryName": "Switzerland",
+            "countryMatch": ["Switzerland", "Swiss", "Schweiz", "Suisse", "Zürich", "Geneva", "Basel", "Lausanne"],
+            "minFollowerCount": 5000
+        },
+        {
             "countryKey": "switzerland",
             "countryName": "Switzerland",
             "countryMatch": ["Switzerland", "Swiss", "Schweiz", "Suisse", "Zürich", "Geneva", "Basel", "Lausanne"],
-            "minFollowerCount": 70
+            "minFollowerCount": 170
         },
         {
             "countryKey": "france",
