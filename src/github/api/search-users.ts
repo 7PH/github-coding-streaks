@@ -3,12 +3,9 @@ import { GithubUser } from '../../types';
 import { query } from './client';
 
 const MAX_FAILED_ATTEMPTS = 2;
-const PER_PAGE = 100;
+const PER_PAGE = 20;
 
-export async function searchUsers(
-    q: string,
-    stopWhen: (user: GithubUser) => boolean,
-): Promise<GithubUser[]> {
+export async function searchUsers(q: string): Promise<GithubUser[]> {
     const allUsers: GithubUser[] = [];
     let failedAttempts = 0;
     let cursor: string | null = null;
@@ -34,16 +31,13 @@ export async function searchUsers(
                     ?.filter((edge: any) => edge.node.__typename === 'User')
                     .map((edge: any) => edge.node) ?? [];
 
-            // Drop users not matching the criteria
-            const matchingUsers = users.filter((user: GithubUser) => !stopWhen(user)) ?? [];
-
             // Add users
-            allUsers.push(...matchingUsers);
+            allUsers.push(...users);
 
             // Should stop if an user does not match criteria or if we have less than PER_PAGE users
-            shouldStop = !cursor || matchingUsers.length !== users.length;
+            shouldStop = !cursor || users.length !== users.length;
         } catch (e) {
-            await new Promise((resolve) => setTimeout(resolve, 1000));
+            await new Promise((resolve) => setTimeout(resolve, 10 * 1000));
             failedAttempts++;
         }
     }

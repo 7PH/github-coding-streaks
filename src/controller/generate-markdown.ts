@@ -1,68 +1,18 @@
 import path from 'path';
 import fs from 'fs';
-import { RankingType, SavedGithubUser } from '../types';
-import { getJsonPath } from './generate-json';
+import { RankingType, ProcessedGithubUser, EnhancedGithubUser } from '../types';
+import { getJsonPath } from './fetch';
 import config from '../config/config';
 import { RANKINGS } from '../constants';
-
-const MARKDOWN_PATH = path.join(process.cwd(), 'docs', 'markdown');
+import {
+    getMarkdownPath,
+    injectTemplateData,
+    getMarkdownLoaderboardTable,
+} from '../helper/markdown';
+import { computeRankings } from '../helper/ranking';
 
 function getTemplatePath(rankingType: RankingType) {
     return path.join(process.cwd(), 'src', 'templates', rankingType + '.md');
-}
-
-function getMarkdownPath(rankingType: RankingType, countryKey: string) {
-    return path.join(MARKDOWN_PATH, `${rankingType}/${countryKey}.md`);
-}
-
-function injectTemplateData(template: string, json: any) {
-    let result = template;
-    for (const key of Object.keys(json)) {
-        result = result.replace(`{{${key}}}`, json[key]);
-    }
-    return result;
-}
-
-function savedUserToTr(index: number, { user }: SavedGithubUser, value: unknown) {
-    return `<tr>
-    <td>${index + 1}</td>
-    <td>
-        <a href="https://github.com/${user.login}">
-            <img src="${user.avatarUrl}" height="12" />
-             <b>${user.name ?? user.login}</b>
-        </a>
-    </td>
-    <td>
-        ${user.company ?? '-'}
-    </td>
-    <td>
-        ${user.location ?? '-'}
-    </td>
-    <td>
-        <b>${value}</b>
-    </td>
-</tr>`;
-}
-
-function savedUsersToTable(
-    savedUsers: SavedGithubUser[],
-    valueColumnHeader: string,
-    getValue: (user: SavedGithubUser) => unknown,
-) {
-    return `<table width="100%">
-    <thead>
-        <tr>
-            <th>#</th>
-            <th>Name</th>
-            <th>Company</th>
-            <th>Location</th>
-            <th>${valueColumnHeader}</th>
-        </tr>
-    </thead>
-    <tbody>
-        ${savedUsers.map((user, index) => savedUserToTr(index, user, getValue(user))).join('')}
-    </tbody>
-</table>`;
 }
 
 export function generateMarkdown(countryKey: string) {
@@ -71,23 +21,39 @@ export function generateMarkdown(countryKey: string) {
         throw new Error('No country specified');
     }
 
-    for (const { type, savedUserKey, title, userCount } of RANKINGS) {
-        const savedUsers = require(getJsonPath(type, countryKey));
+    const users = require(getJsonPath(countryKey)) as EnhancedGithubUser[];
+    const processedUsers: ProcessedGithubUser[] = users.map((enhancedUser) => {
+        const ranking = computeRankings(enhancedUser);
+        return {
+            user: enhancedUser.user,
+            ranking,
+        };
+    });
+
+    // Generate markdown files
+    for (const { type, title, userCount } of RANKINGS) {
         const template = fs.readFileSync(getTemplatePath(type), 'utf8');
-        const truncatedSavedUsers = savedUsers.slice(0, userCount);
 
-        const table = savedUsersToTable(
-            truncatedSavedUsers,
-            title,
-            (savedUser) => savedUser[savedUserKey],
-        );
+        // Rank users for this ranking type and keep only the top N
+        const leaderboard = processedUsers
+            .sort((a, b) => {
+                const aValue = a.ranking[type] as number;
+                const bValue = b.ranking[type] as number;
+                return bValue - aValue;
+            })
+            .slice(0, userCount);
 
+        // Build the HTML table
+        const table = getMarkdownLoaderboardTable(type, leaderboard, title);
+
+        // Build the whole markdown file
         const markdown = injectTemplateData(template, {
             ...countryDefinition,
             type,
             table,
         });
 
+        // Save it
         fs.writeFileSync(getMarkdownPath(type, countryKey), markdown);
     }
 }

@@ -13,6 +13,11 @@ export type JsonConfiguration = {
     countries: CountryDefinition[];
 };
 
+export type ContributionWeek = ContributionCollection['contributionCalendar']['weeks'][number];
+
+export type ContributionDay =
+    ContributionCollection['contributionCalendar']['weeks'][number]['contributionDays'][number];
+
 export type CountryDefinition = {
     countryKey: string;
     countryName: string;
@@ -23,10 +28,18 @@ export type CountryDefinition = {
 export enum RankingType {
     DayStreak = 'day-streak',
     WeekStreak = 'week-streak',
+    ContributionCount = 'contribution-count',
 }
 
-export type SavedGithubUser = {
+export type RankingData = Record<RankingType, number>;
+
+export type EnhancedGithubUser = {
     user: GithubUser;
-    dayStreak: number;
-    weekStreak: number;
+    allContributionDays: ContributionDay[];
+    allContributionWeeks: ContributionWeek[];
+};
+
+export type ProcessedGithubUser = {
+    user: EnhancedGithubUser['user'];
+    ranking: RankingData;
 };

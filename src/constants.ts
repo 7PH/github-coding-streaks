@@ -1,4 +1,4 @@
-import { RankingType, SavedGithubUser } from './types';
+import { RankingType, ProcessedGithubUser } from './types';
 
 /**
  * Max years to go back in time to count contributions.
@@ -13,18 +13,20 @@ export const RANKINGS: {
     type: RankingType;
     title: string;
     userCount: number;
-    savedUserKey: keyof SavedGithubUser;
 }[] = [
     {
         type: RankingType.DayStreak,
         title: 'Current Day Streak',
         userCount: 10,
-        savedUserKey: 'dayStreak',
     },
     {
         type: RankingType.WeekStreak,
         title: 'Current Week Streak',
         userCount: 200,
-        savedUserKey: 'weekStreak',
+    },
+    {
+        type: RankingType.ContributionCount,
+        title: 'Total Contributions',
+        userCount: 200,
     },
 ];

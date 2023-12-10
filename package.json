@@ -10,7 +10,7 @@
     "build": "tsc",
     "start": "node build/src/github-top-users.js",
     "generate-json": "node build/src/github-top-users.js generate-json",
-    "print-json": "node build/src/github-top-users.js print-json"
+    "json-to-stdout": "node build/src/github-top-users.js json-to-stdout"
   },
   "keywords": [],
   "author": "",
@@ -31,6 +31,7 @@
   "dependencies": {
     "commander": "^11.1.0",
     "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "octokit": "^3.1.2"
   }
 }

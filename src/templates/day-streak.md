@@ -1,4 +1,4 @@
-# Top Users by Current Daily Commit Streak in {{countryName}}
+# Everyday Coding Stars @ {{countryName}}
 
 Users with the longest daily commit streak
 

@@ -1,7 +1,6 @@
 import { program } from 'commander';
 import config from './config/config';
-import { generateJson } from './controller/generate-json';
-import { printJson } from './controller/print-json';
+import { fetchCountry } from './controller/fetch';
 import { generateMarkdown } from './controller/generate-markdown';
 
 program
@@ -19,25 +18,11 @@ program
             throw new Error('No country specified');
         }
 
-        await generateJson(countryDefinition);
+        await fetchCountry(countryDefinition);
     });
 
 program
-    .command('print-json')
-    .description('Print JSON files for a given countries')
-    .option('-c, --country <country>', 'Country to print JSON for')
-    .option('-r, --ranking-type <rankingType>', 'Ranking type to print JSON for')
-    .action(async (options) => {
-        const countryDefinition = config.countries.find((c) => c.countryKey === options.country);
-        if (!countryDefinition) {
-            throw new Error('No country specified');
-        }
-
-        printJson(options.rankingType, options.country);
-    });
-
-program
-    .command('generate-markdown')
+    .command('json-to-markdown')
     .description('Generate markdown for a given countries')
     .option('-c, --country <country>', 'Country to generate markdown for')
     .action(async (options) => {
