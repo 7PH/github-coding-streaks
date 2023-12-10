@@ -13,7 +13,7 @@ program
     .description('Generate JSON files a given countries')
     .option('-c, --country <country>', 'Country to generate JSON for')
     .action(async (options) => {
-        const countryDefinition = config.countries.find((c) => c.countryKey === options.country);
+        const countryDefinition = config.countries.find((c) => c.countryCode === options.country);
         if (!countryDefinition) {
             throw new Error('No country specified');
         }
@@ -28,7 +28,7 @@ program
     .action(async (options) => {
         let countries = [];
         if (options.country) {
-            countries = config.countries.filter((c) => c.countryKey === options.country);
+            countries = config.countries.filter((c) => c.countryCode === options.country);
         } else {
             countries = config.countries;
         }
@@ -37,7 +37,7 @@ program
         }
 
         for (const country of countries) {
-            generateMarkdown(country.countryKey);
+            generateMarkdown(country.countryCode);
         }
     });
 

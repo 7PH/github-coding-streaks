@@ -10,8 +10,8 @@ import { flatten } from 'lodash';
 
 export const DIST_PATH = path.join(process.cwd(), 'dist');
 
-export function getJsonPath(countryKey: string) {
-    return path.join(DIST_PATH, `${countryKey}.json`);
+export function getJsonPath(countryCode: string) {
+    return path.join(DIST_PATH, `${countryCode}.json`);
 }
 
 export async function getEnhanceUserProperties(
@@ -67,7 +67,7 @@ export async function getEnhanceUserProperties(
 
 export async function fetchCountry({
     countryMatch,
-    countryKey,
+    countryCode,
     minFollowerCount,
 }: CountryDefinition) {
     const query = countryMatch.map((match) => `location:${match}`).join(' ');
@@ -83,5 +83,5 @@ export async function fetchCountry({
             console.error(e);
         }
     }
-    fs.writeFileSync(getJsonPath(countryKey), JSON.stringify(enhancedUsers));
+    fs.writeFileSync(getJsonPath(countryCode), JSON.stringify(enhancedUsers));
 }

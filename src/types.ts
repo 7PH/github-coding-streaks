@@ -19,7 +19,7 @@ export type ContributionDay =
     ContributionCollection['contributionCalendar']['weeks'][number]['contributionDays'][number];
 
 export type CountryDefinition = {
-    countryKey: string;
+    countryCode: string;
     countryName: string;
     countryMatch: string[];
     minFollowerCount: number;

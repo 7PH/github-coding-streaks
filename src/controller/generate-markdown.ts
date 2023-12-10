@@ -15,13 +15,13 @@ function getTemplatePath(rankingType: RankingType) {
     return path.join(process.cwd(), 'src', 'templates', rankingType + '.md');
 }
 
-export function generateMarkdown(countryKey: string) {
-    const countryDefinition = config.countries.find((c) => c.countryKey === countryKey);
+export function generateMarkdown(countryCode: string) {
+    const countryDefinition = config.countries.find((c) => c.countryCode === countryCode);
     if (!countryDefinition) {
         throw new Error('No country specified');
     }
 
-    const users = require(getJsonPath(countryKey)) as EnhancedGithubUser[];
+    const users = require(getJsonPath(countryCode)) as EnhancedGithubUser[];
     const processedUsers: ProcessedGithubUser[] = users.map((enhancedUser) => {
         const ranking = computeRankings(enhancedUser);
         return {
@@ -36,6 +36,7 @@ export function generateMarkdown(countryKey: string) {
 
         // Rank users for this ranking type and keep only the top N
         const leaderboard = processedUsers
+            .filter((u) => u.ranking[type] !== 0)
             .sort((a, b) => {
                 const aValue = a.ranking[type] as number;
                 const bValue = b.ranking[type] as number;
@@ -49,11 +50,14 @@ export function generateMarkdown(countryKey: string) {
         // Build the whole markdown file
         const markdown = injectTemplateData(template, {
             ...countryDefinition,
+            countryCodeUppercase: countryCode.toUpperCase(),
+            year: new Date().getFullYear(),
             type,
             table,
+            userCount,
         });
 
         // Save it
-        fs.writeFileSync(getMarkdownPath(type, countryKey), markdown);
+        fs.writeFileSync(getMarkdownPath(type, countryCode), markdown);
     }
 }
