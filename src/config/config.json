@@ -1,20 +1,16 @@
 {
     "countries": [
         {
-            "countryKey": "debug",
+            "countryCode": "ch",
             "countryName": "Switzerland",
+            "symbol": "🇨🇭",
             "countryMatch": ["Switzerland", "Swiss", "Schweiz", "Suisse", "Zürich", "Geneva", "Basel", "Lausanne"],
-            "minFollowerCount": 5000
+            "minFollowerCount": 70
         },
         {
-            "countryKey": "switzerland",
-            "countryName": "Switzerland",
-            "countryMatch": ["Switzerland", "Swiss", "Schweiz", "Suisse", "Zürich", "Geneva", "Basel", "Lausanne"],
-            "minFollowerCount": 170
-        },
-        {
-            "countryKey": "france",
+            "countryCode": "fr",
             "countryName": "France",
+            "symbol": "🇫🇷",
             "countryMatch": ["France", "Paris", "Marseille", "Lyon", "Bordeaux", "Toulouse", "Strasbourg", "Nice", "Nantes", "Montpellier", "Lille"],
             "minFollowerCount": 150
         }

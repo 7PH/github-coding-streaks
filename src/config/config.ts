@@ -2,7 +2,7 @@ import jsonConfig from './config.json';
 import { JsonConfiguration } from '../types';
 
 export type CountryDefinition = {
-    countryKey: string;
+    countryCode: string;
     countryName: string;
     countryMatch: string[];
     minFollowerCount: number;

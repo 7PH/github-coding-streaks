@@ -8,14 +8,14 @@ const numberFormat = Intl.NumberFormat('en-US', {
     maximumFractionDigits: 2,
 });
 
-export function getMarkdownPath(rankingType: RankingType, countryKey: string) {
-    return path.join(MARKDOWN_PATH, `${rankingType}/${countryKey}.md`);
+export function getMarkdownPath(rankingType: RankingType, countryCode: string) {
+    return path.join(MARKDOWN_PATH, `${rankingType}/${countryCode}.md`);
 }
 
 export function injectTemplateData(template: string, json: any) {
     let result = template;
     for (const key of Object.keys(json)) {
-        result = result.replace(`{{${key}}}`, json[key]);
+        result = result.replace(new RegExp(`{{${key}}}`, 'g'), json[key]);
     }
     return result;
 }
@@ -32,25 +32,18 @@ export function getMarkdownLeaderboardTr(
             3: '🥉',
         }[index + 1] ?? index + 1;
 
-    const classnames =
-        {
-            1: 'first',
-            2: 'second',
-            3: 'third',
-        }[index + 1] ?? '';
-
     const tds = [];
     tds.push(indexTitle);
     tds.push(`<a href="https://github.com/${user.login}">
         <img src="${user.avatarUrl}" height="12" />
-        <span class="name">${user.name ?? user.login}</span>
+        <b>${user.name ?? user.login}</b>
     </a>`);
     tds.push(user.company ?? '-');
     tds.push(user.location ?? '-');
     tds.push(numberFormat.format(user.followers.totalCount));
     tds.push(numberFormat.format(value));
 
-    return `<tr class="${classnames}">${tds.map((td) => `<td>${td}</td>`).join('')}</tr>`;
+    return `<tr>${tds.map((td) => `<td>${td}</td>`).join('')}</tr>`;
 }
 
 export function getMarkdownLoaderboardTable(
@@ -60,20 +53,6 @@ export function getMarkdownLoaderboardTable(
 ) {
     return `
 <table style="width: 100%">
-    <style scoped>
-        .first .name, .second .name, .third .name {
-            font-weight: bold;
-        }
-        .first {
-            font-size: 1.2em;
-        }
-        .second {
-            font-size: 1.1em;
-        }
-        .third {
-            font-size: 1em;
-        }
-    </style>
     <thead>
         <tr>
             <th>#</th>

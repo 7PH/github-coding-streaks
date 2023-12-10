@@ -17,16 +17,16 @@ export const RANKINGS: {
     {
         type: RankingType.DayStreak,
         title: 'Current Day Streak',
-        userCount: 10,
+        userCount: 200,
     },
     {
         type: RankingType.WeekStreak,
         title: 'Current Week Streak',
-        userCount: 200,
+        userCount: 1000,
     },
     {
         type: RankingType.ContributionCount,
         title: 'Total Contributions',
-        userCount: 200,
+        userCount: 1000,
     },
 ];
