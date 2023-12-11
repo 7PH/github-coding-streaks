@@ -1,0 +1,17 @@
+on:
+    # schedule:
+    #     - cron: '0 5 * * *'
+    workflow_dispatch:
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - run: npm install
+            - run: npm run build
+            # Run bash with GITHUB_TOKEN env
+            - run: npm run fetch -- -c fr
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            - run: npm run generate-markdown
