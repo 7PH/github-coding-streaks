@@ -1,18 +1,11 @@
 import fs from 'fs';
-import path from 'path';
-import process from 'process';
 import moment from 'moment';
 import { ContributionDay, ContributionWeek, CountryDefinition, EnhancedGithubUser } from '../types';
 import { searchUsers } from '../github/api/search-users';
 import { MAX_PAST_YEAR_COUNT } from '../constants';
 import { getUserContributions } from '../github/api/get-user-contributions';
 import { flatten } from 'lodash';
-
-export const DIST_PATH = path.join(process.cwd(), 'dist');
-
-export function getJsonPath(countryCode: string) {
-    return path.join(DIST_PATH, `${countryCode}.json`);
-}
+import { DIST_PATH, getJsonPath } from '../helper/paths';
 
 export async function getEnhanceUserProperties(
     login: string,
@@ -83,5 +76,6 @@ export async function fetchCountry({
             console.error(e);
         }
     }
+    fs.mkdirSync(DIST_PATH, { recursive: true });
     fs.writeFileSync(getJsonPath(countryCode), JSON.stringify(enhancedUsers));
 }

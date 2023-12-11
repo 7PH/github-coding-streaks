@@ -60,7 +60,7 @@ github
             <th>Company</th>
             <th>Location</th>
             <th>Followers</th>
-            <th>Current Day Streak</th>
+            <th>Daily Commit Streak</th>
         </tr>
     </thead>
     <tbody>

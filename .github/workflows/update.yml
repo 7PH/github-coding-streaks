@@ -1,6 +1,8 @@
+name: Update
+
 on:
-    # schedule:
-    #     - cron: '0 5 * * *'
+    schedule:
+        - cron: '0 5 * * *'
     workflow_dispatch:
 
 jobs:
@@ -10,8 +12,16 @@ jobs:
             - uses: actions/checkout@v3
             - run: npm install
             - run: npm run build
-            # Run bash with GITHUB_TOKEN env
             - run: npm run fetch -- -c fr
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             - run: npm run generate-markdown
+            - run: npm run generate-readme
+            # Push in deploy branch
+            - name: Push changes
+              run: |
+                  git config --global user.name 'GitHub Action'
+                  git config --global user.email ''
+                  git add .
+                  git commit -m "Update data"
+                  git push origin deploy

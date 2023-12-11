@@ -10,23 +10,7 @@ This project aims to celebrate and motivate continuous coding efforts by ranking
 
 ## All leaderboards
 
-<table>
-<tbody>
-    <tr>
-        <td>
-            <img src="https://flagsapi.com/CH/flat/16.png" />
-            <b>Switzerland</b>
-        </td>
-        <td><a href="docs/markdown/week-streak/ch.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/ch.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/ch.md">Top Contributors</a></td>
-    </tr><tr>
-        <td>
-            <img src="https://flagsapi.com/FR/flat/16.png" />
-            <b>France</b>
-        </td>
-        <td><a href="docs/markdown/week-streak/fr.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/fr.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/fr.md">Top Contributors</a></td>
-    </tr>
-</tbody>
-</table>
+{{table}}
 
 ## Participation
 

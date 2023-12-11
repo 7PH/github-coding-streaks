@@ -1,4 +1,4 @@
-# Top {{year}} Contributor @ {{countryName}} Leaderboard <img src="https://flagsapi.com/{{countryCodeUppercase}}/flat/24.png">
+# Top Contributor @ {{countryName}} Leaderboard <img src="https://flagsapi.com/{{countryCodeUppercase}}/flat/24.png">
 
 Users with the most contributions (both public and private) in the past 365 days
 

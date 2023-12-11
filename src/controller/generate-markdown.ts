@@ -1,7 +1,5 @@
-import path from 'path';
 import fs from 'fs';
-import { RankingType, ProcessedGithubUser, EnhancedGithubUser } from '../types';
-import { getJsonPath } from './fetch';
+import { ProcessedGithubUser, EnhancedGithubUser } from '../types';
 import config from '../config/config';
 import { RANKINGS } from '../constants';
 import {
@@ -10,10 +8,7 @@ import {
     getMarkdownLoaderboardTable,
 } from '../helper/markdown';
 import { computeRankings } from '../helper/ranking';
-
-function getTemplatePath(rankingType: RankingType) {
-    return path.join(process.cwd(), 'src', 'templates', rankingType + '.md');
-}
+import { getJsonPath, getTemplatePath } from '../helper/paths';
 
 export function generateMarkdown(countryCode: string) {
     const countryDefinition = config.countries.find((c) => c.countryCode === countryCode);

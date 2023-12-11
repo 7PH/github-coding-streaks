@@ -2,6 +2,7 @@ import { program } from 'commander';
 import config from './config/config';
 import { fetchCountry } from './controller/fetch';
 import { generateMarkdown } from './controller/generate-markdown';
+import { generateReadme } from './controller/generate-readme';
 
 program
     .name('github-top-users')
@@ -39,6 +40,13 @@ program
         for (const country of countries) {
             generateMarkdown(country.countryCode);
         }
+    });
+
+program
+    .command('generate-readme')
+    .description('Generate README.md')
+    .action(async () => {
+        generateReadme();
     });
 
 program.parse();

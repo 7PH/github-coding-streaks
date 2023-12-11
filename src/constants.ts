@@ -15,18 +15,18 @@ export const RANKINGS: {
     userCount: number;
 }[] = [
     {
-        type: RankingType.DayStreak,
-        title: 'Current Day Streak',
-        userCount: 200,
-    },
-    {
         type: RankingType.WeekStreak,
-        title: 'Current Week Streak',
+        title: 'Weekly Commit Streak',
         userCount: 1000,
     },
     {
+        type: RankingType.DayStreak,
+        title: 'Daily Commit Streak',
+        userCount: 200,
+    },
+    {
         type: RankingType.ContributionCount,
-        title: 'Total Contributions',
+        title: 'Top Contributors',
         userCount: 1000,
     },
 ];

@@ -1,4 +1,4 @@
-# Top 2023 Contributor @ France Leaderboard <img src="https://flagsapi.com/FR/flat/24.png">
+# Top Contributor @ France Leaderboard <img src="https://flagsapi.com/FR/flat/24.png">
 
 Users with the most contributions (both public and private) in the past 365 days
 
@@ -60,7 +60,7 @@ github
             <th>Company</th>
             <th>Location</th>
             <th>Followers</th>
-            <th>Total Contributions</th>
+            <th>Top Contributors</th>
         </tr>
     </thead>
     <tbody>

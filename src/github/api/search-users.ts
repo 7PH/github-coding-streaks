@@ -2,7 +2,7 @@ import { SearchUsers, SearchUsersQuery, SearchUsersQueryVariables } from '../../
 import { GithubUser } from '../../types';
 import { query } from './client';
 
-const MAX_FAILED_ATTEMPTS = 2;
+const MAX_FAILED_ATTEMPTS = 10;
 const PER_PAGE = 20;
 
 export async function searchUsers(q: string): Promise<GithubUser[]> {
@@ -11,35 +11,30 @@ export async function searchUsers(q: string): Promise<GithubUser[]> {
     let cursor: string | null = null;
     let shouldStop = false;
     while (failedAttempts < MAX_FAILED_ATTEMPTS && !shouldStop) {
-        try {
-            console.log(`Getting users for ${q} with cursor ${cursor}`);
-            const data: SearchUsersQuery = await query<SearchUsersQuery, SearchUsersQueryVariables>(
-                SearchUsers,
-                {
-                    q,
-                    count: PER_PAGE,
-                    cursor,
-                },
-            );
-            failedAttempts = 0;
+        console.log(`Getting users for ${q} with cursor ${cursor}`);
+        const data: SearchUsersQuery = await query<SearchUsersQuery, SearchUsersQueryVariables>(
+            SearchUsers,
+            {
+                q,
+                count: PER_PAGE,
+                cursor,
+            },
+        );
+        failedAttempts = 0;
 
-            cursor = data.search.pageInfo.endCursor ?? null;
+        cursor = data.search.pageInfo.endCursor ?? null;
 
-            // Filter out organizations
-            const users =
-                data.search.edges
-                    ?.filter((edge: any) => edge.node.__typename === 'User')
-                    .map((edge: any) => edge.node) ?? [];
+        // Filter out organizations
+        const users =
+            data.search.edges
+                ?.filter((edge: any) => edge.node.__typename === 'User')
+                .map((edge: any) => edge.node) ?? [];
 
-            // Add users
-            allUsers.push(...users);
+        // Add users
+        allUsers.push(...users);
 
-            // Should stop if an user does not match criteria or if we have less than PER_PAGE users
-            shouldStop = !cursor || users.length !== users.length;
-        } catch (e) {
-            await new Promise((resolve) => setTimeout(resolve, 10 * 1000));
-            failedAttempts++;
-        }
+        // Should stop if an user does not match criteria or if we have less than PER_PAGE users
+        shouldStop = !cursor || users.length !== users.length;
     }
 
     return allUsers;
