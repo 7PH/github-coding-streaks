@@ -10,7 +10,8 @@
     "build": "tsc",
     "start": "node build/src/github-top-users.js",
     "fetch": "node build/src/github-top-users.js fetch",
-    "generate-markdown": "node build/src/github-top-users.js generate-markdown"
+    "generate-markdown": "node build/src/github-top-users.js generate-markdown",
+    "generate-readme": "node build/src/github-top-users.js generate-readme"
   },
   "keywords": [],
   "author": "",
