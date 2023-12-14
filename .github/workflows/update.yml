@@ -2,7 +2,7 @@ name: Update
 
 on:
     schedule:
-        - cron: '0 5 * * *'
+        - cron: '0 3 * * *'
     workflow_dispatch:
 
 jobs:
@@ -15,14 +15,18 @@ jobs:
             - run: npm run fetch -- -c fr
               env:
                   GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+            - run: npm run fetch -- -c ch
+              env:
+                  GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
             - run: npm run generate-markdown -- -c fr
+            - run: npm run generate-markdown -- -c ch
             - run: npm run generate-readme
             - name: Push changes
               run: |
-                  git config --global user.name "Continuous Integration"
-                  git config --global user.email '31401273+7PH@users.noreply.github.com'
+                  git config --global user.name "GitHub Actions"
+                  git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
                   git add .
-                  git commit -m "Update data"
+                  git commit -m "Update data @ $(date +'%Y-%m-%d %H:%M:%S')"
                   git push
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
