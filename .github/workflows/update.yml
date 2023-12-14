@@ -14,13 +14,15 @@ jobs:
             - run: npm run build
             - run: npm run fetch -- -c fr
               env:
-                  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
             - run: npm run generate-markdown -- -c fr
             - run: npm run generate-readme
             - name: Push changes
               run: |
                   git config --global user.name "Continuous Integration"
-                  git config --global user.email '7ph@users.noreply.github.com'
+                  git config --global user.email '31401273+7PH@users.noreply.github.com'
                   git add .
                   git commit -m "Update data"
                   git push
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
