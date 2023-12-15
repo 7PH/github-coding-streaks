@@ -112,7 +112,7 @@ github
     </a></td><td>@toptal</td><td>Aix-en-Provence, France</td><td>186</td><td>163</td></tr><tr><td>16</td><td><a href="https://github.com/QuiiBz">
         <img src="https://avatars.githubusercontent.com/u/43268759?s=72&u=1d8c6583c1cce98b7baeecd2b9646a9f41292376&v=4" height="12" />
         <b>Tom Lienard</b>
-    </a></td><td>@vercel</td><td>Paris</td><td>392</td><td>155</td></tr><tr><td>17</td><td><a href="https://github.com/BoboTiG">
+    </a></td><td>@vercel</td><td>Paris</td><td>394</td><td>155</td></tr><tr><td>17</td><td><a href="https://github.com/BoboTiG">
         <img src="https://avatars.githubusercontent.com/u/2033598?s=72&u=7885aa35660361472a378a2e5e300e13ec76ae87&v=4" height="12" />
         <b>Mickaël Schoentgen</b>
     </a></td><td>Hyland|Nuxeo</td><td>Remote, France</td><td>160</td><td>110</td></tr><tr><td>18</td><td><a href="https://github.com/BrunoLevy">
@@ -463,7 +463,7 @@ github
     </a></td><td>@elastic</td><td>France, Cergy</td><td>609</td><td>5</td></tr><tr><td>133</td><td><a href="https://github.com/byroot">
         <img src="https://avatars.githubusercontent.com/u/44640?s=72&v=4" height="12" />
         <b>Jean Boussier</b>
-    </a></td><td>@Shopify (as @casperisfine)</td><td>Toulouse, France</td><td>580</td><td>5</td></tr><tr><td>134</td><td><a href="https://github.com/tarekziade">
+    </a></td><td>@Shopify (as @casperisfine)</td><td>Toulouse, France</td><td>581</td><td>5</td></tr><tr><td>134</td><td><a href="https://github.com/tarekziade">
         <img src="https://avatars.githubusercontent.com/u/250019?s=72&u=32895324ed3242985c9859858431b3fcafc4fff6&v=4" height="12" />
         <b>Tarek Ziade</b>
     </a></td><td>@mozilla</td><td>Turcey, Burgundy, France</td><td>574</td><td>5</td></tr><tr><td>135</td><td><a href="https://github.com/0intro">
