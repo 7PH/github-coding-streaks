@@ -499,7 +499,7 @@ github
     </a></td><td>-</td><td>Nantes</td><td>404</td><td>38</td></tr><tr><td>145</td><td><a href="https://github.com/posva">
         <img src="https://avatars.githubusercontent.com/u/664177?s=72&u=ded1e1cffd1d5620c9d9fb1a1c966c17204d6bef&v=4" height="12" />
         <b>Eduardo San Martin Morote</b>
-    </a></td><td>Freelance</td><td>Paris </td><td>5.21K</td><td>37</td></tr><tr><td>146</td><td><a href="https://github.com/dzello">
+    </a></td><td>Freelance</td><td>Paris </td><td>5.22K</td><td>37</td></tr><tr><td>146</td><td><a href="https://github.com/dzello">
         <img src="https://avatars.githubusercontent.com/u/174777?s=72&u=ca3d3c86a98aada7ee26b9567e6d5e9cc34598d4&v=4" height="12" />
         <b>Josh Dzielak</b>
     </a></td><td>@orbit-love</td><td>Paris</td><td>240</td><td>36</td></tr><tr><td>147</td><td><a href="https://github.com/vindarel">
