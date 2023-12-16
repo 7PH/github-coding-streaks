@@ -1,6 +1,6 @@
-import { ContributionWeek, EnhancedGithubUser, RankingData, RankingType } from '../types';
-import { RANKINGS } from '../constants';
 import { findIndex } from 'lodash';
+import { RANKINGS } from '../constants';
+import { ContributionWeek, EnhancedGithubUser, RankingData, RankingType } from '../types';
 
 export function computeRankings(enhancedUser: EnhancedGithubUser): RankingData {
     const rankings = RANKINGS.map(({ type }) => [type, computeRanking(type, enhancedUser)]);
@@ -34,6 +34,9 @@ export function computeDayStreak({ allContributionDays }: EnhancedGithubUser) {
         (day) => day.contributionCount === 0,
         todayIndex + 1,
     );
+    if (looserDayIndex === -1) {
+        return allContributionDays.length - todayIndex;
+    }
     return looserDayIndex - todayIndex;
 }
 
@@ -57,6 +60,9 @@ export function computeWeekStreak({ allContributionWeeks }: EnhancedGithubUser) 
         (week) => getWeekCount(week) === 0,
         currentWeekIndex + 1,
     );
+    if (looserWeekIndex === -1) {
+        return allContributionWeeks.length - currentWeekIndex;
+    }
     return looserWeekIndex - currentWeekIndex;
 }
 

@@ -12,7 +12,7 @@
             "countryName": "France",
             "symbol": "🇫🇷",
             "countryMatch": ["France", "Paris", "Marseille", "Lyon", "Bordeaux", "Toulouse", "Strasbourg", "Nice", "Nantes", "Montpellier", "Lille"],
-            "minFollowerCount": 150
+            "minFollowerCount": 130
         }
     ]
 }
