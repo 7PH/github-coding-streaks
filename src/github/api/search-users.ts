@@ -5,7 +5,10 @@ import { query } from './client';
 const MAX_FAILED_ATTEMPTS = 10;
 const PER_PAGE = 20;
 
-export async function searchUsers(q: string): Promise<GithubUser[]> {
+export async function searchUsers(
+    q: string,
+    stopWhen?: (allUsers: GithubUser[]) => boolean,
+): Promise<GithubUser[]> {
     const allUsers: GithubUser[] = [];
     let failedAttempts = 0;
     let cursor: string | null = null;
@@ -35,6 +38,11 @@ export async function searchUsers(q: string): Promise<GithubUser[]> {
 
         // Should stop if an user does not match criteria or if we have less than PER_PAGE users
         shouldStop = !cursor || users.length !== users.length;
+
+        // Should stop if stopWhen returns true
+        if (stopWhen && stopWhen(allUsers)) {
+            shouldStop = true;
+        }
     }
 
     return allUsers;

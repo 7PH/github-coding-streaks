@@ -1,10 +1,14 @@
-import { RankingType, ProcessedGithubUser } from './types';
+import { RankingType } from './types';
 
 /**
  * Max years to go back in time to count contributions.
- * This is used to avoid making too many requests.
  */
-export const MAX_PAST_YEAR_COUNT = 6;
+export const MAX_PAST_YEAR_COUNT = 10;
+
+/**
+ * In general, for each country, we expect an approximate of N users to match the follower constraint.
+ */
+export const EXPECTED_USERS_MATCHING_FOLLOWER_COUNT = 2000;
 
 /**
  * Ranking definition.
