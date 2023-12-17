@@ -36,7 +36,7 @@ export function getMarkdownLeaderboardTr(
     tds.push(indexTitle);
     tds.push(`<a href="https://github.com/${user.login}">
         <img src="${user.avatarUrl}" height="12" />
-        <b>${user.name ?? user.login}</b>
+        <b>${user.login}</b>
     </a>`);
     tds.push(user.company ?? '-');
     tds.push(user.location ?? '-');
