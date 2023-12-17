@@ -94,13 +94,13 @@ github
     </a></td><td>@Highware-Solutions </td><td>Zurich, Switzerland</td><td>764</td><td>5.58K</td></tr><tr><td>10</td><td><a href="https://github.com/vhf">
         <img src="https://avatars.githubusercontent.com/u/2022803?s=72&u=803d3a03e92d783845385dfb48a14631921a6cc3&v=4" height="12" />
         <b>victor felder</b>
-    </a></td><td>@objkt-com </td><td>Switzerland</td><td>3.28K</td><td>5.52K</td></tr><tr><td>11</td><td><a href="https://github.com/algo7">
+    </a></td><td>@objkt-com </td><td>Switzerland</td><td>3.28K</td><td>5.53K</td></tr><tr><td>11</td><td><a href="https://github.com/algo7">
         <img src="https://avatars.githubusercontent.com/u/11154774?s=72&u=971cb2e46fa9aec08a7a6f26cde9a46a074875e2&v=4" height="12" />
         <b>Aviv</b>
     </a></td><td>@morphean-sa </td><td>Taiwan Nantou | Switzerland Zurich | Switzerland Lausanne</td><td>97</td><td>5.5K</td></tr><tr><td>12</td><td><a href="https://github.com/rphlr">
         <img src="https://avatars.githubusercontent.com/u/81936759?s=72&u=16d474f3ea49909c7490969815d71d36affc90ee&v=4" height="12" />
         <b>Raphael</b>
-    </a></td><td>@42-School</td><td>switzerland</td><td>81</td><td>5.42K</td></tr><tr><td>13</td><td><a href="https://github.com/matthiask">
+    </a></td><td>@42-School</td><td>switzerland</td><td>81</td><td>5.43K</td></tr><tr><td>13</td><td><a href="https://github.com/matthiask">
         <img src="https://avatars.githubusercontent.com/u/2627?s=72&u=857d87abc02f3fbd60c5dd37bb7a4cf7f86d8aa8&v=4" height="12" />
         <b>Matthias Kestenholz</b>
     </a></td><td>@feinheit</td><td>Zurich, Switzerland</td><td>277</td><td>5.03K</td></tr><tr><td>14</td><td><a href="https://github.com/marcbachmann">
@@ -109,7 +109,7 @@ github
     </a></td><td>Livingdocs AG @livingdocsIO </td><td>Zurich, Switzerland</td><td>242</td><td>4.77K</td></tr><tr><td>15</td><td><a href="https://github.com/felixfontein">
         <img src="https://avatars.githubusercontent.com/u/5781356?s=72&v=4" height="12" />
         <b>Felix Fontein</b>
-    </a></td><td>-</td><td>Switzerland</td><td>92</td><td>4.66K</td></tr><tr><td>16</td><td><a href="https://github.com/AndreaCensi">
+    </a></td><td>-</td><td>Switzerland</td><td>93</td><td>4.66K</td></tr><tr><td>16</td><td><a href="https://github.com/AndreaCensi">
         <img src="https://avatars.githubusercontent.com/u/81052?s=72&u=de9e9381e1029b93031242f1b7093c51af479e52&v=4" height="12" />
         <b>Andrea Censi</b>
     </a></td><td>ETH Zürich @idsc-frazzoli  & @duckietown </td><td>Zürich, Switzerland</td><td>356</td><td>4.54K</td></tr><tr><td>17</td><td><a href="https://github.com/pascalberger">
@@ -163,7 +163,7 @@ github
     </a></td><td>-</td><td>Switzerland</td><td>484</td><td>3.26K</td></tr><tr><td>33</td><td><a href="https://github.com/jrieken">
         <img src="https://avatars.githubusercontent.com/u/1794099?s=72&u=fd4a2d1f49f071ea5b9c3e9097fb9e36218b15af&v=4" height="12" />
         <b>Johannes Rieken</b>
-    </a></td><td>Microsoft</td><td>Switzerland</td><td>738</td><td>3.2K</td></tr><tr><td>34</td><td><a href="https://github.com/meienberger">
+    </a></td><td>Microsoft</td><td>Switzerland</td><td>782</td><td>3.2K</td></tr><tr><td>34</td><td><a href="https://github.com/meienberger">
         <img src="https://avatars.githubusercontent.com/u/47644445?s=72&u=7df62ac26a4aea30c143c51f0d5f0107933d8cc8&v=4" height="12" />
         <b>Nicolas Meienberger</b>
     </a></td><td>-</td><td>Switzerland</td><td>102</td><td>3.15K</td></tr><tr><td>35</td><td><a href="https://github.com/senny">
@@ -181,7 +181,7 @@ github
     </a></td><td>@jenkinsci contributor</td><td>Lausanne, Switzerland</td><td>79</td><td>3.05K</td></tr><tr><td>39</td><td><a href="https://github.com/tarsius">
         <img src="https://avatars.githubusercontent.com/u/25046?s=72&v=4" height="12" />
         <b>Jonas Bernoulli</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>1.2K</td><td>3.04K</td></tr><tr><td>40</td><td><a href="https://github.com/raphink">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>1.2K</td><td>3.05K</td></tr><tr><td>40</td><td><a href="https://github.com/raphink">
         <img src="https://avatars.githubusercontent.com/u/650430?s=72&v=4" height="12" />
         <b>Raphaël Pinson</b>
     </a></td><td>@isovalent</td><td>Lausanne, Switzerland</td><td>274</td><td>2.97K</td></tr><tr><td>41</td><td><a href="https://github.com/lszomoru">
@@ -358,16 +358,16 @@ github
     </a></td><td>Microsoft</td><td>Switzerland</td><td>342</td><td>1.9K</td></tr><tr><td>98</td><td><a href="https://github.com/romac">
         <img src="https://avatars.githubusercontent.com/u/106849?s=72&u=84677ec154fec9e4d04200cd0187e04693adc4c7&v=4" height="12" />
         <b>Romain Ruetschi</b>
-    </a></td><td>@informalsystems</td><td>Lausanne, Switzerland</td><td>262</td><td>1.89K</td></tr><tr><td>99</td><td><a href="https://github.com/ivan-aksamentov">
-        <img src="https://avatars.githubusercontent.com/u/9403403?s=72&u=937d4fd3ad9db48e5b3a641b45f95ea32cd18877&v=4" height="12" />
-        <b>Ivan Aksamentov</b>
-    </a></td><td>-</td><td>Switzerland</td><td>128</td><td>1.86K</td></tr><tr><td>100</td><td><a href="https://github.com/cloudlena">
-        <img src="https://avatars.githubusercontent.com/u/6780471?s=72&u=9d1c457f2f98ad0b39d4683e14424c78cddb887d&v=4" height="12" />
-        <b>Lena Fuhrimann</b>
-    </a></td><td>@bespinian  </td><td>Bern, Switzerland</td><td>100</td><td>1.86K</td></tr><tr><td>101</td><td><a href="https://github.com/infinisil">
+    </a></td><td>@informalsystems</td><td>Lausanne, Switzerland</td><td>262</td><td>1.89K</td></tr><tr><td>99</td><td><a href="https://github.com/infinisil">
         <img src="https://avatars.githubusercontent.com/u/20525370?s=72&u=3eca42cd1f8dd49002816cd842937abef0d1b030&v=4" height="12" />
         <b>Silvan Mosberger</b>
-    </a></td><td>Tweag</td><td>Switzerland</td><td>271</td><td>1.85K</td></tr><tr><td>102</td><td><a href="https://github.com/janikvonrotz">
+    </a></td><td>Tweag</td><td>Switzerland</td><td>271</td><td>1.87K</td></tr><tr><td>100</td><td><a href="https://github.com/ivan-aksamentov">
+        <img src="https://avatars.githubusercontent.com/u/9403403?s=72&u=937d4fd3ad9db48e5b3a641b45f95ea32cd18877&v=4" height="12" />
+        <b>Ivan Aksamentov</b>
+    </a></td><td>-</td><td>Switzerland</td><td>128</td><td>1.86K</td></tr><tr><td>101</td><td><a href="https://github.com/cloudlena">
+        <img src="https://avatars.githubusercontent.com/u/6780471?s=72&u=9d1c457f2f98ad0b39d4683e14424c78cddb887d&v=4" height="12" />
+        <b>Lena Fuhrimann</b>
+    </a></td><td>@bespinian  </td><td>Bern, Switzerland</td><td>100</td><td>1.86K</td></tr><tr><td>102</td><td><a href="https://github.com/janikvonrotz">
         <img src="https://avatars.githubusercontent.com/u/1370421?s=72&u=d02fe3852775c2ce8b4ae83ef430defad20ead45&v=4" height="12" />
         <b>Janik von Rotz</b>
     </a></td><td>-</td><td>Switzerland</td><td>187</td><td>1.85K</td></tr><tr><td>103</td><td><a href="https://github.com/nicolasstucki">
@@ -391,7 +391,7 @@ github
     </a></td><td>-</td><td>Switzerland</td><td>4.25K</td><td>1.74K</td></tr><tr><td>109</td><td><a href="https://github.com/LearningKijo">
         <img src="https://avatars.githubusercontent.com/u/120234772?s=72&u=8aec9c33a2897574baa6bd74763aa3e2bccbe85c&v=4" height="12" />
         <b>Kijo</b>
-    </a></td><td>-</td><td>Japan ~ Switzerland</td><td>151</td><td>1.74K</td></tr><tr><td>110</td><td><a href="https://github.com/gdalle">
+    </a></td><td>-</td><td>Japan ~ Switzerland</td><td>152</td><td>1.74K</td></tr><tr><td>110</td><td><a href="https://github.com/gdalle">
         <img src="https://avatars.githubusercontent.com/u/22795598?s=72&u=f2e448edb1e79720c999ccd5282d1124c9613ef3&v=4" height="12" />
         <b>Guillaume Dalle</b>
     </a></td><td>EPFL</td><td>Lausanne</td><td>238</td><td>1.71K</td></tr><tr><td>111</td><td><a href="https://github.com/mirek">
@@ -466,124 +466,124 @@ github
     </a></td><td>terminal42 gmbh</td><td>Switzerland</td><td>177</td><td>1.48K</td></tr><tr><td>134</td><td><a href="https://github.com/zouharvi">
         <img src="https://avatars.githubusercontent.com/u/7661193?s=72&u=275d03c60d5e8591bebf020f0f6b3863fe1db2c4&v=4" height="12" />
         <b>Vilém Zouhar</b>
-    </a></td><td>ETH Zürich</td><td>Zürich</td><td>91</td><td>1.46K</td></tr><tr><td>135</td><td><a href="https://github.com/eyenx">
-        <img src="https://avatars.githubusercontent.com/u/1947882?s=72&u=1754c8d2ff687c003d18f279f93217688d805346&v=4" height="12" />
-        <b>Toni Tauro</b>
-    </a></td><td>Adfinis AG</td><td>Basel, Switzerland</td><td>81</td><td>1.44K</td></tr><tr><td>136</td><td><a href="https://github.com/twpayne">
+    </a></td><td>ETH Zürich</td><td>Zürich</td><td>91</td><td>1.46K</td></tr><tr><td>135</td><td><a href="https://github.com/twpayne">
         <img src="https://avatars.githubusercontent.com/u/6942?s=72&u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4" height="12" />
         <b>Tom Payne</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>3.8K</td><td>1.44K</td></tr><tr><td>137</td><td><a href="https://github.com/gyglim">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>3.8K</td><td>1.45K</td></tr><tr><td>136</td><td><a href="https://github.com/gyglim">
         <img src="https://avatars.githubusercontent.com/u/11196049?s=72&u=e996d5ad13f05b39c073fa39f73d3fb1cc5e5bc8&v=4" height="12" />
         <b>Michael Gygli</b>
-    </a></td><td>Cerrion</td><td>Zurich, Switzerland</td><td>176</td><td>1.43K</td></tr><tr><td>138</td><td><a href="https://github.com/abertschi">
+    </a></td><td>Cerrion</td><td>Zurich, Switzerland</td><td>176</td><td>1.43K</td></tr><tr><td>137</td><td><a href="https://github.com/abertschi">
         <img src="https://avatars.githubusercontent.com/u/2311941?s=72&u=d363f0988975b9590500b7f64a2218a7543d5a43&v=4" height="12" />
         <b>Andrin Bertschi</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>151</td><td>1.42K</td></tr><tr><td>139</td><td><a href="https://github.com/dmonn">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>151</td><td>1.42K</td></tr><tr><td>138</td><td><a href="https://github.com/dmonn">
         <img src="https://avatars.githubusercontent.com/u/6407031?s=72&u=ae39a100455ed7014318d687ad24a758e4b0926d&v=4" height="12" />
         <b>Dominic Monn</b>
-    </a></td><td>@mentorcruise</td><td>Switzerland</td><td>101</td><td>1.4K</td></tr><tr><td>140</td><td><a href="https://github.com/pvizeli">
+    </a></td><td>@mentorcruise</td><td>Switzerland</td><td>101</td><td>1.4K</td></tr><tr><td>139</td><td><a href="https://github.com/pvizeli">
         <img src="https://avatars.githubusercontent.com/u/15338540?s=72&u=610c2bc2f528d62761ee2792799a85608fd42234&v=4" height="12" />
         <b>Pascal Vizeli</b>
-    </a></td><td>@NabuCasa</td><td>Switzerland, Bern</td><td>415</td><td>1.4K</td></tr><tr><td>141</td><td><a href="https://github.com/breml">
+    </a></td><td>@NabuCasa</td><td>Switzerland, Bern</td><td>415</td><td>1.4K</td></tr><tr><td>140</td><td><a href="https://github.com/breml">
         <img src="https://avatars.githubusercontent.com/u/6205217?s=72&u=ddaccd56a7384572a1d80b85e204dad293d80c9d&v=4" height="12" />
         <b>Lucas Bremgartner</b>
-    </a></td><td>-</td><td>Switzerland</td><td>111</td><td>1.37K</td></tr><tr><td>142</td><td><a href="https://github.com/PhilippSalvisberg">
+    </a></td><td>-</td><td>Switzerland</td><td>111</td><td>1.37K</td></tr><tr><td>141</td><td><a href="https://github.com/PhilippSalvisberg">
         <img src="https://avatars.githubusercontent.com/u/3883171?s=72&u=effaa5f8d65022d5c41c4c7e8dc6d1099b579efd&v=4" height="12" />
         <b>Philipp Salvisberg</b>
-    </a></td><td>Accenture</td><td>Winterthur, Switzerland</td><td>94</td><td>1.36K</td></tr><tr><td>143</td><td><a href="https://github.com/OmeGak">
+    </a></td><td>Accenture</td><td>Winterthur, Switzerland</td><td>94</td><td>1.36K</td></tr><tr><td>142</td><td><a href="https://github.com/OmeGak">
         <img src="https://avatars.githubusercontent.com/u/716307?s=72&u=aab79379d0c45caf55aaa161ca0812d10c09048a&v=4" height="12" />
         <b>Alejandro Avilés</b>
-    </a></td><td>@unconventionaldotdev </td><td>Geneva, Switzerland</td><td>81</td><td>1.36K</td></tr><tr><td>144</td><td><a href="https://github.com/GianlucaGuarini">
+    </a></td><td>@unconventionaldotdev </td><td>Geneva, Switzerland</td><td>81</td><td>1.36K</td></tr><tr><td>143</td><td><a href="https://github.com/GianlucaGuarini">
         <img src="https://avatars.githubusercontent.com/u/879612?s=72&u=9fab638262fe74bb1ef3b5b6e626f358dadd7eca&v=4" height="12" />
         <b>Gianluca Guarini</b>
-    </a></td><td>-</td><td>Switzerland</td><td>570</td><td>1.35K</td></tr><tr><td>145</td><td><a href="https://github.com/rombert">
+    </a></td><td>-</td><td>Switzerland</td><td>570</td><td>1.35K</td></tr><tr><td>144</td><td><a href="https://github.com/rombert">
         <img src="https://avatars.githubusercontent.com/u/21237?s=72&v=4" height="12" />
         <b>Robert Munteanu</b>
-    </a></td><td>@adobe </td><td>Switzerland</td><td>88</td><td>1.34K</td></tr><tr><td>146</td><td><a href="https://github.com/chrisjsewell">
+    </a></td><td>@adobe </td><td>Switzerland</td><td>88</td><td>1.34K</td></tr><tr><td>145</td><td><a href="https://github.com/chrisjsewell">
         <img src="https://avatars.githubusercontent.com/u/2997570?s=72&u=860d4133d1d244eaa48b2ab1f3347c3a6bddba53&v=4" height="12" />
         <b>Chris Sewell</b>
-    </a></td><td>École Polytechnique Fédérale de Lausanne</td><td>Switzerland</td><td>153</td><td>1.34K</td></tr><tr><td>147</td><td><a href="https://github.com/harababurel">
+    </a></td><td>École Polytechnique Fédérale de Lausanne</td><td>Switzerland</td><td>153</td><td>1.34K</td></tr><tr><td>146</td><td><a href="https://github.com/harababurel">
         <img src="https://avatars.githubusercontent.com/u/8619823?s=72&u=f3210d3fcda05b6be22bb189587137649c2fd8a9&v=4" height="12" />
         <b>Sergiu Pușcaș</b>
-    </a></td><td>-</td><td>Zürich</td><td>94</td><td>1.32K</td></tr><tr><td>148</td><td><a href="https://github.com/gschmutz">
+    </a></td><td>-</td><td>Zürich</td><td>94</td><td>1.32K</td></tr><tr><td>147</td><td><a href="https://github.com/gschmutz">
         <img src="https://avatars.githubusercontent.com/u/3357942?s=72&v=4" height="12" />
         <b>Guido Schmutz</b>
-    </a></td><td>Accenture</td><td>Berne, Switzerland</td><td>93</td><td>1.31K</td></tr><tr><td>149</td><td><a href="https://github.com/MasterScrat">
+    </a></td><td>Accenture</td><td>Berne, Switzerland</td><td>93</td><td>1.31K</td></tr><tr><td>148</td><td><a href="https://github.com/MasterScrat">
         <img src="https://avatars.githubusercontent.com/u/140592?s=72&u=260e75d2051318e1a5582bd6bc087d4ef4f75209&v=4" height="12" />
         <b>Florian</b>
-    </a></td><td>-</td><td>Switzerland</td><td>131</td><td>1.31K</td></tr><tr><td>150</td><td><a href="https://github.com/m-kuhn">
+    </a></td><td>-</td><td>Switzerland</td><td>131</td><td>1.31K</td></tr><tr><td>149</td><td><a href="https://github.com/m-kuhn">
         <img src="https://avatars.githubusercontent.com/u/588407?s=72&u=ad5df5522dafe2a5b1b6b5cbebf2abc18e0f9d50&v=4" height="12" />
         <b>Matthias Kuhn</b>
-    </a></td><td>OPENGIS.ch</td><td>Switzerland</td><td>145</td><td>1.3K</td></tr><tr><td>151</td><td><a href="https://github.com/cansik">
+    </a></td><td>OPENGIS.ch</td><td>Switzerland</td><td>145</td><td>1.3K</td></tr><tr><td>150</td><td><a href="https://github.com/cansik">
         <img src="https://avatars.githubusercontent.com/u/5220162?s=72&u=4bdc693c7aa621bb94c34c44a262434de1f997a5&v=4" height="12" />
         <b>Florian Bruggisser</b>
-    </a></td><td>@bildspur </td><td>Zurich, Switzerland</td><td>328</td><td>1.28K</td></tr><tr><td>152</td><td><a href="https://github.com/habi">
+    </a></td><td>@bildspur </td><td>Zurich, Switzerland</td><td>328</td><td>1.28K</td></tr><tr><td>151</td><td><a href="https://github.com/habi">
         <img src="https://avatars.githubusercontent.com/u/1651235?s=72&u=d5b4dbde9c9d1fdc9628ec192c90c950626fcb16&v=4" height="12" />
         <b>David Haberthür</b>
-    </a></td><td>Institute of Anatomy, Unversity of Bern, Switzerland</td><td>Bern, Switzerland</td><td>76</td><td>1.27K</td></tr><tr><td>153</td><td><a href="https://github.com/sbrannen">
+    </a></td><td>Institute of Anatomy, Unversity of Bern, Switzerland</td><td>Bern, Switzerland</td><td>76</td><td>1.27K</td></tr><tr><td>152</td><td><a href="https://github.com/sbrannen">
         <img src="https://avatars.githubusercontent.com/u/104798?s=72&u=e316a3b9d5ae74c3b31ace1a8361c90e84481daf&v=4" height="12" />
         <b>Sam Brannen</b>
-    </a></td><td>VMware</td><td>Zurich, Switzerland</td><td>1.1K</td><td>1.26K</td></tr><tr><td>154</td><td><a href="https://github.com/cakebaker">
+    </a></td><td>VMware</td><td>Zurich, Switzerland</td><td>1.1K</td><td>1.26K</td></tr><tr><td>153</td><td><a href="https://github.com/cakebaker">
         <img src="https://avatars.githubusercontent.com/u/26196?s=72&v=4" height="12" />
         <b>Daniel Hofstetter</b>
-    </a></td><td>-</td><td>Switzerland</td><td>102</td><td>1.26K</td></tr><tr><td>155</td><td><a href="https://github.com/matthias-springer">
+    </a></td><td>-</td><td>Switzerland</td><td>102</td><td>1.26K</td></tr><tr><td>154</td><td><a href="https://github.com/matthias-springer">
         <img src="https://avatars.githubusercontent.com/u/2033320?s=72&u=395b6d7b7c88e2174685db375da0d619fa7e88a7&v=4" height="12" />
         <b>Matthias Springer</b>
-    </a></td><td>Google</td><td>Zurich, Switzerland</td><td>99</td><td>1.26K</td></tr><tr><td>156</td><td><a href="https://github.com/fabian">
+    </a></td><td>Google</td><td>Zurich, Switzerland</td><td>99</td><td>1.26K</td></tr><tr><td>155</td><td><a href="https://github.com/fabian">
         <img src="https://avatars.githubusercontent.com/u/13346?s=72&v=4" height="12" />
         <b>Fabian Vogler</b>
-    </a></td><td>@WorldSkills International</td><td>Baden, Switzerland</td><td>148</td><td>1.26K</td></tr><tr><td>157</td><td><a href="https://github.com/maria-korosteleva">
+    </a></td><td>@WorldSkills International</td><td>Baden, Switzerland</td><td>148</td><td>1.26K</td></tr><tr><td>156</td><td><a href="https://github.com/maria-korosteleva">
         <img src="https://avatars.githubusercontent.com/u/6837635?s=72&u=e50e64becbe0920e6e568bd788b8710fba4a384e&v=4" height="12" />
         <b>Maria Korosteleva</b>
-    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>94</td><td>1.25K</td></tr><tr><td>158</td><td><a href="https://github.com/RMeli">
+    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>94</td><td>1.25K</td></tr><tr><td>157</td><td><a href="https://github.com/RMeli">
         <img src="https://avatars.githubusercontent.com/u/11348981?s=72&u=9aa6fa4f12cd4140509e9b25b6c78853fef089be&v=4" height="12" />
         <b>Rocco Meli</b>
-    </a></td><td>@eth-cscs</td><td>Zurich, Switzerland</td><td>135</td><td>1.25K</td></tr><tr><td>159</td><td><a href="https://github.com/gandro">
+    </a></td><td>@eth-cscs</td><td>Zurich, Switzerland</td><td>135</td><td>1.25K</td></tr><tr><td>158</td><td><a href="https://github.com/gandro">
         <img src="https://avatars.githubusercontent.com/u/50564?s=72&u=fe519d02560866230034aaf9af4b3fdb022f2b15&v=4" height="12" />
         <b>Sebastian Wicki</b>
-    </a></td><td>-</td><td>Switzerland</td><td>126</td><td>1.25K</td></tr><tr><td>160</td><td><a href="https://github.com/ilyabo">
+    </a></td><td>-</td><td>Switzerland</td><td>126</td><td>1.25K</td></tr><tr><td>159</td><td><a href="https://github.com/ilyabo">
         <img src="https://avatars.githubusercontent.com/u/351828?s=72&u=e681513c0ae3676718cc1bd0b84bdc78932de4da&v=4" height="12" />
         <b>Ilya Boyandin</b>
-    </a></td><td>@UnfoldedInc </td><td>Switzerland</td><td>150</td><td>1.25K</td></tr><tr><td>161</td><td><a href="https://github.com/lewtun">
+    </a></td><td>@UnfoldedInc </td><td>Switzerland</td><td>150</td><td>1.25K</td></tr><tr><td>160</td><td><a href="https://github.com/lewtun">
         <img src="https://avatars.githubusercontent.com/u/26859204?s=72&u=ca50a1595bbb6ace36c3adb39c40e186265184d3&v=4" height="12" />
         <b>lewtun</b>
-    </a></td><td>@huggingface</td><td>Bern, Switzerland</td><td>764</td><td>1.23K</td></tr><tr><td>162</td><td><a href="https://github.com/fandreuz">
+    </a></td><td>@huggingface</td><td>Bern, Switzerland</td><td>764</td><td>1.23K</td></tr><tr><td>161</td><td><a href="https://github.com/fandreuz">
         <img src="https://avatars.githubusercontent.com/u/8464342?s=72&u=6ac1fec3142f8532cd61bcb653faaa422d04e071&v=4" height="12" />
         <b>Francesco Andreuzzi</b>
-    </a></td><td>CERN</td><td>Geneva, Switzerland</td><td>229</td><td>1.23K</td></tr><tr><td>163</td><td><a href="https://github.com/tomchop">
+    </a></td><td>CERN</td><td>Geneva, Switzerland</td><td>229</td><td>1.23K</td></tr><tr><td>162</td><td><a href="https://github.com/tomchop">
         <img src="https://avatars.githubusercontent.com/u/1257972?s=72&u=ec3b2670d54ac8f81742d1830d6d971326d91686&v=4" height="12" />
         <b>Thomas Chopitea</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>273</td><td>1.22K</td></tr><tr><td>164</td><td><a href="https://github.com/linkdotnet">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>273</td><td>1.22K</td></tr><tr><td>163</td><td><a href="https://github.com/linkdotnet">
         <img src="https://avatars.githubusercontent.com/u/26365461?s=72&u=238dc4ed7ac1fd161ae17e582cf5b7e753621f16&v=4" height="12" />
         <b>Steven Giesel</b>
-    </a></td><td>Giesel Engieering</td><td>Switzerland</td><td>422</td><td>1.19K</td></tr><tr><td>165</td><td><a href="https://github.com/meodai">
+    </a></td><td>Giesel Engieering</td><td>Switzerland</td><td>422</td><td>1.19K</td></tr><tr><td>164</td><td><a href="https://github.com/meodai">
         <img src="https://avatars.githubusercontent.com/u/608386?s=72&u=e0af7daa6c755b64e2ddf03ee2046ac708ca4f51&v=4" height="12" />
         <b>David Aerne</b>
-    </a></td><td>elastiq</td><td>Zürich</td><td>465</td><td>1.18K</td></tr><tr><td>166</td><td><a href="https://github.com/veebch">
+    </a></td><td>elastiq</td><td>Zürich</td><td>465</td><td>1.19K</td></tr><tr><td>165</td><td><a href="https://github.com/veebch">
         <img src="https://avatars.githubusercontent.com/u/75116070?s=72&u=26698a14004b24cdb3e5c6626051c8cc33548696&v=4" height="12" />
         <b>VEEB Projects</b>
-    </a></td><td>VEEB Projects</td><td>Switzerland</td><td>144</td><td>1.18K</td></tr><tr><td>167</td><td><a href="https://github.com/hfp">
+    </a></td><td>VEEB Projects</td><td>Switzerland</td><td>144</td><td>1.18K</td></tr><tr><td>166</td><td><a href="https://github.com/hfp">
         <img src="https://avatars.githubusercontent.com/u/6748085?s=72&v=4" height="12" />
         <b>Hans Pabst</b>
-    </a></td><td>Intel Parallel Computing Lab</td><td>Zurich / Switzerland</td><td>120</td><td>1.17K</td></tr><tr><td>168</td><td><a href="https://github.com/mvisonneau">
+    </a></td><td>Intel Parallel Computing Lab</td><td>Zurich / Switzerland</td><td>120</td><td>1.17K</td></tr><tr><td>167</td><td><a href="https://github.com/mvisonneau">
         <img src="https://avatars.githubusercontent.com/u/1761583?s=72&u=29fa6a078c69792745f241167dd925af781a60a4&v=4" height="12" />
         <b>Maxime VISONNEAU</b>
-    </a></td><td>@datadog, ex-@twitter</td><td>Switzerland</td><td>74</td><td>1.17K</td></tr><tr><td>169</td><td><a href="https://github.com/luangjokaj">
+    </a></td><td>@datadog, ex-@twitter</td><td>Switzerland</td><td>74</td><td>1.17K</td></tr><tr><td>168</td><td><a href="https://github.com/luangjokaj">
         <img src="https://avatars.githubusercontent.com/u/6809696?s=72&u=a8b2bbb9d712cb85ccf6741194bab1af8f5f9663&v=4" height="12" />
         <b>Luan Gjokaj</b>
-    </a></td><td>@DEEP-IMPACT-AG</td><td>Zürich, Switzerland.</td><td>120</td><td>1.17K</td></tr><tr><td>170</td><td><a href="https://github.com/abey79">
+    </a></td><td>@DEEP-IMPACT-AG</td><td>Zürich, Switzerland.</td><td>120</td><td>1.17K</td></tr><tr><td>169</td><td><a href="https://github.com/abey79">
         <img src="https://avatars.githubusercontent.com/u/49431240?s=72&u=5148fbf93b4a75ca6a783142ed771506a6cdf051&v=4" height="12" />
         <b>Antoine Beyeler</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>114</td><td>1.16K</td></tr><tr><td>171</td><td><a href="https://github.com/sapandiwakar">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>114</td><td>1.16K</td></tr><tr><td>170</td><td><a href="https://github.com/sapandiwakar">
         <img src="https://avatars.githubusercontent.com/u/814363?s=72&u=d66eedfa6a62e9ae7e3efc43951d989e447b87f8&v=4" height="12" />
         <b>Sapan Diwakar</b>
-    </a></td><td>Ecole Polytechnique Federale de Lausanne</td><td>Lausanne, Switzerland</td><td>98</td><td>1.16K</td></tr><tr><td>172</td><td><a href="https://github.com/pavolloffay">
-        <img src="https://avatars.githubusercontent.com/u/5618424?s=72&u=9a7177cd549704a44436742ba74deee1e58075d9&v=4" height="12" />
-        <b>Pavol Loffay</b>
-    </a></td><td>Red Hat</td><td>Suisse</td><td>263</td><td>1.16K</td></tr><tr><td>173</td><td><a href="https://github.com/zifeo">
+    </a></td><td>Ecole Polytechnique Federale de Lausanne</td><td>Lausanne, Switzerland</td><td>98</td><td>1.16K</td></tr><tr><td>171</td><td><a href="https://github.com/zifeo">
         <img src="https://avatars.githubusercontent.com/u/9053709?s=72&u=a6edf025116d0365873e27074c9920d448ea1801&v=4" height="12" />
         <b>Teo Stocco</b>
-    </a></td><td>Exponent.ch</td><td>Switzerland</td><td>140</td><td>1.16K</td></tr><tr><td>174</td><td><a href="https://github.com/greschd">
+    </a></td><td>Exponent.ch</td><td>Switzerland</td><td>140</td><td>1.16K</td></tr><tr><td>172</td><td><a href="https://github.com/pavolloffay">
+        <img src="https://avatars.githubusercontent.com/u/5618424?s=72&u=9a7177cd549704a44436742ba74deee1e58075d9&v=4" height="12" />
+        <b>Pavol Loffay</b>
+    </a></td><td>Red Hat</td><td>Suisse</td><td>263</td><td>1.16K</td></tr><tr><td>173</td><td><a href="https://github.com/stephband">
+        <img src="https://avatars.githubusercontent.com/u/69022?s=72&v=4" height="12" />
+        <b>stephband</b>
+    </a></td><td>http://cruncher.ch</td><td>Lausanne, Switzerland</td><td>206</td><td>1.15K</td></tr><tr><td>174</td><td><a href="https://github.com/greschd">
         <img src="https://avatars.githubusercontent.com/u/5692808?s=72&u=d181741cce86f9ebd2df135f2ddd497eb175bafe&v=4" height="12" />
         <b>Dominik Gresch</b>
     </a></td><td>@ansys </td><td>Zurich, Switzerland</td><td>111</td><td>1.15K</td></tr><tr><td>175</td><td><a href="https://github.com/Mayankm96">
@@ -592,493 +592,493 @@ github
     </a></td><td>@leggedrobotics</td><td>ETH Zurich, Switzerland</td><td>156</td><td>1.15K</td></tr><tr><td>176</td><td><a href="https://github.com/definelicht">
         <img src="https://avatars.githubusercontent.com/u/2845320?s=72&v=4" height="12" />
         <b>Johannes de Fine Licht</b>
-    </a></td><td>NextSilicon</td><td>Zurich, Switzerland</td><td>77</td><td>1.14K</td></tr><tr><td>177</td><td><a href="https://github.com/stephband">
-        <img src="https://avatars.githubusercontent.com/u/69022?s=72&v=4" height="12" />
-        <b>stephband</b>
-    </a></td><td>http://cruncher.ch</td><td>Lausanne, Switzerland</td><td>206</td><td>1.14K</td></tr><tr><td>178</td><td><a href="https://github.com/joeroe">
+    </a></td><td>NextSilicon</td><td>Zurich, Switzerland</td><td>77</td><td>1.14K</td></tr><tr><td>177</td><td><a href="https://github.com/joeroe">
         <img src="https://avatars.githubusercontent.com/u/6751089?s=72&u=02e1067f2b858620f5b86e81791bda95dcd62430&v=4" height="12" />
         <b>Joe Roe</b>
-    </a></td><td>Institute for Archaeological Sciences, University of Bern</td><td>Bern, Switzerland</td><td>92</td><td>1.13K</td></tr><tr><td>179</td><td><a href="https://github.com/galderz">
+    </a></td><td>Institute for Archaeological Sciences, University of Bern</td><td>Bern, Switzerland</td><td>92</td><td>1.13K</td></tr><tr><td>178</td><td><a href="https://github.com/galderz">
         <img src="https://avatars.githubusercontent.com/u/50187?s=72&u=38f12ae59a64c4163366fc2b6084257e26ffd668&v=4" height="12" />
         <b>Galder Zamarreño</b>
-    </a></td><td>Red Hat</td><td>Basel, Switzerland</td><td>120</td><td>1.12K</td></tr><tr><td>180</td><td><a href="https://github.com/brb">
+    </a></td><td>Red Hat</td><td>Basel, Switzerland</td><td>120</td><td>1.12K</td></tr><tr><td>179</td><td><a href="https://github.com/brb">
         <img src="https://avatars.githubusercontent.com/u/122571?s=72&u=4036c0889fe6281c65f7486d773b00f49643bb21&v=4" height="12" />
         <b>Martynas Pumputis</b>
-    </a></td><td>-</td><td>Switzerland</td><td>156</td><td>1.12K</td></tr><tr><td>181</td><td><a href="https://github.com/cloudhead">
+    </a></td><td>-</td><td>Switzerland</td><td>156</td><td>1.12K</td></tr><tr><td>180</td><td><a href="https://github.com/cloudhead">
         <img src="https://avatars.githubusercontent.com/u/40774?s=72&v=4" height="12" />
         <b>Alexis Sellier</b>
-    </a></td><td>Radicle</td><td>Switzerland</td><td>3.3K</td><td>1.1K</td></tr><tr><td>182</td><td><a href="https://github.com/defagos">
+    </a></td><td>Radicle</td><td>Switzerland</td><td>3.3K</td><td>1.1K</td></tr><tr><td>181</td><td><a href="https://github.com/defagos">
         <img src="https://avatars.githubusercontent.com/u/170201?s=72&v=4" height="12" />
         <b>Samuel Défago</b>
-    </a></td><td>RTS Radio Télévision Suisse / SRG SSR</td><td>Geneva (Switzerland)</td><td>180</td><td>1.08K</td></tr><tr><td>183</td><td><a href="https://github.com/Neo-Oli">
+    </a></td><td>RTS Radio Télévision Suisse / SRG SSR</td><td>Geneva (Switzerland)</td><td>180</td><td>1.08K</td></tr><tr><td>182</td><td><a href="https://github.com/Neo-Oli">
         <img src="https://avatars.githubusercontent.com/u/7983745?s=72&u=3401cbadc1f07ec4a967c3b293d5851832caf7c8&v=4" height="12" />
         <b>glow</b>
-    </a></td><td>@swissredcross</td><td>Bern, Switzerland</td><td>564</td><td>1.07K</td></tr><tr><td>184</td><td><a href="https://github.com/dcharkes">
+    </a></td><td>@swissredcross</td><td>Bern, Switzerland</td><td>564</td><td>1.07K</td></tr><tr><td>183</td><td><a href="https://github.com/dcharkes">
         <img src="https://avatars.githubusercontent.com/u/3601775?s=72&u=0530ce5eee2857f30b5960dce516be06d90e39e7&v=4" height="12" />
         <b>Daco Harkes</b>
-    </a></td><td>Google</td><td>Switzerland</td><td>152</td><td>1.07K</td></tr><tr><td>185</td><td><a href="https://github.com/RobertCsordas">
+    </a></td><td>Google</td><td>Switzerland</td><td>152</td><td>1.07K</td></tr><tr><td>184</td><td><a href="https://github.com/RobertCsordas">
         <img src="https://avatars.githubusercontent.com/u/2706617?s=72&u=6530d04d2ef23b26cbf34b844a6dd7fa38d9526c&v=4" height="12" />
         <b>Csordás Róbert</b>
-    </a></td><td>IDSIA</td><td>Lugano, Switzerland</td><td>102</td><td>1.06K</td></tr><tr><td>186</td><td><a href="https://github.com/cdecker">
+    </a></td><td>IDSIA</td><td>Lugano, Switzerland</td><td>102</td><td>1.06K</td></tr><tr><td>185</td><td><a href="https://github.com/cdecker">
         <img src="https://avatars.githubusercontent.com/u/120117?s=72&u=bc9b687aa99396b5b543ddb4147683926caf80d2&v=4" height="12" />
         <b>Christian Decker</b>
-    </a></td><td>@Blockstream </td><td>Zurich, Switzerland</td><td>549</td><td>1.05K</td></tr><tr><td>187</td><td><a href="https://github.com/mmagician">
+    </a></td><td>@Blockstream </td><td>Zurich, Switzerland</td><td>549</td><td>1.05K</td></tr><tr><td>186</td><td><a href="https://github.com/mmagician">
         <img src="https://avatars.githubusercontent.com/u/8402446?s=72&u=9ff07c90cc49ab6139a7d2b0aeaa4f6aba94d940&v=4" height="12" />
         <b>mmagician</b>
-    </a></td><td>Hungry Cats Studio GmbH</td><td>Switzerland</td><td>118</td><td>1.04K</td></tr><tr><td>188</td><td><a href="https://github.com/dbaeumer">
+    </a></td><td>Hungry Cats Studio GmbH</td><td>Switzerland</td><td>118</td><td>1.04K</td></tr><tr><td>187</td><td><a href="https://github.com/dbaeumer">
         <img src="https://avatars.githubusercontent.com/u/1931590?s=72&u=42e6e26369606542d3f3d86805b09bcc1de45bcc&v=4" height="12" />
         <b>Dirk Bäumer</b>
-    </a></td><td>Microsoft</td><td>Switzerland</td><td>343</td><td>1.04K</td></tr><tr><td>189</td><td><a href="https://github.com/izuzak">
+    </a></td><td>Microsoft</td><td>Switzerland</td><td>343</td><td>1.04K</td></tr><tr><td>188</td><td><a href="https://github.com/izuzak">
         <img src="https://avatars.githubusercontent.com/u/38924?s=72&u=7018f705d9c21be1ea7758aa40a5ff574460f3fa&v=4" height="12" />
         <b>Ivan Žužak</b>
-    </a></td><td>@github</td><td>Zurich, Switzerland</td><td>560</td><td>1.04K</td></tr><tr><td>190</td><td><a href="https://github.com/FrancescoSaverioZuppichini">
+    </a></td><td>@github</td><td>Zurich, Switzerland</td><td>560</td><td>1.04K</td></tr><tr><td>189</td><td><a href="https://github.com/FrancescoSaverioZuppichini">
         <img src="https://avatars.githubusercontent.com/u/15908060?s=72&u=45659c766b2721ce84e903e54ed25c21409a01a4&v=4" height="12" />
         <b>Francesco Saverio Zuppichini</b>
-    </a></td><td>roboflow</td><td>Lugano, Switzerland</td><td>951</td><td>1.03K</td></tr><tr><td>191</td><td><a href="https://github.com/kreuzerk">
+    </a></td><td>roboflow</td><td>Lugano, Switzerland</td><td>951</td><td>1.03K</td></tr><tr><td>190</td><td><a href="https://github.com/kreuzerk">
         <img src="https://avatars.githubusercontent.com/u/5468954?s=72&u=39a0de276269154508e4d533b8cbe15fab515dee&v=4" height="12" />
         <b>Nivek</b>
-    </a></td><td>-</td><td>Switzerland</td><td>317</td><td>1.03K</td></tr><tr><td>192</td><td><a href="https://github.com/gasi">
+    </a></td><td>-</td><td>Switzerland</td><td>317</td><td>1.03K</td></tr><tr><td>191</td><td><a href="https://github.com/gasi">
         <img src="https://avatars.githubusercontent.com/u/49583?s=72&u=77de87660afd96f0d683bf6cf440b34f7377b92e&v=4" height="12" />
         <b>Daniel Gasienica</b>
-    </a></td><td>CollegeVine / iET</td><td>Zürich, Switzerland</td><td>145</td><td>1.02K</td></tr><tr><td>193</td><td><a href="https://github.com/loleg">
+    </a></td><td>CollegeVine / iET</td><td>Zürich, Switzerland</td><td>145</td><td>1.02K</td></tr><tr><td>192</td><td><a href="https://github.com/loleg">
         <img src="https://avatars.githubusercontent.com/u/31819?s=72&u=55865d13fbc238e1bb374cc3f7f89b64727710e0&v=4" height="12" />
         <b>Oleg Lavrovsky</b>
-    </a></td><td>@datalets @dribdat @proxeusapp @opendatach</td><td>Bern, Switzerland</td><td>255</td><td>1.02K</td></tr><tr><td>194</td><td><a href="https://github.com/mike-engel">
+    </a></td><td>@datalets @dribdat @proxeusapp @opendatach</td><td>Bern, Switzerland</td><td>255</td><td>1.02K</td></tr><tr><td>193</td><td><a href="https://github.com/mike-engel">
         <img src="https://avatars.githubusercontent.com/u/464447?s=72&u=73a4dd2d1468fd5a18f314bc114d2d9bee6bf4a0&v=4" height="12" />
         <b>Mike Engel</b>
-    </a></td><td>@customerio </td><td>Zürich, CH</td><td>107</td><td>1.01K</td></tr><tr><td>195</td><td><a href="https://github.com/pleonex">
+    </a></td><td>@customerio </td><td>Zürich, CH</td><td>107</td><td>1.01K</td></tr><tr><td>194</td><td><a href="https://github.com/pleonex">
         <img src="https://avatars.githubusercontent.com/u/3107481?s=72&u=ed7e651fbe4d2ac787db7d788d7c8b462b4cb08c&v=4" height="12" />
         <b>Benito Palacios Sánchez</b>
-    </a></td><td>-</td><td>Lutry, Switzerland</td><td>117</td><td>1.01K</td></tr><tr><td>196</td><td><a href="https://github.com/wjakob">
+    </a></td><td>-</td><td>Lutry, Switzerland</td><td>117</td><td>1.01K</td></tr><tr><td>195</td><td><a href="https://github.com/wjakob">
         <img src="https://avatars.githubusercontent.com/u/1203629?s=72&u=42d816bc7194889b0372881656b4792c536fff69&v=4" height="12" />
         <b>Wenzel Jakob</b>
-    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>2.57K</td><td>1.01K</td></tr><tr><td>197</td><td><a href="https://github.com/yperbasis">
+    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>2.57K</td><td>1.01K</td></tr><tr><td>196</td><td><a href="https://github.com/yperbasis">
         <img src="https://avatars.githubusercontent.com/u/34320705?s=72&u=318f5ae605b6fff6696f51b50978493c411b23f3&v=4" height="12" />
         <b>Andrew Ashikhmin</b>
-    </a></td><td>Erigon</td><td>Basel, Switzerland</td><td>87</td><td>997</td></tr><tr><td>198</td><td><a href="https://github.com/cronokirby">
+    </a></td><td>Erigon</td><td>Basel, Switzerland</td><td>87</td><td>997</td></tr><tr><td>197</td><td><a href="https://github.com/cronokirby">
         <img src="https://avatars.githubusercontent.com/u/22821947?s=72&u=2dfbf02233e66ca361b476f32295a0a34dd80c6b&v=4" height="12" />
         <b>Lúcás Meier</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>383</td><td>996</td></tr><tr><td>199</td><td><a href="https://github.com/ThiefMaster">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>383</td><td>996</td></tr><tr><td>198</td><td><a href="https://github.com/ThiefMaster">
         <img src="https://avatars.githubusercontent.com/u/179599?s=72&v=4" height="12" />
         <b>Adrian</b>
-    </a></td><td>CERN / @indico </td><td>Geneva, Switzerland</td><td>411</td><td>993</td></tr><tr><td>200</td><td><a href="https://github.com/MaEtUgR">
+    </a></td><td>CERN / @indico </td><td>Geneva, Switzerland</td><td>411</td><td>993</td></tr><tr><td>199</td><td><a href="https://github.com/MaEtUgR">
         <img src="https://avatars.githubusercontent.com/u/4668506?s=72&u=24eb4e41b549cb21470180aedc53e1633904aed7&v=4" height="12" />
         <b>Matthias Grob</b>
-    </a></td><td>Auterion</td><td>Zürich, Switzerland</td><td>89</td><td>992</td></tr><tr><td>201</td><td><a href="https://github.com/kmdouglass">
+    </a></td><td>Auterion</td><td>Zürich, Switzerland</td><td>89</td><td>992</td></tr><tr><td>200</td><td><a href="https://github.com/kmdouglass">
         <img src="https://avatars.githubusercontent.com/u/3697676?s=72&u=f6b738d9ded69537a6c1021efd971fa42a4e5b73&v=4" height="12" />
         <b>Kyle M. Douglass</b>
-    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>82</td><td>989</td></tr><tr><td>202</td><td><a href="https://github.com/rserban">
+    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>82</td><td>989</td></tr><tr><td>201</td><td><a href="https://github.com/rserban">
         <img src="https://avatars.githubusercontent.com/u/3801699?s=72&v=4" height="12" />
         <b>Radu Serban</b>
-    </a></td><td>University of Wisconsin - Madison</td><td>Zurich, Switzerland</td><td>79</td><td>986</td></tr><tr><td>203</td><td><a href="https://github.com/dbu">
+    </a></td><td>University of Wisconsin - Madison</td><td>Zurich, Switzerland</td><td>79</td><td>986</td></tr><tr><td>202</td><td><a href="https://github.com/dbu">
         <img src="https://avatars.githubusercontent.com/u/76576?s=72&v=4" height="12" />
         <b>David Buchmann</b>
-    </a></td><td>Liip AG</td><td>Switzerland</td><td>424</td><td>968</td></tr><tr><td>204</td><td><a href="https://github.com/maxkueng">
+    </a></td><td>Liip AG</td><td>Switzerland</td><td>424</td><td>968</td></tr><tr><td>203</td><td><a href="https://github.com/maxkueng">
         <img src="https://avatars.githubusercontent.com/u/168709?s=72&v=4" height="12" />
         <b>Max Kueng</b>
-    </a></td><td>@smallpdf</td><td>Zurich, Switzerland</td><td>117</td><td>962</td></tr><tr><td>205</td><td><a href="https://github.com/luraess">
+    </a></td><td>@smallpdf</td><td>Zurich, Switzerland</td><td>117</td><td>962</td></tr><tr><td>204</td><td><a href="https://github.com/luraess">
         <img src="https://avatars.githubusercontent.com/u/61313342?s=72&u=269202324686c5679a17740cd78e4674ab3af624&v=4" height="12" />
         <b>Ludovic Räss</b>
-    </a></td><td>University of Lausanne</td><td>Lausanne, Switzerland</td><td>86</td><td>962</td></tr><tr><td>206</td><td><a href="https://github.com/DivadNojnarg">
+    </a></td><td>University of Lausanne</td><td>Lausanne, Switzerland</td><td>86</td><td>962</td></tr><tr><td>205</td><td><a href="https://github.com/DivadNojnarg">
         <img src="https://avatars.githubusercontent.com/u/18291543?s=72&u=0da9d626a1ee5982125af8fb93cc5cb292013975&v=4" height="12" />
         <b>David Granjon</b>
-    </a></td><td>@Cynkra, Zurich</td><td>Switzerland</td><td>443</td><td>957</td></tr><tr><td>207</td><td><a href="https://github.com/etiennestuder">
+    </a></td><td>@Cynkra, Zurich</td><td>Switzerland</td><td>443</td><td>957</td></tr><tr><td>206</td><td><a href="https://github.com/etiennestuder">
         <img src="https://avatars.githubusercontent.com/u/231070?s=72&v=4" height="12" />
         <b>Etienne Studer</b>
-    </a></td><td>@gradle </td><td>Switzerland</td><td>95</td><td>952</td></tr><tr><td>208</td><td><a href="https://github.com/delroth">
+    </a></td><td>@gradle </td><td>Switzerland</td><td>95</td><td>952</td></tr><tr><td>207</td><td><a href="https://github.com/delroth">
         <img src="https://avatars.githubusercontent.com/u/202798?s=72&v=4" height="12" />
         <b>Pierre Bourdon</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>410</td><td>948</td></tr><tr><td>209</td><td><a href="https://github.com/Tom94">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>410</td><td>948</td></tr><tr><td>208</td><td><a href="https://github.com/Tom94">
         <img src="https://avatars.githubusercontent.com/u/4923655?s=72&u=91531a6721dec4396708b861d5ab2da0c87551fe&v=4" height="12" />
         <b>Thomas Müller</b>
-    </a></td><td>NVIDIA</td><td>Zürich, Switzerland</td><td>975</td><td>943</td></tr><tr><td>210</td><td><a href="https://github.com/dedeswim">
+    </a></td><td>NVIDIA</td><td>Zürich, Switzerland</td><td>975</td><td>943</td></tr><tr><td>209</td><td><a href="https://github.com/dedeswim">
         <img src="https://avatars.githubusercontent.com/u/4366950?s=72&u=dc82340d976eba0296cb0a6b9b283807a87bee90&v=4" height="12" />
         <b>Edoardo Debenedetti</b>
-    </a></td><td>ETH Zürich</td><td>Switzerland</td><td>83</td><td>942</td></tr><tr><td>211</td><td><a href="https://github.com/ZetaTwo">
+    </a></td><td>ETH Zürich</td><td>Switzerland</td><td>83</td><td>942</td></tr><tr><td>210</td><td><a href="https://github.com/ZetaTwo">
         <img src="https://avatars.githubusercontent.com/u/870392?s=72&v=4" height="12" />
         <b>Calle Svensson</b>
-    </a></td><td>Google</td><td>Zürich, Switzerland</td><td>233</td><td>939</td></tr><tr><td>212</td><td><a href="https://github.com/fabarea">
+    </a></td><td>Google</td><td>Zürich, Switzerland</td><td>233</td><td>939</td></tr><tr><td>211</td><td><a href="https://github.com/fabarea">
         <img src="https://avatars.githubusercontent.com/u/620730?s=72&v=4" height="12" />
         <b>Fabien Udriot</b>
-    </a></td><td>Ecodev</td><td>Switzerland</td><td>76</td><td>938</td></tr><tr><td>213</td><td><a href="https://github.com/Jaeyoung-Lim">
+    </a></td><td>Ecodev</td><td>Switzerland</td><td>76</td><td>938</td></tr><tr><td>212</td><td><a href="https://github.com/Jaeyoung-Lim">
         <img src="https://avatars.githubusercontent.com/u/5248102?s=72&u=cb3cf3484b2700e43fa61abfaece910718f41da5&v=4" height="12" />
         <b>Jaeyoung Lim</b>
-    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>469</td><td>927</td></tr><tr><td>214</td><td><a href="https://github.com/JamesClonk">
+    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>469</td><td>927</td></tr><tr><td>213</td><td><a href="https://github.com/JamesClonk">
         <img src="https://avatars.githubusercontent.com/u/3172084?s=72&v=4" height="12" />
         <b>Fabio Berchtold</b>
-    </a></td><td>@swisscom</td><td>Switzerland</td><td>83</td><td>920</td></tr><tr><td>215</td><td><a href="https://github.com/grssnbchr">
+    </a></td><td>@swisscom</td><td>Switzerland</td><td>83</td><td>920</td></tr><tr><td>214</td><td><a href="https://github.com/grssnbchr">
         <img src="https://avatars.githubusercontent.com/u/2305708?s=72&u=75ab4e7ba70c49bdb302854198025f170d776381&v=4" height="12" />
         <b>Timo Grossenbacher</b>
-    </a></td><td>Newroom Automation @tamedia</td><td>Zurich, Switzerland</td><td>330</td><td>919</td></tr><tr><td>216</td><td><a href="https://github.com/freezy">
+    </a></td><td>Newroom Automation @tamedia</td><td>Zurich, Switzerland</td><td>330</td><td>919</td></tr><tr><td>215</td><td><a href="https://github.com/freezy">
         <img src="https://avatars.githubusercontent.com/u/70426?s=72&v=4" height="12" />
         <b>freezy</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>174</td><td>913</td></tr><tr><td>217</td><td><a href="https://github.com/roflmaostc">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>174</td><td>913</td></tr><tr><td>216</td><td><a href="https://github.com/roflmaostc">
         <img src="https://avatars.githubusercontent.com/u/19436526?s=72&u=de2251f7a81bfaeca48be22e03f2f50a50be9adb&v=4" height="12" />
         <b>Felix Wechsler (he/him)</b>
-    </a></td><td>-</td><td>EPFL, Lausanne, Switzerland</td><td>106</td><td>912</td></tr><tr><td>218</td><td><a href="https://github.com/3nids">
+    </a></td><td>-</td><td>EPFL, Lausanne, Switzerland</td><td>106</td><td>912</td></tr><tr><td>217</td><td><a href="https://github.com/3nids">
         <img src="https://avatars.githubusercontent.com/u/127259?s=72&u=97c016a3415edf05e629ee8dc20e306dee4f1189&v=4" height="12" />
         <b>Denis Rouzaud</b>
-    </a></td><td>@opengisch </td><td>Champéry, Switzerland</td><td>80</td><td>909</td></tr><tr><td>219</td><td><a href="https://github.com/fabianp">
+    </a></td><td>@opengisch </td><td>Champéry, Switzerland</td><td>80</td><td>909</td></tr><tr><td>218</td><td><a href="https://github.com/fabianp">
         <img src="https://avatars.githubusercontent.com/u/277639?s=72&u=76b14735220a371f55d0cacf208d6d3aee4deb00&v=4" height="12" />
         <b>Fabian Pedregosa</b>
-    </a></td><td>@google-deepmind</td><td>Geneva</td><td>770</td><td>906</td></tr><tr><td>220</td><td><a href="https://github.com/a-r-j">
+    </a></td><td>@google-deepmind</td><td>Geneva</td><td>770</td><td>906</td></tr><tr><td>219</td><td><a href="https://github.com/a-r-j">
         <img src="https://avatars.githubusercontent.com/u/23709768?s=72&v=4" height="12" />
         <b>Arian Jamasb</b>
-    </a></td><td>University of Cambridge</td><td>Basel</td><td>162</td><td>897</td></tr><tr><td>221</td><td><a href="https://github.com/sspaeti">
+    </a></td><td>University of Cambridge</td><td>Basel</td><td>162</td><td>897</td></tr><tr><td>220</td><td><a href="https://github.com/sspaeti">
         <img src="https://avatars.githubusercontent.com/u/689199?s=72&v=4" height="12" />
         <b>Simon Späti</b>
-    </a></td><td>@sspaeti-com</td><td>Switzerland</td><td>164</td><td>893</td></tr><tr><td>222</td><td><a href="https://github.com/kimpers">
+    </a></td><td>@sspaeti-com</td><td>Switzerland</td><td>164</td><td>893</td></tr><tr><td>221</td><td><a href="https://github.com/kimpers">
         <img src="https://avatars.githubusercontent.com/u/5450545?s=72&u=f0d1ce5dfbeff0805d6da46dbbeef43ed1659b22&v=4" height="12" />
         <b>Kim Persson</b>
-    </a></td><td>@blowfishxyz</td><td>Zurich, Switzerland</td><td>74</td><td>891</td></tr><tr><td>223</td><td><a href="https://github.com/renggli">
+    </a></td><td>@blowfishxyz</td><td>Zurich, Switzerland</td><td>74</td><td>891</td></tr><tr><td>222</td><td><a href="https://github.com/renggli">
         <img src="https://avatars.githubusercontent.com/u/131610?s=72&v=4" height="12" />
         <b>Lukas Renggli</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>114</td><td>889</td></tr><tr><td>224</td><td><a href="https://github.com/joepetrowski">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>114</td><td>890</td></tr><tr><td>223</td><td><a href="https://github.com/joepetrowski">
         <img src="https://avatars.githubusercontent.com/u/25483142?s=72&v=4" height="12" />
         <b>joe petrowski</b>
-    </a></td><td>@w3f </td><td>Zug, Switzerland</td><td>86</td><td>882</td></tr><tr><td>225</td><td><a href="https://github.com/tomastrajan">
+    </a></td><td>@w3f </td><td>Zug, Switzerland</td><td>86</td><td>882</td></tr><tr><td>224</td><td><a href="https://github.com/tomastrajan">
         <img src="https://avatars.githubusercontent.com/u/3764868?s=72&u=551f5220f2af58deeb97b80709b26b0583054948&v=4" height="12" />
         <b>Tomas Trajan</b>
-    </a></td><td>AngularExperts.io, Omniboard.dev, solveo GmbH, Coalist, Die Mobiliar</td><td>Zürich, Switzerland</td><td>849</td><td>871</td></tr><tr><td>226</td><td><a href="https://github.com/JonasVautherin">
+    </a></td><td>AngularExperts.io, Omniboard.dev, solveo GmbH, Coalist, Die Mobiliar</td><td>Zürich, Switzerland</td><td>849</td><td>871</td></tr><tr><td>225</td><td><a href="https://github.com/JonasVautherin">
         <img src="https://avatars.githubusercontent.com/u/2606672?s=72&u=d34c77735deebcbef1eb074d5303a7eb0a77a1a8&v=4" height="12" />
         <b>Jonas Vautherin</b>
-    </a></td><td>-</td><td>Switzerland</td><td>86</td><td>867</td></tr><tr><td>227</td><td><a href="https://github.com/schneith">
+    </a></td><td>-</td><td>Switzerland</td><td>86</td><td>867</td></tr><tr><td>226</td><td><a href="https://github.com/schneith">
         <img src="https://avatars.githubusercontent.com/u/5337083?s=72&v=4" height="12" />
         <b>Thomas Schneider</b>
-    </a></td><td>Autonomous Systems Lab, ETH Zürich</td><td>Switzerland</td><td>80</td><td>865</td></tr><tr><td>228</td><td><a href="https://github.com/etienne-napoleone">
+    </a></td><td>Autonomous Systems Lab, ETH Zürich</td><td>Switzerland</td><td>80</td><td>865</td></tr><tr><td>227</td><td><a href="https://github.com/etienne-napoleone">
         <img src="https://avatars.githubusercontent.com/u/26155267?s=72&u=64f86ab76a8e2039944d08db6270aa20dfc710b2&v=4" height="12" />
         <b>Etienne Napoleone</b>
-    </a></td><td>@spacehall-app</td><td>Lausanne / 서울</td><td>84</td><td>854</td></tr><tr><td>229</td><td><a href="https://github.com/favreau">
+    </a></td><td>@spacehall-app</td><td>Lausanne / 서울</td><td>84</td><td>854</td></tr><tr><td>228</td><td><a href="https://github.com/favreau">
         <img src="https://avatars.githubusercontent.com/u/8790943?s=72&u=e21b72010d59af139bb80bea61675cb5f5e1c395&v=4" height="12" />
         <b>Cyrille Favreau</b>
-    </a></td><td>EPFL</td><td>Switzerland</td><td>131</td><td>851</td></tr><tr><td>230</td><td><a href="https://github.com/matteocourthoud">
+    </a></td><td>EPFL</td><td>Switzerland</td><td>131</td><td>851</td></tr><tr><td>229</td><td><a href="https://github.com/matteocourthoud">
         <img src="https://avatars.githubusercontent.com/u/13118625?s=72&u=2fb25c7f83cf86bf6cd9f24c43beae09847f9bab&v=4" height="12" />
         <b>Matteo Courthoud</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>239</td><td>846</td></tr><tr><td>231</td><td><a href="https://github.com/mellowagain">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>239</td><td>846</td></tr><tr><td>230</td><td><a href="https://github.com/mellowagain">
         <img src="https://avatars.githubusercontent.com/u/24739711?s=72&u=e4dbcd3a3dca8b79a3db7374a8af069874204436&v=4" height="12" />
         <b>Mari</b>
-    </a></td><td>@fiberplane @autometrics-dev</td><td>Zug, Switzerland</td><td>117</td><td>845</td></tr><tr><td>232</td><td><a href="https://github.com/vincentdoerig">
+    </a></td><td>@fiberplane @autometrics-dev</td><td>Zug, Switzerland</td><td>117</td><td>845</td></tr><tr><td>231</td><td><a href="https://github.com/vincentdoerig">
         <img src="https://avatars.githubusercontent.com/u/24668338?s=72&u=0d87703fd8bed7edcaca65533ac4f034b9c0c226&v=4" height="12" />
         <b>Vincent Dörig</b>
-    </a></td><td>ETH Zürich</td><td>Zürich, Switzerland</td><td>103</td><td>838</td></tr><tr><td>233</td><td><a href="https://github.com/lehni">
+    </a></td><td>ETH Zürich</td><td>Zürich, Switzerland</td><td>103</td><td>838</td></tr><tr><td>232</td><td><a href="https://github.com/lehni">
         <img src="https://avatars.githubusercontent.com/u/213275?s=72&v=4" height="12" />
         <b>Jürg Lehni</b>
-    </a></td><td>-</td><td>Switzerland</td><td>846</td><td>836</td></tr><tr><td>234</td><td><a href="https://github.com/pka">
+    </a></td><td>-</td><td>Switzerland</td><td>846</td><td>836</td></tr><tr><td>233</td><td><a href="https://github.com/pka">
         <img src="https://avatars.githubusercontent.com/u/19007?s=72&u=669acb4e9bf13d9e3431f51b2786a9c1fa2dd062&v=4" height="12" />
         <b>Pirmin Kalberer</b>
-    </a></td><td>Sourcepole</td><td>Zürich, Switzerland</td><td>163</td><td>836</td></tr><tr><td>235</td><td><a href="https://github.com/Seldaek">
-        <img src="https://avatars.githubusercontent.com/u/183678?s=72&v=4" height="12" />
-        <b>Jordi Boggiano</b>
-    </a></td><td>Packagist</td><td>Zürich, Zurich, Switzerland</td><td>4.42K</td><td>825</td></tr><tr><td>236</td><td><a href="https://github.com/original-brownbear">
+    </a></td><td>Sourcepole</td><td>Zürich, Switzerland</td><td>163</td><td>836</td></tr><tr><td>234</td><td><a href="https://github.com/original-brownbear">
         <img src="https://avatars.githubusercontent.com/u/6490959?s=72&u=d958bd40c338c6fb58e3246aae008e4196e805ab&v=4" height="12" />
         <b>Armin Braun</b>
-    </a></td><td>@elastic </td><td>Schwyz, Switzerland</td><td>101</td><td>825</td></tr><tr><td>237</td><td><a href="https://github.com/JeanOUINA">
+    </a></td><td>@elastic </td><td>Schwyz, Switzerland</td><td>101</td><td>826</td></tr><tr><td>235</td><td><a href="https://github.com/Seldaek">
+        <img src="https://avatars.githubusercontent.com/u/183678?s=72&v=4" height="12" />
+        <b>Jordi Boggiano</b>
+    </a></td><td>Packagist</td><td>Zürich, Zurich, Switzerland</td><td>4.42K</td><td>825</td></tr><tr><td>236</td><td><a href="https://github.com/JeanOUINA">
         <img src="https://avatars.githubusercontent.com/u/50077294?s=72&u=d23ee6f178a06a999610ff61f36ea62994575c5a&v=4" height="12" />
         <b>Not Thomiz</b>
-    </a></td><td>@Vitamin-Coin</td><td>Switzerland</td><td>78</td><td>819</td></tr><tr><td>238</td><td><a href="https://github.com/rneher">
+    </a></td><td>@Vitamin-Coin</td><td>Switzerland</td><td>78</td><td>819</td></tr><tr><td>237</td><td><a href="https://github.com/rneher">
         <img src="https://avatars.githubusercontent.com/u/8379168?s=72&v=4" height="12" />
         <b>Richard Neher</b>
-    </a></td><td>Biozentrum, University of Basel</td><td>Basel, Switzerland</td><td>139</td><td>818</td></tr><tr><td>239</td><td><a href="https://github.com/basvandijk">
+    </a></td><td>Biozentrum, University of Basel</td><td>Basel, Switzerland</td><td>139</td><td>818</td></tr><tr><td>238</td><td><a href="https://github.com/basvandijk">
         <img src="https://avatars.githubusercontent.com/u/576355?s=72&u=146c497454faa6a20e8146f867bfdae2e6028829&v=4" height="12" />
         <b>Bas van Dijk</b>
-    </a></td><td>DFINITY</td><td>Zürich, Switzerland</td><td>244</td><td>816</td></tr><tr><td>240</td><td><a href="https://github.com/digi604">
+    </a></td><td>DFINITY</td><td>Zürich, Switzerland</td><td>244</td><td>816</td></tr><tr><td>239</td><td><a href="https://github.com/digi604">
         <img src="https://avatars.githubusercontent.com/u/25490?s=72&v=4" height="12" />
         <b>Patrick Lauber</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>176</td><td>813</td></tr><tr><td>241</td><td><a href="https://github.com/kensanata">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>176</td><td>813</td></tr><tr><td>240</td><td><a href="https://github.com/kensanata">
         <img src="https://avatars.githubusercontent.com/u/1145712?s=72&u=30e35c3ad04b662db1cc56b56b07c9cacc97ad94&v=4" height="12" />
         <b>Alex Schroeder</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>122</td><td>809</td></tr><tr><td>242</td><td><a href="https://github.com/julienrf">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>122</td><td>809</td></tr><tr><td>241</td><td><a href="https://github.com/julienrf">
         <img src="https://avatars.githubusercontent.com/u/332812?s=72&u=c53bc6569c85c213877e6d272d0ff9928542cab8&v=4" height="12" />
         <b>Julien Richard-Foy</b>
-    </a></td><td>-</td><td>Lausanne, Suisse</td><td>277</td><td>802</td></tr><tr><td>243</td><td><a href="https://github.com/stineb">
+    </a></td><td>-</td><td>Lausanne, Suisse</td><td>277</td><td>802</td></tr><tr><td>242</td><td><a href="https://github.com/stineb">
         <img src="https://avatars.githubusercontent.com/u/6704682?s=72&v=4" height="12" />
         <b>Benjamin Stocker</b>
-    </a></td><td>University Bern</td><td>Zürich, Switzerland</td><td>84</td><td>795</td></tr><tr><td>244</td><td><a href="https://github.com/dpryan79">
+    </a></td><td>University Bern</td><td>Zürich, Switzerland</td><td>84</td><td>795</td></tr><tr><td>243</td><td><a href="https://github.com/dpryan79">
         <img src="https://avatars.githubusercontent.com/u/6399000?s=72&u=3decd52425131261addc75a0127b2f43b2167a2a&v=4" height="12" />
         <b>Devon Ryan</b>
-    </a></td><td>Genedata AG</td><td>Basel, Switzerland / Freiburg, Germany</td><td>402</td><td>788</td></tr><tr><td>245</td><td><a href="https://github.com/Godin">
+    </a></td><td>Genedata AG</td><td>Basel, Switzerland / Freiburg, Germany</td><td>402</td><td>788</td></tr><tr><td>244</td><td><a href="https://github.com/Godin">
         <img src="https://avatars.githubusercontent.com/u/138671?s=72&u=60971b1c25cb2ba9026e296d4a64154c277215d6&v=4" height="12" />
         <b>Evgeny Mandrikov</b>
-    </a></td><td>@SonarSource</td><td>Geneva, Switzerland</td><td>192</td><td>788</td></tr><tr><td>246</td><td><a href="https://github.com/natsukagami">
+    </a></td><td>@SonarSource</td><td>Geneva, Switzerland</td><td>192</td><td>788</td></tr><tr><td>245</td><td><a href="https://github.com/natsukagami">
         <img src="https://avatars.githubusercontent.com/u/9061737?s=72&v=4" height="12" />
         <b>Natsu Kagami</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>172</td><td>788</td></tr><tr><td>247</td><td><a href="https://github.com/Yatekii">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>172</td><td>788</td></tr><tr><td>246</td><td><a href="https://github.com/Yatekii">
         <img src="https://avatars.githubusercontent.com/u/529795?s=72&u=13bba0ec5bc756544ea58c3931185a1be1d920bb&v=4" height="12" />
         <b>Noah Hüsser</b>
-    </a></td><td>-</td><td>Switzerland</td><td>113</td><td>783</td></tr><tr><td>248</td><td><a href="https://github.com/gerhardberger">
+    </a></td><td>-</td><td>Switzerland</td><td>113</td><td>783</td></tr><tr><td>247</td><td><a href="https://github.com/gerhardberger">
         <img src="https://avatars.githubusercontent.com/u/1059699?s=72&u=81f26cd4d871a6ac89a8e09dce42b0ec8664ccc6&v=4" height="12" />
         <b>Gellert Hegyi</b>
-    </a></td><td>-</td><td>Switzerland</td><td>82</td><td>776</td></tr><tr><td>249</td><td><a href="https://github.com/eXpl0it3r">
+    </a></td><td>-</td><td>Switzerland</td><td>82</td><td>776</td></tr><tr><td>248</td><td><a href="https://github.com/eXpl0it3r">
         <img src="https://avatars.githubusercontent.com/u/920861?s=72&u=116476c36c9c710cb7281c89135debeac42112aa&v=4" height="12" />
         <b>Lukas Dürrenberger</b>
-    </a></td><td>@Zuehlke</td><td>Switzerland</td><td>273</td><td>775</td></tr><tr><td>250</td><td><a href="https://github.com/timohanke">
+    </a></td><td>@Zuehlke</td><td>Switzerland</td><td>273</td><td>775</td></tr><tr><td>249</td><td><a href="https://github.com/timohanke">
         <img src="https://avatars.githubusercontent.com/u/3149329?s=72&u=2488f597cd6ab73a99b1b979062f4f0791003a2f&v=4" height="12" />
         <b>Timo Hanke</b>
-    </a></td><td>-</td><td>Switzerland</td><td>86</td><td>759</td></tr><tr><td>251</td><td><a href="https://github.com/syzer">
+    </a></td><td>-</td><td>Switzerland</td><td>86</td><td>759</td></tr><tr><td>250</td><td><a href="https://github.com/syzer">
         <img src="https://avatars.githubusercontent.com/u/1989646?s=72&u=6c7d7362e4dfdee43853578b1952df0b4d67db34&v=4" height="12" />
         <b>syzer</b>
-    </a></td><td>@creadi </td><td>Basel/Zurich</td><td>132</td><td>757</td></tr><tr><td>252</td><td><a href="https://github.com/ponsfrilus">
+    </a></td><td>@creadi </td><td>Basel/Zurich</td><td>132</td><td>757</td></tr><tr><td>251</td><td><a href="https://github.com/ponsfrilus">
         <img src="https://avatars.githubusercontent.com/u/176002?s=72&u=7d942a2b8899f31cf73a06ff24fccbeda900ae07&v=4" height="12" />
         <b>Nicolas Borboën</b>
-    </a></td><td>@epfl-si</td><td>Lausanne, Switzerland</td><td>85</td><td>749</td></tr><tr><td>253</td><td><a href="https://github.com/jan-wassenberg">
+    </a></td><td>@epfl-si</td><td>Lausanne, Switzerland</td><td>85</td><td>749</td></tr><tr><td>252</td><td><a href="https://github.com/jan-wassenberg">
         <img src="https://avatars.githubusercontent.com/u/17255429?s=72&u=b6886fe958091272407583685311cec2a543dc22&v=4" height="12" />
         <b>Jan Wassenberg</b>
-    </a></td><td>Google</td><td>Zürich</td><td>94</td><td>744</td></tr><tr><td>254</td><td><a href="https://github.com/decanus">
+    </a></td><td>Google</td><td>Zürich</td><td>94</td><td>744</td></tr><tr><td>253</td><td><a href="https://github.com/decanus">
         <img src="https://avatars.githubusercontent.com/u/7621705?s=72&u=21fd615579f5de92577292c69afe808532a4951c&v=4" height="12" />
         <b>Dean Eigenmann</b>
-    </a></td><td>Dialectic / Project Blanc</td><td>Zurich, Switzerland</td><td>676</td><td>742</td></tr><tr><td>255</td><td><a href="https://github.com/AnomalRoil">
+    </a></td><td>Dialectic / Project Blanc</td><td>Zurich, Switzerland</td><td>676</td><td>742</td></tr><tr><td>254</td><td><a href="https://github.com/AnomalRoil">
         <img src="https://avatars.githubusercontent.com/u/10077203?s=72&u=15a98bac90dcea2779f21ca928263315c324f255&v=4" height="12" />
         <b>Yolan Romailler</b>
-    </a></td><td>-</td><td>Switzerland</td><td>80</td><td>737</td></tr><tr><td>256</td><td><a href="https://github.com/zufrieden">
+    </a></td><td>-</td><td>Switzerland</td><td>80</td><td>737</td></tr><tr><td>255</td><td><a href="https://github.com/zufrieden">
         <img src="https://avatars.githubusercontent.com/u/451236?s=72&u=114e54b21aaddfe019441b63bce97c03cbde1318&v=4" height="12" />
         <b>Marc Friederich</b>
-    </a></td><td>Antistatique</td><td>Lausanne, switzerland</td><td>92</td><td>729</td></tr><tr><td>257</td><td><a href="https://github.com/cgoldsby">
+    </a></td><td>Antistatique</td><td>Lausanne, switzerland</td><td>92</td><td>729</td></tr><tr><td>256</td><td><a href="https://github.com/cgoldsby">
         <img src="https://avatars.githubusercontent.com/u/3449816?s=72&u=e492ad2097f7f1b572175abd6d779e0ad2886e17&v=4" height="12" />
         <b>Chris Goldsby</b>
-    </a></td><td>Zattoo, Inc.</td><td>Zürich, Switzerland</td><td>153</td><td>719</td></tr><tr><td>258</td><td><a href="https://github.com/stapelberg">
+    </a></td><td>Zattoo, Inc.</td><td>Zürich, Switzerland</td><td>153</td><td>719</td></tr><tr><td>257</td><td><a href="https://github.com/stapelberg">
         <img src="https://avatars.githubusercontent.com/u/55506?s=72&u=d76452e75774c895a975e588cf2b830b32b61020&v=4" height="12" />
         <b>Michael Stapelberg</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>1.41K</td><td>718</td></tr><tr><td>259</td><td><a href="https://github.com/nicolonsky">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>1.41K</td><td>718</td></tr><tr><td>258</td><td><a href="https://github.com/nicolonsky">
         <img src="https://avatars.githubusercontent.com/u/32899754?s=72&u=0e1dd5990a6bf20e705291a47eefc47dbe425dde&v=4" height="12" />
         <b>Nicola Suter</b>
-    </a></td><td>baseVISION</td><td>Switzerland</td><td>174</td><td>714</td></tr><tr><td>260</td><td><a href="https://github.com/256dpi">
+    </a></td><td>baseVISION</td><td>Switzerland</td><td>174</td><td>714</td></tr><tr><td>259</td><td><a href="https://github.com/256dpi">
         <img src="https://avatars.githubusercontent.com/u/696886?s=72&u=a425613ad184e9dfbb05ab2c7012fea6cc88b453&v=4" height="12" />
         <b>Joël Gähwiler</b>
-    </a></td><td>@sternenbauer</td><td>Zürich, Switzerland</td><td>218</td><td>710</td></tr><tr><td>261</td><td><a href="https://github.com/lorenzwalthert">
+    </a></td><td>@sternenbauer</td><td>Zürich, Switzerland</td><td>218</td><td>710</td></tr><tr><td>260</td><td><a href="https://github.com/lorenzwalthert">
         <img src="https://avatars.githubusercontent.com/u/10477073?s=72&u=8f4ceeada2518f05769741a46f45228202b8c39e&v=4" height="12" />
         <b>Lorenz Walthert</b>
-    </a></td><td>@ponte-energy-partners</td><td>Zurich, Switzerland</td><td>121</td><td>699</td></tr><tr><td>262</td><td><a href="https://github.com/dhh1128">
+    </a></td><td>@ponte-energy-partners</td><td>Zurich, Switzerland</td><td>121</td><td>699</td></tr><tr><td>261</td><td><a href="https://github.com/dhh1128">
         <img src="https://avatars.githubusercontent.com/u/2208904?s=72&u=f40218d7321f848360262f895c326f1d24f49995&v=4" height="12" />
         <b>Daniel Hardman</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>107</td><td>699</td></tr><tr><td>263</td><td><a href="https://github.com/rettichschnidi">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>107</td><td>699</td></tr><tr><td>262</td><td><a href="https://github.com/rettichschnidi">
         <img src="https://avatars.githubusercontent.com/u/920644?s=72&u=0e987c9034f34f1cf82c7e8c7769d415a35e66ce&v=4" height="12" />
         <b>Reto Schneider</b>
-    </a></td><td>@husqvarnagroup</td><td>Switzerland</td><td>78</td><td>693</td></tr><tr><td>264</td><td><a href="https://github.com/davidgiven">
+    </a></td><td>@husqvarnagroup</td><td>Switzerland</td><td>78</td><td>693</td></tr><tr><td>263</td><td><a href="https://github.com/davidgiven">
         <img src="https://avatars.githubusercontent.com/u/100638?s=72&u=aef8aa31dc31e30488a954ec1152045088451b34&v=4" height="12" />
         <b>David Given</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>285</td><td>668</td></tr><tr><td>265</td><td><a href="https://github.com/yakky">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>285</td><td>669</td></tr><tr><td>264</td><td><a href="https://github.com/yakky">
         <img src="https://avatars.githubusercontent.com/u/714711?s=72&v=4" height="12" />
         <b>Iacopo Spalletti</b>
-    </a></td><td>@nephila </td><td>Firenze, London, Zürich</td><td>261</td><td>667</td></tr><tr><td>266</td><td><a href="https://github.com/hoechenberger">
+    </a></td><td>@nephila </td><td>Firenze, London, Zürich</td><td>261</td><td>667</td></tr><tr><td>265</td><td><a href="https://github.com/hoechenberger">
         <img src="https://avatars.githubusercontent.com/u/2046265?s=72&u=739a20430346a14bc157ff1f28dcee6fc882461a&v=4" height="12" />
         <b>Richard Höchenberger</b>
-    </a></td><td>-</td><td>Geneva, Switzerland</td><td>173</td><td>665</td></tr><tr><td>267</td><td><a href="https://github.com/7PH">
+    </a></td><td>-</td><td>Geneva, Switzerland</td><td>173</td><td>665</td></tr><tr><td>266</td><td><a href="https://github.com/7PH">
         <img src="https://avatars.githubusercontent.com/u/31401273?s=72&u=df2c21405eb34050e6096048d410d4b2c29c7c8c&v=4" height="12" />
         <b>Benjamin Raymond</b>
-    </a></td><td>-</td><td>Switzerland & France</td><td>81</td><td>661</td></tr><tr><td>268</td><td><a href="https://github.com/wichtounet">
+    </a></td><td>-</td><td>Switzerland & France</td><td>82</td><td>661</td></tr><tr><td>267</td><td><a href="https://github.com/wichtounet">
         <img src="https://avatars.githubusercontent.com/u/196746?s=72&u=15774cdc0577f6613e86adafc1bbcfefea1a0aed&v=4" height="12" />
         <b>Baptiste Wicht</b>
-    </a></td><td>Verisign</td><td>Fribourg, Switzerland</td><td>566</td><td>660</td></tr><tr><td>269</td><td><a href="https://github.com/dirmeier">
+    </a></td><td>Verisign</td><td>Fribourg, Switzerland</td><td>566</td><td>660</td></tr><tr><td>268</td><td><a href="https://github.com/dirmeier">
         <img src="https://avatars.githubusercontent.com/u/16086606?s=72&u=c1a5ca3755e07903d88e7bf9b388ec8c1266c786&v=4" height="12" />
         <b>Simon Dirmeier</b>
-    </a></td><td>@SwissDataScienceCenter</td><td>Zurich, Switzerland</td><td>117</td><td>656</td></tr><tr><td>270</td><td><a href="https://github.com/tpreusse">
+    </a></td><td>@SwissDataScienceCenter</td><td>Zurich, Switzerland</td><td>117</td><td>656</td></tr><tr><td>269</td><td><a href="https://github.com/tpreusse">
         <img src="https://avatars.githubusercontent.com/u/410211?s=72&u=b6d804c89ed1f59ca0ec93b28866403a99737989&v=4" height="12" />
         <b>Thomas Preusse</b>
-    </a></td><td>-</td><td>Switzerland</td><td>93</td><td>638</td></tr><tr><td>271</td><td><a href="https://github.com/ltalirz">
+    </a></td><td>-</td><td>Switzerland</td><td>93</td><td>638</td></tr><tr><td>270</td><td><a href="https://github.com/ltalirz">
         <img src="https://avatars.githubusercontent.com/u/1053245?s=72&u=664b9564e1c13c4c4cfb0e393143dfffc9575590&v=4" height="12" />
         <b>Leopold Talirz</b>
-    </a></td><td>Azure Quantum</td><td>Switzerland</td><td>120</td><td>637</td></tr><tr><td>272</td><td><a href="https://github.com/utaal">
+    </a></td><td>Azure Quantum</td><td>Switzerland</td><td>120</td><td>637</td></tr><tr><td>271</td><td><a href="https://github.com/utaal">
         <img src="https://avatars.githubusercontent.com/u/791335?s=72&u=141ba4a52db46bb966e5b67f71631e4b0d73ca03&v=4" height="12" />
         <b>Andrea Lattuada</b>
-    </a></td><td>VMware Research</td><td>Zürich, Switzerland</td><td>100</td><td>637</td></tr><tr><td>273</td><td><a href="https://github.com/smarter">
+    </a></td><td>VMware Research</td><td>Zürich, Switzerland</td><td>100</td><td>637</td></tr><tr><td>272</td><td><a href="https://github.com/smarter">
         <img src="https://avatars.githubusercontent.com/u/63430?s=72&u=a15035d89591a33651aa629ecab30a945711e291&v=4" height="12" />
         <b>Guillaume Martres</b>
-    </a></td><td>Arteris  /   Scala Center</td><td>Lausanne, Switzerland</td><td>268</td><td>634</td></tr><tr><td>274</td><td><a href="https://github.com/BrunnerLivio">
+    </a></td><td>Arteris  /   Scala Center</td><td>Lausanne, Switzerland</td><td>268</td><td>634</td></tr><tr><td>273</td><td><a href="https://github.com/BrunnerLivio">
         <img src="https://avatars.githubusercontent.com/u/9899423?s=72&u=5d1170c99cdf11065093d124bd2c87ee1f3e097e&v=4" height="12" />
         <b>Livio Brunner</b>
-    </a></td><td>@RaiseNow @NestJS</td><td>Basel, Switzerland</td><td>430</td><td>629</td></tr><tr><td>275</td><td><a href="https://github.com/philipp-baumann">
+    </a></td><td>@RaiseNow @NestJS</td><td>Basel, Switzerland</td><td>430</td><td>629</td></tr><tr><td>274</td><td><a href="https://github.com/philipp-baumann">
         <img src="https://avatars.githubusercontent.com/u/21625034?s=72&u=f1fc41ef9e936f3bc8c6d38a78349890654310b8&v=4" height="12" />
         <b>Philipp Baumann</b>
-    </a></td><td>https://spectral-cockpit.space</td><td>Bern, Switzerland</td><td>112</td><td>619</td></tr><tr><td>276</td><td><a href="https://github.com/lucalanca">
+    </a></td><td>https://spectral-cockpit.space</td><td>Bern, Switzerland</td><td>112</td><td>619</td></tr><tr><td>275</td><td><a href="https://github.com/lucalanca">
         <img src="https://avatars.githubusercontent.com/u/389459?s=72&u=e34f928aed284f9727f5a6bc61e771bc57795b20&v=4" height="12" />
         <b>João Figueiredo</b>
-    </a></td><td>Aditus.io</td><td>Porto, Portugal — Zürich, Switzerland </td><td>75</td><td>618</td></tr><tr><td>277</td><td><a href="https://github.com/simasch">
+    </a></td><td>Aditus.io</td><td>Porto, Portugal — Zürich, Switzerland </td><td>75</td><td>618</td></tr><tr><td>276</td><td><a href="https://github.com/simasch">
         <img src="https://avatars.githubusercontent.com/u/593352?s=72&u=fae30ed907d13089cd272eec309586b58dd69a52&v=4" height="12" />
         <b>Simon Martinelli</b>
-    </a></td><td>@72services </td><td>Erlach, Switzerland</td><td>128</td><td>615</td></tr><tr><td>278</td><td><a href="https://github.com/mb21">
+    </a></td><td>@72services </td><td>Erlach, Switzerland</td><td>128</td><td>615</td></tr><tr><td>277</td><td><a href="https://github.com/mb21">
         <img src="https://avatars.githubusercontent.com/u/157497?s=72&v=4" height="12" />
         <b>Mauro Bieg</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>95</td><td>611</td></tr><tr><td>279</td><td><a href="https://github.com/anatoliykmetyuk">
-        <img src="https://avatars.githubusercontent.com/u/2614813?s=72&u=b8a3a78e2c9d100e78882d632f4c046ba13678ed&v=4" height="12" />
-        <b>Anatolii Kmetiuk</b>
-    </a></td><td>@lampepfl</td><td>Lausanne, Switzerland</td><td>105</td><td>606</td></tr><tr><td>280</td><td><a href="https://github.com/dbrgn">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>95</td><td>611</td></tr><tr><td>278</td><td><a href="https://github.com/dbrgn">
         <img src="https://avatars.githubusercontent.com/u/105168?s=72&u=aaa9d3d128353134d25a6eaa50c213696891e757&v=4" height="12" />
         <b>Danilo Bargen</b>
-    </a></td><td>Threema GmbH / Bargen Software</td><td>Switzerland</td><td>414</td><td>604</td></tr><tr><td>281</td><td><a href="https://github.com/francoisgeorgy">
+    </a></td><td>Threema GmbH / Bargen Software</td><td>Switzerland</td><td>414</td><td>610</td></tr><tr><td>279</td><td><a href="https://github.com/anatoliykmetyuk">
+        <img src="https://avatars.githubusercontent.com/u/2614813?s=72&u=b8a3a78e2c9d100e78882d632f4c046ba13678ed&v=4" height="12" />
+        <b>Anatolii Kmetiuk</b>
+    </a></td><td>@lampepfl</td><td>Lausanne, Switzerland</td><td>105</td><td>606</td></tr><tr><td>280</td><td><a href="https://github.com/francoisgeorgy">
         <img src="https://avatars.githubusercontent.com/u/367480?s=72&u=1131c0544624391d087d86918b524d1c5c43a8dc&v=4" height="12" />
         <b>François Georgy</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>94</td><td>601</td></tr><tr><td>282</td><td><a href="https://github.com/vasile">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>94</td><td>601</td></tr><tr><td>281</td><td><a href="https://github.com/vasile">
         <img src="https://avatars.githubusercontent.com/u/113994?s=72&v=4" height="12" />
         <b>Vasile Cotovanu</b>
-    </a></td><td>vasile.ch</td><td>Zürich</td><td>139</td><td>598</td></tr><tr><td>283</td><td><a href="https://github.com/duerrsimon">
+    </a></td><td>vasile.ch</td><td>Zürich</td><td>139</td><td>598</td></tr><tr><td>282</td><td><a href="https://github.com/duerrsimon">
         <img src="https://avatars.githubusercontent.com/u/16979577?s=72&u=70bd551c4452fa5955c4f2bb9895953abd8e8ab5&v=4" height="12" />
         <b>Simon Duerr</b>
-    </a></td><td>@lcbc-epfl </td><td>Lausanne</td><td>111</td><td>592</td></tr><tr><td>284</td><td><a href="https://github.com/NMAC427">
+    </a></td><td>@lcbc-epfl </td><td>Lausanne</td><td>111</td><td>592</td></tr><tr><td>283</td><td><a href="https://github.com/NMAC427">
         <img src="https://avatars.githubusercontent.com/u/9914734?s=72&u=b67ff624133cf2e96afde42dffc5e01889a33665&v=4" height="12" />
         <b>Nicolas Camenisch</b>
-    </a></td><td>Capslock AG</td><td>AG, Switzerland</td><td>107</td><td>590</td></tr><tr><td>285</td><td><a href="https://github.com/betatim">
+    </a></td><td>Capslock AG</td><td>AG, Switzerland</td><td>107</td><td>590</td></tr><tr><td>284</td><td><a href="https://github.com/betatim">
         <img src="https://avatars.githubusercontent.com/u/1448859?s=72&u=bb1fe43e670621cb0bb0a8ab915ff15d649d0f80&v=4" height="12" />
         <b>Tim Head</b>
-    </a></td><td>Nvidia </td><td>Zurich, Switzerland</td><td>610</td><td>589</td></tr><tr><td>286</td><td><a href="https://github.com/c22dev">
+    </a></td><td>Nvidia </td><td>Zurich, Switzerland</td><td>610</td><td>589</td></tr><tr><td>285</td><td><a href="https://github.com/c22dev">
         <img src="https://avatars.githubusercontent.com/u/102235607?s=72&u=9966ef669c99faf88caf7b66faf283dd3639549b&v=4" height="12" />
         <b>c22dev</b>
-    </a></td><td>-</td><td>Geneva</td><td>158</td><td>588</td></tr><tr><td>287</td><td><a href="https://github.com/weibeld">
+    </a></td><td>-</td><td>Geneva</td><td>158</td><td>588</td></tr><tr><td>286</td><td><a href="https://github.com/weibeld">
         <img src="https://avatars.githubusercontent.com/u/2396208?s=72&v=4" height="12" />
         <b>Daniel Weibel</b>
-    </a></td><td>-</td><td>Switzerland</td><td>77</td><td>584</td></tr><tr><td>288</td><td><a href="https://github.com/zdavatz">
+    </a></td><td>-</td><td>Switzerland</td><td>77</td><td>584</td></tr><tr><td>287</td><td><a href="https://github.com/zdavatz">
         <img src="https://avatars.githubusercontent.com/u/4953?s=72&v=4" height="12" />
         <b>Zeno R.R. Davatz</b>
-    </a></td><td>ywesee GmbH</td><td>Zürich</td><td>95</td><td>578</td></tr><tr><td>289</td><td><a href="https://github.com/verhas">
+    </a></td><td>ywesee GmbH</td><td>Zürich</td><td>95</td><td>578</td></tr><tr><td>288</td><td><a href="https://github.com/verhas">
         <img src="https://avatars.githubusercontent.com/u/1597979?s=72&v=4" height="12" />
         <b>Peter Verhas</b>
-    </a></td><td>N/A</td><td>Zürich Switzerland Europe Earth</td><td>167</td><td>569</td></tr><tr><td>290</td><td><a href="https://github.com/dhil">
+    </a></td><td>N/A</td><td>Zürich Switzerland Europe Earth</td><td>167</td><td>569</td></tr><tr><td>289</td><td><a href="https://github.com/dhil">
         <img src="https://avatars.githubusercontent.com/u/1827113?s=72&u=0462fd98b716d11c82af5bbd5fc31b0c9f537f79&v=4" height="12" />
         <b>Daniel Hillerström</b>
-    </a></td><td>Computing Systems Laboratory, Zurich Research Center, Huawei Technologies Switzerland</td><td>Zurich, Switzerland</td><td>126</td><td>569</td></tr><tr><td>291</td><td><a href="https://github.com/stefanfoulis">
+    </a></td><td>Computing Systems Laboratory, Zurich Research Center, Huawei Technologies Switzerland</td><td>Zurich, Switzerland</td><td>126</td><td>569</td></tr><tr><td>290</td><td><a href="https://github.com/stefanfoulis">
         <img src="https://avatars.githubusercontent.com/u/14330?s=72&u=c8c22c51617dd58869e9bd22f4502b0d2f15597c&v=4" height="12" />
         <b>Stefan Foulis</b>
-    </a></td><td>Sherpany</td><td>Switzerland</td><td>280</td><td>560</td></tr><tr><td>292</td><td><a href="https://github.com/MaxGfeller">
+    </a></td><td>Sherpany</td><td>Switzerland</td><td>280</td><td>560</td></tr><tr><td>291</td><td><a href="https://github.com/MaxGfeller">
         <img src="https://avatars.githubusercontent.com/u/361435?s=72&u=bf651ce2044b3ea0fc56fedb03b0dd08ef0b317a&v=4" height="12" />
         <b>Max Gfeller</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>109</td><td>559</td></tr><tr><td>293</td><td><a href="https://github.com/DengPingFan">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>109</td><td>559</td></tr><tr><td>292</td><td><a href="https://github.com/DengPingFan">
         <img src="https://avatars.githubusercontent.com/u/16174941?s=72&u=80e99a64b54b305c8afa5c42771b246da170334c&v=4" height="12" />
         <b>Deng-Ping Fan</b>
-    </a></td><td>ETH Zurich</td><td>Switzerland</td><td>483</td><td>558</td></tr><tr><td>294</td><td><a href="https://github.com/omlins">
+    </a></td><td>ETH Zurich</td><td>Switzerland</td><td>483</td><td>558</td></tr><tr><td>293</td><td><a href="https://github.com/omlins">
         <img src="https://avatars.githubusercontent.com/u/29657571?s=72&u=9ecdf938a593c2597854f404b7ebbac3c3da69d4&v=4" height="12" />
         <b>Samuel Omlin</b>
-    </a></td><td>CSCS - Swiss National Supercomputing Centre</td><td>Switzerland</td><td>106</td><td>557</td></tr><tr><td>295</td><td><a href="https://github.com/resmo">
+    </a></td><td>CSCS - Swiss National Supercomputing Centre</td><td>Switzerland</td><td>106</td><td>557</td></tr><tr><td>294</td><td><a href="https://github.com/resmo">
         <img src="https://avatars.githubusercontent.com/u/23809?s=72&u=cbe03c9202707a14ba43e4e94898b208bbeb693d&v=4" height="12" />
         <b>René Moser</b>
-    </a></td><td>@ngine-io, @moser-systems</td><td>Switzerland</td><td>284</td><td>550</td></tr><tr><td>296</td><td><a href="https://github.com/maasencioh">
+    </a></td><td>@ngine-io, @moser-systems</td><td>Switzerland</td><td>284</td><td>550</td></tr><tr><td>295</td><td><a href="https://github.com/maasencioh">
         <img src="https://avatars.githubusercontent.com/u/7273940?s=72&u=448e9c867940b42a395cf66b29f1f1c3da07980e&v=4" height="12" />
         <b>Miguel Angel Asencio Hurtado</b>
-    </a></td><td>@nexthink</td><td>Lausanne, Switzerland</td><td>97</td><td>541</td></tr><tr><td>297</td><td><a href="https://github.com/lvwerra">
+    </a></td><td>@nexthink</td><td>Lausanne, Switzerland</td><td>97</td><td>541</td></tr><tr><td>296</td><td><a href="https://github.com/lvwerra">
         <img src="https://avatars.githubusercontent.com/u/8264887?s=72&u=1e170968669fc1f852d3d122d65e8ff528f3d878&v=4" height="12" />
         <b>Leandro von Werra</b>
-    </a></td><td>@huggingface </td><td>Bern, Switzerland</td><td>1.14K</td><td>539</td></tr><tr><td>298</td><td><a href="https://github.com/hugolgst">
+    </a></td><td>@huggingface </td><td>Bern, Switzerland</td><td>1.14K</td><td>539</td></tr><tr><td>297</td><td><a href="https://github.com/hugolgst">
         <img src="https://avatars.githubusercontent.com/u/15371828?s=72&u=501be0e0a720c93e28ebff3bbb1f1de2a95b512f&v=4" height="12" />
         <b>Hugo Lageneste</b>
-    </a></td><td>-</td><td>Switzerland</td><td>290</td><td>538</td></tr><tr><td>299</td><td><a href="https://github.com/sarlinpe">
+    </a></td><td>-</td><td>Switzerland</td><td>290</td><td>538</td></tr><tr><td>298</td><td><a href="https://github.com/sarlinpe">
         <img src="https://avatars.githubusercontent.com/u/15985472?s=72&u=ecbd8cd87fcfa65c64202d518ccbd623d314d9a5&v=4" height="12" />
         <b>Paul-Edouard Sarlin</b>
-    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>966</td><td>535</td></tr><tr><td>300</td><td><a href="https://github.com/ceriottm">
+    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>966</td><td>535</td></tr><tr><td>299</td><td><a href="https://github.com/ceriottm">
         <img src="https://avatars.githubusercontent.com/u/1118823?s=72&v=4" height="12" />
         <b>Michele Ceriotti</b>
-    </a></td><td>EPFL</td><td>Lausanne - Switzerland</td><td>83</td><td>532</td></tr><tr><td>301</td><td><a href="https://github.com/thomas-neitmann">
+    </a></td><td>EPFL</td><td>Lausanne - Switzerland</td><td>83</td><td>532</td></tr><tr><td>300</td><td><a href="https://github.com/thomas-neitmann">
         <img src="https://avatars.githubusercontent.com/u/11788080?s=72&u=6378ebb711b59b1748616c9603c28ebb55e0b17c&v=4" height="12" />
         <b>Thomas Neitmann</b>
-    </a></td><td>Denali Therapeutics</td><td>Switzerland</td><td>218</td><td>528</td></tr><tr><td>302</td><td><a href="https://github.com/lnielsen">
+    </a></td><td>Denali Therapeutics</td><td>Switzerland</td><td>218</td><td>528</td></tr><tr><td>301</td><td><a href="https://github.com/lnielsen">
         <img src="https://avatars.githubusercontent.com/u/1698163?s=72&u=42415a90ca4ffedd5597e15b7ea24b0e9aa075cf&v=4" height="12" />
         <b>Lars Holm Nielsen</b>
-    </a></td><td>CERN</td><td>Geneva, Switzerland</td><td>101</td><td>526</td></tr><tr><td>303</td><td><a href="https://github.com/dfreeman">
+    </a></td><td>CERN</td><td>Geneva, Switzerland</td><td>101</td><td>526</td></tr><tr><td>302</td><td><a href="https://github.com/dfreeman">
         <img src="https://avatars.githubusercontent.com/u/108688?s=72&v=4" height="12" />
         <b>Dan Freeman</b>
-    </a></td><td>@Salsify</td><td>Zürich</td><td>76</td><td>526</td></tr><tr><td>304</td><td><a href="https://github.com/raoulcollenteur">
+    </a></td><td>@Salsify</td><td>Zürich</td><td>76</td><td>526</td></tr><tr><td>303</td><td><a href="https://github.com/raoulcollenteur">
         <img src="https://avatars.githubusercontent.com/u/12051167?s=72&u=a3fbd784b9112944491cd6c71a1925778084b4ba&v=4" height="12" />
         <b>Raoul Collenteur</b>
-    </a></td><td>Eawag</td><td>Thun, Switzerland</td><td>119</td><td>524</td></tr><tr><td>305</td><td><a href="https://github.com/Aaron-Junker">
+    </a></td><td>Eawag</td><td>Thun, Switzerland</td><td>119</td><td>524</td></tr><tr><td>304</td><td><a href="https://github.com/Aaron-Junker">
         <img src="https://avatars.githubusercontent.com/u/58633848?s=72&u=e67c90fcd7b00bbcb0fd072984d7a8a45d177e61&v=4" height="12" />
         <b>Aaron Junker-Wildi</b>
-    </a></td><td>Aaron Junker Technologies</td><td>Switzerland</td><td>78</td><td>522</td></tr><tr><td>306</td><td><a href="https://github.com/imagejan">
+    </a></td><td>Aaron Junker Technologies</td><td>Switzerland</td><td>78</td><td>522</td></tr><tr><td>305</td><td><a href="https://github.com/imagejan">
         <img src="https://avatars.githubusercontent.com/u/2033938?s=72&v=4" height="12" />
         <b>Jan Eglinger</b>
-    </a></td><td>Friedrich Miescher Institute for Biomedical Research</td><td>Basel, Switzerland</td><td>148</td><td>521</td></tr><tr><td>307</td><td><a href="https://github.com/pierre-emmanuelJ">
+    </a></td><td>Friedrich Miescher Institute for Biomedical Research</td><td>Basel, Switzerland</td><td>148</td><td>521</td></tr><tr><td>306</td><td><a href="https://github.com/pierre-emmanuelJ">
         <img src="https://avatars.githubusercontent.com/u/15922119?s=72&u=09066c94bb56c36c5783387dffe8c8609af450d2&v=4" height="12" />
         <b>Pierre-Emmanuel Jacquier</b>
-    </a></td><td>@exoscale @zipops </td><td>Geneva</td><td>90</td><td>515</td></tr><tr><td>308</td><td><a href="https://github.com/filipw">
+    </a></td><td>@exoscale @zipops </td><td>Geneva</td><td>90</td><td>515</td></tr><tr><td>307</td><td><a href="https://github.com/filipw">
         <img src="https://avatars.githubusercontent.com/u/1710369?s=72&u=e2531da60e171fad339200cccd87300dcac64163&v=4" height="12" />
         <b>Filip W</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>830</td><td>514</td></tr><tr><td>309</td><td><a href="https://github.com/buehler">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>830</td><td>514</td></tr><tr><td>308</td><td><a href="https://github.com/buehler">
         <img src="https://avatars.githubusercontent.com/u/1067213?s=72&u=e3ed18d453fcdfe1b4163b893d448b1d943e9ce9&v=4" height="12" />
         <b>Christoph Bühler</b>
-    </a></td><td>@smartive </td><td>St.Gallen, Switzerland</td><td>89</td><td>514</td></tr><tr><td>310</td><td><a href="https://github.com/mikehearn">
+    </a></td><td>@smartive </td><td>St.Gallen, Switzerland</td><td>89</td><td>514</td></tr><tr><td>309</td><td><a href="https://github.com/mikehearn">
         <img src="https://avatars.githubusercontent.com/u/971089?s=72&u=be5b0331172edf265ad1a2fb0bbe30ef40968632&v=4" height="12" />
         <b>Mike Hearn</b>
-    </a></td><td>Hydraulic</td><td>Switzerland</td><td>846</td><td>507</td></tr><tr><td>311</td><td><a href="https://github.com/chumer">
+    </a></td><td>Hydraulic</td><td>Switzerland</td><td>846</td><td>507</td></tr><tr><td>310</td><td><a href="https://github.com/chumer">
         <img src="https://avatars.githubusercontent.com/u/4346215?s=72&u=0c02c588c23705988e4cadf8bbbd247cb7151648&v=4" height="12" />
         <b>Christian Humer</b>
-    </a></td><td>Oracle Labs</td><td>Zürich Switzerland</td><td>104</td><td>507</td></tr><tr><td>312</td><td><a href="https://github.com/JamesMenetrey">
+    </a></td><td>Oracle Labs</td><td>Zürich Switzerland</td><td>104</td><td>507</td></tr><tr><td>311</td><td><a href="https://github.com/JamesMenetrey">
         <img src="https://avatars.githubusercontent.com/u/2522427?s=72&v=4" height="12" />
         <b>Jämes Ménétrey</b>
-    </a></td><td>University of Neuchâtel</td><td>Switzerland</td><td>92</td><td>505</td></tr><tr><td>313</td><td><a href="https://github.com/FazioNico">
+    </a></td><td>University of Neuchâtel</td><td>Switzerland</td><td>92</td><td>505</td></tr><tr><td>312</td><td><a href="https://github.com/FazioNico">
         <img src="https://avatars.githubusercontent.com/u/17125807?s=72&u=b3af0a0f69f3891755bc73205032c4fb03c86dd5&v=4" height="12" />
         <b>Nicolas Fazio</b>
-    </a></td><td>-</td><td>Geneva</td><td>111</td><td>504</td></tr><tr><td>314</td><td><a href="https://github.com/ms-studio">
+    </a></td><td>-</td><td>Geneva</td><td>111</td><td>504</td></tr><tr><td>313</td><td><a href="https://github.com/ms-studio">
         <img src="https://avatars.githubusercontent.com/u/241637?s=72&u=4595d0c1ac24c83061fe2cfe7da1d0b73eb783fa&v=4" height="12" />
         <b>Manuel Schmalstieg</b>
-    </a></td><td>@eracom </td><td>Switzerland</td><td>77</td><td>496</td></tr><tr><td>315</td><td><a href="https://github.com/gavofyork">
+    </a></td><td>@eracom </td><td>Switzerland</td><td>77</td><td>496</td></tr><tr><td>314</td><td><a href="https://github.com/gavofyork">
         <img src="https://avatars.githubusercontent.com/u/138296?s=72&u=4057698f557eb8d5cae19fdfea0c91f1a69ace49&v=4" height="12" />
         <b>Gavin Wood</b>
-    </a></td><td>Parity & Polkadot</td><td>Zug, Switzerland</td><td>4K</td><td>495</td></tr><tr><td>316</td><td><a href="https://github.com/bartoszmajsak">
+    </a></td><td>Parity & Polkadot</td><td>Zug, Switzerland</td><td>4K</td><td>495</td></tr><tr><td>315</td><td><a href="https://github.com/bartoszmajsak">
         <img src="https://avatars.githubusercontent.com/u/719616?s=72&u=fd7f457e40fc5fb642c1f727b66138cb36177e1a&v=4" height="12" />
         <b>Bartosz Majsak</b>
-    </a></td><td>Red Hat Inc.</td><td>Zurich, Switzerland</td><td>104</td><td>492</td></tr><tr><td>317</td><td><a href="https://github.com/henrybear327">
+    </a></td><td>Red Hat Inc.</td><td>Zurich, Switzerland</td><td>104</td><td>492</td></tr><tr><td>316</td><td><a href="https://github.com/henrybear327">
         <img src="https://avatars.githubusercontent.com/u/9054879?s=72&v=4" height="12" />
         <b>Chun-Hung Tseng</b>
-    </a></td><td>Taurus SA</td><td>Lausanne, Switzerland</td><td>94</td><td>485</td></tr><tr><td>318</td><td><a href="https://github.com/liamsi">
+    </a></td><td>Taurus SA</td><td>Lausanne, Switzerland</td><td>94</td><td>485</td></tr><tr><td>317</td><td><a href="https://github.com/liamsi">
         <img src="https://avatars.githubusercontent.com/u/7441766?s=72&u=48d8dd5d37b5545455c90055d49c84199a0b16f2&v=4" height="12" />
         <b>Ismail Khoffi</b>
-    </a></td><td>@celestiaorg</td><td>UK / Germany / Switzerland</td><td>314</td><td>484</td></tr><tr><td>319</td><td><a href="https://github.com/mfehr">
+    </a></td><td>@celestiaorg</td><td>UK / Germany / Switzerland</td><td>314</td><td>484</td></tr><tr><td>318</td><td><a href="https://github.com/mfehr">
         <img src="https://avatars.githubusercontent.com/u/5071588?s=72&u=eda054af3a1340326d370da4f479b8259915437f&v=4" height="12" />
         <b>Marius Fehr</b>
-    </a></td><td>Voliro</td><td>Zürich</td><td>92</td><td>480</td></tr><tr><td>320</td><td><a href="https://github.com/dougxc">
+    </a></td><td>Voliro</td><td>Zürich</td><td>92</td><td>480</td></tr><tr><td>319</td><td><a href="https://github.com/dougxc">
         <img src="https://avatars.githubusercontent.com/u/5080087?s=72&u=a7c3f468f974c3a332dfdb10dca1c2e1d62007f9&v=4" height="12" />
         <b>Douglas Simon</b>
-    </a></td><td>Oracle Labs</td><td>Zurich, Switzerland</td><td>110</td><td>478</td></tr><tr><td>321</td><td><a href="https://github.com/gnecula">
+    </a></td><td>Oracle Labs</td><td>Zurich, Switzerland</td><td>110</td><td>478</td></tr><tr><td>320</td><td><a href="https://github.com/gnecula">
         <img src="https://avatars.githubusercontent.com/u/3890983?s=72&u=3aff8e5992de46e23ae2bc72189b62827ea9e1d0&v=4" height="12" />
         <b>George Necula</b>
-    </a></td><td>Google</td><td>Switzerland</td><td>104</td><td>476</td></tr><tr><td>322</td><td><a href="https://github.com/gannimo">
+    </a></td><td>Google</td><td>Switzerland</td><td>104</td><td>476</td></tr><tr><td>321</td><td><a href="https://github.com/gannimo">
         <img src="https://avatars.githubusercontent.com/u/2371964?s=72&u=1ad5736766ffd9f0cb49182ac51f30d093f7a20b&v=4" height="12" />
         <b>Mathias Payer</b>
-    </a></td><td>EPFL</td><td>Lausanne</td><td>286</td><td>468</td></tr><tr><td>323</td><td><a href="https://github.com/sidak">
+    </a></td><td>EPFL</td><td>Lausanne</td><td>286</td><td>468</td></tr><tr><td>322</td><td><a href="https://github.com/sidak">
         <img src="https://avatars.githubusercontent.com/u/6535218?s=72&u=30388f907c87ab477ab98e1d7aa0d1fbfda104b0&v=4" height="12" />
         <b>Sidak Pal Singh</b>
-    </a></td><td>ETH Zurich</td><td>Switzerland</td><td>146</td><td>463</td></tr><tr><td>324</td><td><a href="https://github.com/jankrepl">
+    </a></td><td>ETH Zurich</td><td>Switzerland</td><td>146</td><td>463</td></tr><tr><td>323</td><td><a href="https://github.com/jankrepl">
         <img src="https://avatars.githubusercontent.com/u/18519371?s=72&u=b9fdc49aaf7a29278e9c3386d7a93094a59f06ee&v=4" height="12" />
         <b>Jan</b>
-    </a></td><td>-</td><td>Geneva, Switzerland</td><td>263</td><td>461</td></tr><tr><td>325</td><td><a href="https://github.com/mpospese">
+    </a></td><td>-</td><td>Geneva, Switzerland</td><td>263</td><td>461</td></tr><tr><td>324</td><td><a href="https://github.com/mpospese">
         <img src="https://avatars.githubusercontent.com/u/1037520?s=72&v=4" height="12" />
         <b>Mark Pospesel</b>
-    </a></td><td>Crazy Milk Software</td><td>Switzerland</td><td>418</td><td>458</td></tr><tr><td>326</td><td><a href="https://github.com/dotta">
+    </a></td><td>Crazy Milk Software</td><td>Switzerland</td><td>418</td><td>458</td></tr><tr><td>325</td><td><a href="https://github.com/dotta">
         <img src="https://avatars.githubusercontent.com/u/703748?s=72&u=dff6a3d9758735b80e17db195f3e33d1653b4efa&v=4" height="12" />
         <b>Mirco Dotta</b>
-    </a></td><td>@gradle</td><td>Lausanne</td><td>96</td><td>455</td></tr><tr><td>327</td><td><a href="https://github.com/akosma">
+    </a></td><td>@gradle</td><td>Lausanne</td><td>96</td><td>455</td></tr><tr><td>326</td><td><a href="https://github.com/akosma">
         <img src="https://avatars.githubusercontent.com/u/55348?s=72&u=34935b75a66b34749fa6e50c40957d5132399747&v=4" height="12" />
         <b>Adrian Kosmaczewski</b>
-    </a></td><td>VSHN AG</td><td>Zurich, Switzerland</td><td>569</td><td>454</td></tr><tr><td>328</td><td><a href="https://github.com/kode4food">
+    </a></td><td>VSHN AG</td><td>Zurich, Switzerland</td><td>569</td><td>454</td></tr><tr><td>327</td><td><a href="https://github.com/kode4food">
         <img src="https://avatars.githubusercontent.com/u/69445?s=72&u=c682ec8af2c0d9dfc977e8c8dcd7ba5b42f51f6f&v=4" height="12" />
         <b>Thomas Bradford</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>119</td><td>453</td></tr><tr><td>329</td><td><a href="https://github.com/Razican">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>119</td><td>453</td></tr><tr><td>328</td><td><a href="https://github.com/Razican">
         <img src="https://avatars.githubusercontent.com/u/597469?s=72&u=63562a77de0d06be10d8cf5cc37685bc85472c69&v=4" height="12" />
         <b>Iban Eguia Moraza</b>
-    </a></td><td>@swisscom</td><td>Switzerland</td><td>96</td><td>453</td></tr><tr><td>330</td><td><a href="https://github.com/odan">
+    </a></td><td>@swisscom</td><td>Switzerland</td><td>96</td><td>453</td></tr><tr><td>329</td><td><a href="https://github.com/odan">
         <img src="https://avatars.githubusercontent.com/u/781074?s=72&u=812bf6106bf4da236053e59311ba916d0abdc1f8&v=4" height="12" />
         <b>Daniel Opitz</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>299</td><td>449</td></tr><tr><td>331</td><td><a href="https://github.com/nroduit">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>299</td><td>449</td></tr><tr><td>330</td><td><a href="https://github.com/nroduit">
         <img src="https://avatars.githubusercontent.com/u/993975?s=72&v=4" height="12" />
         <b>Nicolas Roduit</b>
-    </a></td><td>-</td><td>Geneva</td><td>141</td><td>449</td></tr><tr><td>332</td><td><a href="https://github.com/AlexEMG">
+    </a></td><td>-</td><td>Geneva</td><td>141</td><td>449</td></tr><tr><td>331</td><td><a href="https://github.com/AlexEMG">
         <img src="https://avatars.githubusercontent.com/u/20850270?s=72&u=8ffe5003b46e1e168f574d1cf5e2fd935f21decb&v=4" height="12" />
         <b>Alexander Mathis</b>
-    </a></td><td>École Polytechnique Fédérale de Lausanne (EPFL)</td><td>Geneva, CH</td><td>307</td><td>447</td></tr><tr><td>333</td><td><a href="https://github.com/lbrndnr">
+    </a></td><td>École Polytechnique Fédérale de Lausanne (EPFL)</td><td>Geneva, CH</td><td>307</td><td>447</td></tr><tr><td>332</td><td><a href="https://github.com/lbrndnr">
         <img src="https://avatars.githubusercontent.com/u/762049?s=72&u=c0f70a5e5fd58f7117b4da8e8ff134863ab45a7d&v=4" height="12" />
         <b>Laurin Brandner</b>
-    </a></td><td>ETH Zürich</td><td>Switzerland</td><td>225</td><td>445</td></tr><tr><td>334</td><td><a href="https://github.com/Garfield-fr">
+    </a></td><td>ETH Zürich</td><td>Switzerland</td><td>225</td><td>445</td></tr><tr><td>333</td><td><a href="https://github.com/Garfield-fr">
         <img src="https://avatars.githubusercontent.com/u/48578?s=72&v=4" height="12" />
         <b>Bertrand Zuchuat</b>
-    </a></td><td>-</td><td>Switzerland</td><td>105</td><td>444</td></tr><tr><td>335</td><td><a href="https://github.com/stefankueng">
+    </a></td><td>-</td><td>Switzerland</td><td>105</td><td>444</td></tr><tr><td>334</td><td><a href="https://github.com/stefankueng">
         <img src="https://avatars.githubusercontent.com/u/665591?s=72&v=4" height="12" />
         <b>Stefan Küng</b>
-    </a></td><td>-</td><td>Switzerland</td><td>288</td><td>439</td></tr><tr><td>336</td><td><a href="https://github.com/SmallJoker">
+    </a></td><td>-</td><td>Switzerland</td><td>288</td><td>439</td></tr><tr><td>335</td><td><a href="https://github.com/SmallJoker">
         <img src="https://avatars.githubusercontent.com/u/1497498?s=72&u=697c6b477a98926b644aa71734f21ac7fc2b01eb&v=4" height="12" />
         <b>SmallJoker</b>
-    </a></td><td>-</td><td>Switzerland</td><td>89</td><td>437</td></tr><tr><td>337</td><td><a href="https://github.com/0xced">
+    </a></td><td>-</td><td>Switzerland</td><td>89</td><td>437</td></tr><tr><td>336</td><td><a href="https://github.com/0xced">
         <img src="https://avatars.githubusercontent.com/u/51363?s=72&v=4" height="12" />
         <b>Cédric Luthi</b>
-    </a></td><td>-</td><td>Fribourg, Switzerland</td><td>1.08K</td><td>435</td></tr><tr><td>338</td><td><a href="https://github.com/matthiasjost">
+    </a></td><td>-</td><td>Fribourg, Switzerland</td><td>1.08K</td><td>435</td></tr><tr><td>337</td><td><a href="https://github.com/matthiasjost">
         <img src="https://avatars.githubusercontent.com/u/8178852?s=72&u=22064117c418d4ee6ec7c78913ec2fa4885ecb85&v=4" height="12" />
         <b>Matthias Jost</b>
-    </a></td><td>-</td><td>Switzerland</td><td>176</td><td>435</td></tr><tr><td>339</td><td><a href="https://github.com/Vad1mo">
+    </a></td><td>-</td><td>Switzerland</td><td>176</td><td>435</td></tr><tr><td>338</td><td><a href="https://github.com/Vad1mo">
+        <img src="https://avatars.githubusercontent.com/u/1492007?s=72&u=26d1efac60204c19d54acdc1328718e5ef78003c&v=4" height="12" />
+        <b>Vadim Bauer</b>
+    </a></td><td>@container-registry </td><td>Zürich</td><td>81</td><td>435</td></tr><tr><td>339</td><td><a href="https://github.com/Vad1mo">
         <img src="https://avatars.githubusercontent.com/u/1492007?s=72&u=26d1efac60204c19d54acdc1328718e5ef78003c&v=4" height="12" />
         <b>Vadim Bauer</b>
     </a></td><td>@container-registry </td><td>Zürich</td><td>81</td><td>435</td></tr><tr><td>340</td><td><a href="https://github.com/devos50">
@@ -1132,19 +1132,19 @@ github
     </a></td><td>@camptocamp </td><td>Lausanne, CH</td><td>85</td><td>409</td></tr><tr><td>356</td><td><a href="https://github.com/domob1812">
         <img src="https://avatars.githubusercontent.com/u/4943644?s=72&u=e81e2a7da2b6e14d523d137b92a3202387134531&v=4" height="12" />
         <b>Daniel Kraft</b>
-    </a></td><td>@xaya</td><td>Zürich</td><td>87</td><td>407</td></tr><tr><td>357</td><td><a href="https://github.com/digitalentity">
-        <img src="https://avatars.githubusercontent.com/u/11059099?s=72&u=f43e09a520c82e02811e37f2208bfcf9786046f5&v=4" height="12" />
-        <b>Konstantin Sharlaimov</b>
-    </a></td><td>Google</td><td>Switzerland</td><td>103</td><td>406</td></tr><tr><td>358</td><td><a href="https://github.com/JeyDi">
-        <img src="https://avatars.githubusercontent.com/u/8246117?s=72&u=8e42e1d7f0ab1289f0fcee56bbc5e7559c59095a&v=4" height="12" />
-        <b>Andrea Guzzo</b>
-    </a></td><td>@MDPI</td><td>Basel</td><td>83</td><td>403</td></tr><tr><td>359</td><td><a href="https://github.com/mkody">
-        <img src="https://avatars.githubusercontent.com/u/843787?s=72&u=ec7928fe7046ee1b958e033688e1d141286fd628&v=4" height="12" />
-        <b>Kody</b>
-    </a></td><td>-</td><td>Valais, Switzerland</td><td>113</td><td>402</td></tr><tr><td>360</td><td><a href="https://github.com/jaspervdj">
+    </a></td><td>@xaya</td><td>Zürich</td><td>87</td><td>407</td></tr><tr><td>357</td><td><a href="https://github.com/jaspervdj">
         <img src="https://avatars.githubusercontent.com/u/95501?s=72&u=93d82e2dc5b227dce9f8f742e1cb5771571af87b&v=4" height="12" />
         <b>Jasper Van der Jeugt</b>
-    </a></td><td>programmer at @snyk</td><td>Zurich, Switzerland</td><td>1.01K</td><td>396</td></tr><tr><td>361</td><td><a href="https://github.com/dermesser">
+    </a></td><td>programmer at @snyk</td><td>Zurich, Switzerland</td><td>1.01K</td><td>406</td></tr><tr><td>358</td><td><a href="https://github.com/digitalentity">
+        <img src="https://avatars.githubusercontent.com/u/11059099?s=72&u=f43e09a520c82e02811e37f2208bfcf9786046f5&v=4" height="12" />
+        <b>Konstantin Sharlaimov</b>
+    </a></td><td>Google</td><td>Switzerland</td><td>103</td><td>406</td></tr><tr><td>359</td><td><a href="https://github.com/JeyDi">
+        <img src="https://avatars.githubusercontent.com/u/8246117?s=72&u=8e42e1d7f0ab1289f0fcee56bbc5e7559c59095a&v=4" height="12" />
+        <b>Andrea Guzzo</b>
+    </a></td><td>@MDPI</td><td>Basel</td><td>83</td><td>404</td></tr><tr><td>360</td><td><a href="https://github.com/mkody">
+        <img src="https://avatars.githubusercontent.com/u/843787?s=72&u=ec7928fe7046ee1b958e033688e1d141286fd628&v=4" height="12" />
+        <b>Kody</b>
+    </a></td><td>-</td><td>Valais, Switzerland</td><td>113</td><td>402</td></tr><tr><td>361</td><td><a href="https://github.com/dermesser">
         <img src="https://avatars.githubusercontent.com/u/1042327?s=72&v=4" height="12" />
         <b>Lewin Bormann</b>
     </a></td><td>Zurich Instruments</td><td>Zürich, CH</td><td>102</td><td>395</td></tr><tr><td>362</td><td><a href="https://github.com/Simsso">
@@ -1162,10 +1162,10 @@ github
     </a></td><td>@painless-software </td><td>Kreuzlingen, Switzerland</td><td>181</td><td>393</td></tr><tr><td>366</td><td><a href="https://github.com/antoinet">
         <img src="https://avatars.githubusercontent.com/u/435018?s=72&u=9efd8fe76bfbd0dd730c160d1c10ecb5c09792d6&v=4" height="12" />
         <b>Antoine Neuenschwander</b>
-    </a></td><td>Cookies Inc.</td><td>Zürich</td><td>80</td><td>389</td></tr><tr><td>367</td><td><a href="https://github.com/MrNeRF">
+    </a></td><td>Cookies Inc.</td><td>Zürich</td><td>80</td><td>390</td></tr><tr><td>367</td><td><a href="https://github.com/MrNeRF">
         <img src="https://avatars.githubusercontent.com/u/33876434?s=72&u=223e93bb39f15a25feb7a1fc111709206531b57e&v=4" height="12" />
         <b>janusch</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>163</td><td>380</td></tr><tr><td>368</td><td><a href="https://github.com/greduan">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>164</td><td>380</td></tr><tr><td>368</td><td><a href="https://github.com/greduan">
         <img src="https://avatars.githubusercontent.com/u/2314074?s=72&v=4" height="12" />
         <b>Eduardo Lavaque</b>
     </a></td><td>-</td><td>Switzerland</td><td>103</td><td>380</td></tr><tr><td>369</td><td><a href="https://github.com/19reborn">
@@ -1219,7 +1219,7 @@ github
     </a></td><td>-</td><td>Lausanne, Switzerland</td><td>87</td><td>342</td></tr><tr><td>385</td><td><a href="https://github.com/daviddao">
         <img src="https://avatars.githubusercontent.com/u/1241240?s=72&u=16e31edbcdaaee993775cd64d12eaa7abe3cd143&v=4" height="12" />
         <b>David Dao</b>
-    </a></td><td>@GainForest</td><td>Zurich, Switzerland</td><td>782</td><td>339</td></tr><tr><td>386</td><td><a href="https://github.com/nikooo777">
+    </a></td><td>@GainForest</td><td>Zurich, Switzerland</td><td>782</td><td>340</td></tr><tr><td>386</td><td><a href="https://github.com/nikooo777">
         <img src="https://avatars.githubusercontent.com/u/707272?s=72&u=17c845cf57103737611dc3fdf0644b193dfb13ad&v=4" height="12" />
         <b>Niko</b>
     </a></td><td>OdyseeTeam</td><td>Lugano, Switzerland</td><td>78</td><td>339</td></tr><tr><td>387</td><td><a href="https://github.com/duguyue100">
@@ -1303,307 +1303,307 @@ github
     </a></td><td>@hes-so </td><td>Fribourg, Switzerland</td><td>89</td><td>279</td></tr><tr><td>413</td><td><a href="https://github.com/roman-kashitsyn">
         <img src="https://avatars.githubusercontent.com/u/847968?s=72&u=a5f8f7b5d18424ff5537b5593303a1dda59084a1&v=4" height="12" />
         <b>Roman Kashitsyn</b>
-    </a></td><td>@dfinity </td><td>Zürich, Switzerland</td><td>77</td><td>276</td></tr><tr><td>414</td><td><a href="https://github.com/misto">
-        <img src="https://avatars.githubusercontent.com/u/2111?s=72&u=8cc71f050a5921426291e7d98028180def006cfc&v=4" height="12" />
-        <b>Mirko Stocker</b>
-    </a></td><td>OST – Ostschweizer Fachhochschule</td><td>Switzerland</td><td>108</td><td>273</td></tr><tr><td>415</td><td><a href="https://github.com/elanmart">
+    </a></td><td>@dfinity </td><td>Zürich, Switzerland</td><td>77</td><td>276</td></tr><tr><td>414</td><td><a href="https://github.com/elanmart">
         <img src="https://avatars.githubusercontent.com/u/10772830?s=72&u=830b732cc38069cd68760c16ee0e48d831ccf8ff&v=4" height="12" />
         <b>Marcin Elantkowski</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>93</td><td>273</td></tr><tr><td>416</td><td><a href="https://github.com/karlkurzer">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>93</td><td>273</td></tr><tr><td>415</td><td><a href="https://github.com/karlkurzer">
         <img src="https://avatars.githubusercontent.com/u/10877966?s=72&u=c43a1d51c9dd892c2e2e1439ccb3df1b3e99a0b2&v=4" height="12" />
         <b>Karl Kurzer</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>135</td><td>272</td></tr><tr><td>417</td><td><a href="https://github.com/tobru">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>135</td><td>272</td></tr><tr><td>416</td><td><a href="https://github.com/tobru">
         <img src="https://avatars.githubusercontent.com/u/1695957?s=72&u=ee46b27df4b85ab32545deb9ceb5416aa1bb765e&v=4" height="12" />
         <b>Tobias Brunner</b>
-    </a></td><td>@vshn </td><td>Zurich, Switzerland</td><td>83</td><td>271</td></tr><tr><td>418</td><td><a href="https://github.com/PeterSommerlad">
+    </a></td><td>@vshn </td><td>Zurich, Switzerland</td><td>83</td><td>271</td></tr><tr><td>417</td><td><a href="https://github.com/PeterSommerlad">
         <img src="https://avatars.githubusercontent.com/u/1725845?s=72&v=4" height="12" />
         <b>Peter Sommerlad</b>
-    </a></td><td>Better Software</td><td>Wollerau, Switzerland</td><td>188</td><td>270</td></tr><tr><td>419</td><td><a href="https://github.com/cyrilwanner">
+    </a></td><td>Better Software</td><td>Wollerau, Switzerland</td><td>188</td><td>270</td></tr><tr><td>418</td><td><a href="https://github.com/cyrilwanner">
         <img src="https://avatars.githubusercontent.com/u/2709252?s=72&u=53b6a35347c9cccfd16f48f20e48488a089b67ed&v=4" height="12" />
         <b>Cyril Wanner</b>
-    </a></td><td>@open-ch </td><td>Zurich, Switzerland</td><td>137</td><td>269</td></tr><tr><td>420</td><td><a href="https://github.com/ulan">
+    </a></td><td>@open-ch </td><td>Zurich, Switzerland</td><td>137</td><td>269</td></tr><tr><td>419</td><td><a href="https://github.com/ulan">
         <img src="https://avatars.githubusercontent.com/u/294429?s=72&u=a38089968907928b930d37d3a4a16f0d66d2008a&v=4" height="12" />
         <b>Ulan Degenbaev</b>
-    </a></td><td>DFINITY Foundation</td><td>Zürich, Switzerland</td><td>101</td><td>269</td></tr><tr><td>421</td><td><a href="https://github.com/liufengyun">
+    </a></td><td>DFINITY Foundation</td><td>Zürich, Switzerland</td><td>101</td><td>269</td></tr><tr><td>420</td><td><a href="https://github.com/liufengyun">
         <img src="https://avatars.githubusercontent.com/u/754633?s=72&v=4" height="12" />
         <b>Fengyun Liu</b>
-    </a></td><td>Oracle Labs</td><td>Lausanne, Switzerland</td><td>257</td><td>268</td></tr><tr><td>422</td><td><a href="https://github.com/maysam">
+    </a></td><td>Oracle Labs</td><td>Lausanne, Switzerland</td><td>257</td><td>268</td></tr><tr><td>421</td><td><a href="https://github.com/maysam">
         <img src="https://avatars.githubusercontent.com/u/591033?s=72&u=bac2fc22a863505e26b4095be89527ca6bf49f65&v=4" height="12" />
         <b>Maysam Torabi</b>
-    </a></td><td>Eyelevel Schweiz AG</td><td>Basel, Switzerland</td><td>97</td><td>267</td></tr><tr><td>423</td><td><a href="https://github.com/bdelacretaz">
+    </a></td><td>Eyelevel Schweiz AG</td><td>Basel, Switzerland</td><td>97</td><td>267</td></tr><tr><td>422</td><td><a href="https://github.com/bdelacretaz">
         <img src="https://avatars.githubusercontent.com/u/81101?s=72&u=52635aff784b94122d067ab049b7948992322807&v=4" height="12" />
         <b>Bertrand Delacretaz</b>
-    </a></td><td>@adobe</td><td>Yverdon, Switzerland</td><td>146</td><td>261</td></tr><tr><td>424</td><td><a href="https://github.com/noeltock">
+    </a></td><td>@adobe</td><td>Yverdon, Switzerland</td><td>146</td><td>261</td></tr><tr><td>423</td><td><a href="https://github.com/noeltock">
         <img src="https://avatars.githubusercontent.com/u/781166?s=72&u=49479aafcc49425d168ba15d7b99e049e028772a&v=4" height="12" />
         <b>Noel Tock</b>
-    </a></td><td>Chief Growth Officer @humanmade </td><td>Zurich, Switzerland</td><td>141</td><td>261</td></tr><tr><td>425</td><td><a href="https://github.com/Roemer">
+    </a></td><td>Chief Growth Officer @humanmade </td><td>Zurich, Switzerland</td><td>141</td><td>261</td></tr><tr><td>424</td><td><a href="https://github.com/Roemer">
         <img src="https://avatars.githubusercontent.com/u/393641?s=72&u=41b26f54b8f8c3f9d452f5998891796867ed5b06&v=4" height="12" />
         <b>Roman</b>
-    </a></td><td>-</td><td>Bern, Switzerland</td><td>101</td><td>260</td></tr><tr><td>426</td><td><a href="https://github.com/emanuelduss">
+    </a></td><td>-</td><td>Bern, Switzerland</td><td>101</td><td>260</td></tr><tr><td>425</td><td><a href="https://github.com/emanuelduss">
         <img src="https://avatars.githubusercontent.com/u/438188?s=72&u=ab8ad87a9cbd033dadc7c43d1e6d4ae54af0b8ce&v=4" height="12" />
         <b>Emanuel Duss</b>
-    </a></td><td>@CompassSecurity</td><td>Switzerland</td><td>107</td><td>257</td></tr><tr><td>427</td><td><a href="https://github.com/maehr">
+    </a></td><td>@CompassSecurity</td><td>Switzerland</td><td>107</td><td>257</td></tr><tr><td>426</td><td><a href="https://github.com/maehr">
         <img src="https://avatars.githubusercontent.com/u/14755525?s=72&u=b3caea6e21ab6101990081d0db2932e2dc81f0f2&v=4" height="12" />
         <b>Moritz Mähr</b>
-    </a></td><td>@DHBern & @Stadt-Geschichte-Basel </td><td>Bern & Basel</td><td>125</td><td>256</td></tr><tr><td>428</td><td><a href="https://github.com/adridadou">
+    </a></td><td>@DHBern & @Stadt-Geschichte-Basel </td><td>Bern & Basel</td><td>125</td><td>256</td></tr><tr><td>427</td><td><a href="https://github.com/adridadou">
         <img src="https://avatars.githubusercontent.com/u/381065?s=72&u=585f25e91bab7dc4974e01070d91a13cbfeab251&v=4" height="12" />
         <b>David Roon</b>
-    </a></td><td>Tributelabs</td><td>Zurich - Switzerland</td><td>94</td><td>256</td></tr><tr><td>429</td><td><a href="https://github.com/andrivet">
+    </a></td><td>Tributelabs</td><td>Zurich - Switzerland</td><td>94</td><td>256</td></tr><tr><td>428</td><td><a href="https://github.com/andrivet">
         <img src="https://avatars.githubusercontent.com/u/981049?s=72&u=69ed82bdd8aaa3f0ce340600869e669a316b31ab&v=4" height="12" />
         <b>Sebastien Andrivet</b>
-    </a></td><td>-</td><td>Switzerland</td><td>205</td><td>255</td></tr><tr><td>430</td><td><a href="https://github.com/visiongeist">
+    </a></td><td>-</td><td>Switzerland</td><td>205</td><td>255</td></tr><tr><td>429</td><td><a href="https://github.com/visiongeist">
         <img src="https://avatars.githubusercontent.com/u/1744831?s=72&v=4" height="12" />
         <b>Damien Antipa</b>
-    </a></td><td>@adobe </td><td>Switzerland</td><td>87</td><td>253</td></tr><tr><td>431</td><td><a href="https://github.com/nobitagit">
+    </a></td><td>@adobe </td><td>Switzerland</td><td>87</td><td>253</td></tr><tr><td>430</td><td><a href="https://github.com/nobitagit">
         <img src="https://avatars.githubusercontent.com/u/2051152?s=72&u=69a8a370229bacfec03f3c42097701c101e9116c&v=4" height="12" />
         <b>Aurelio</b>
-    </a></td><td>On Running</td><td>Zürich</td><td>139</td><td>251</td></tr><tr><td>432</td><td><a href="https://github.com/pstadler">
+    </a></td><td>On Running</td><td>Zürich</td><td>139</td><td>251</td></tr><tr><td>431</td><td><a href="https://github.com/pstadler">
         <img src="https://avatars.githubusercontent.com/u/600097?s=72&u=4c27a0ef0ecd10b6d567c4be408cfe84c2965845&v=4" height="12" />
         <b>Patrick Stadler</b>
-    </a></td><td>@hobby-kube, @datatrans</td><td>Zürich, Switzerland</td><td>256</td><td>248</td></tr><tr><td>433</td><td><a href="https://github.com/yashlamba">
+    </a></td><td>@hobby-kube, @datatrans</td><td>Zürich, Switzerland</td><td>256</td><td>248</td></tr><tr><td>432</td><td><a href="https://github.com/yashlamba">
         <img src="https://avatars.githubusercontent.com/u/44164398?s=72&u=4fecb9084c25f88d00620cf52f83a9d67b6cb240&v=4" height="12" />
         <b>Yash Lamba</b>
-    </a></td><td>@cern / @zenodo / @inveniosoftware</td><td>Geneva</td><td>88</td><td>247</td></tr><tr><td>434</td><td><a href="https://github.com/manuelbl">
+    </a></td><td>@cern / @zenodo / @inveniosoftware</td><td>Geneva</td><td>88</td><td>247</td></tr><tr><td>433</td><td><a href="https://github.com/manuelbl">
         <img src="https://avatars.githubusercontent.com/u/10954524?s=72&u=2dc5487e14ac38748f5ada6700e071b713f19bd8&v=4" height="12" />
         <b>Manuel Bl.</b>
-    </a></td><td>-</td><td>Switzerland</td><td>88</td><td>247</td></tr><tr><td>435</td><td><a href="https://github.com/htqin">
+    </a></td><td>-</td><td>Switzerland</td><td>88</td><td>247</td></tr><tr><td>434</td><td><a href="https://github.com/htqin">
         <img src="https://avatars.githubusercontent.com/u/24933988?s=72&u=850085b02e2d303f265423b850ce11e180c0850f&v=4" height="12" />
         <b>Haotong Qin</b>
-    </a></td><td>Beihang University | ETH Zurich</td><td>Zürich, Switzerland</td><td>177</td><td>243</td></tr><tr><td>436</td><td><a href="https://github.com/foersterrobert">
+    </a></td><td>Beihang University | ETH Zurich</td><td>Zürich, Switzerland</td><td>177</td><td>243</td></tr><tr><td>435</td><td><a href="https://github.com/foersterrobert">
         <img src="https://avatars.githubusercontent.com/u/65739020?s=72&u=34b97f2775840db30a7b2f38746be62e82e2c778&v=4" height="12" />
         <b>robertfoerster</b>
-    </a></td><td>-</td><td>ETH Zürich</td><td>85</td><td>241</td></tr><tr><td>437</td><td><a href="https://github.com/maelfabien">
+    </a></td><td>-</td><td>ETH Zürich</td><td>85</td><td>241</td></tr><tr><td>436</td><td><a href="https://github.com/maelfabien">
         <img src="https://avatars.githubusercontent.com/u/24256555?s=72&u=c5aef1610b63ec605859404ec00da5b52d359c26&v=4" height="12" />
         <b>Mael Fabien</b>
-    </a></td><td>biped.ai</td><td>Switzerland</td><td>597</td><td>240</td></tr><tr><td>438</td><td><a href="https://github.com/FlorianSLZ">
+    </a></td><td>biped.ai</td><td>Switzerland</td><td>597</td><td>240</td></tr><tr><td>437</td><td><a href="https://github.com/FlorianSLZ">
         <img src="https://avatars.githubusercontent.com/u/38555854?s=72&u=7763110a45d75b2c752e88af1bdb5c4b49664efe&v=4" height="12" />
         <b>Florian Salzmann</b>
-    </a></td><td>-</td><td>Switzerland</td><td>96</td><td>240</td></tr><tr><td>439</td><td><a href="https://github.com/PowershellScripts">
+    </a></td><td>-</td><td>Switzerland</td><td>96</td><td>240</td></tr><tr><td>438</td><td><a href="https://github.com/PowershellScripts">
         <img src="https://avatars.githubusercontent.com/u/42035526?s=72&u=308a3be5c0643b21280464b73a6d7b5784d9d1bb&v=4" height="12" />
         <b>Arleta Wanat</b>
-    </a></td><td>-</td><td>Switzerland</td><td>73</td><td>240</td></tr><tr><td>440</td><td><a href="https://github.com/nicolastinkl">
+    </a></td><td>-</td><td>Switzerland</td><td>73</td><td>240</td></tr><tr><td>439</td><td><a href="https://github.com/nicolastinkl">
         <img src="https://avatars.githubusercontent.com/u/1518588?s=72&u=a53338088e6f348d48b7ead6116b8f2c48ae7423&v=4" height="12" />
         <b>Zeus</b>
-    </a></td><td>QUANTITY</td><td>Switzerland</td><td>79</td><td>236</td></tr><tr><td>441</td><td><a href="https://github.com/stes">
+    </a></td><td>QUANTITY</td><td>Switzerland</td><td>79</td><td>236</td></tr><tr><td>440</td><td><a href="https://github.com/stes">
         <img src="https://avatars.githubusercontent.com/u/727984?s=72&u=170ae726af0e761612c55535ab809c9e194f9fc5&v=4" height="12" />
         <b>Steffen Schneider</b>
-    </a></td><td>@bethgelab @AdaptiveMotorControlLab @ki-macht-schule </td><td>Geneva / Tuebingen</td><td>216</td><td>234</td></tr><tr><td>442</td><td><a href="https://github.com/nh2">
+    </a></td><td>@bethgelab @AdaptiveMotorControlLab @ki-macht-schule </td><td>Geneva / Tuebingen</td><td>216</td><td>234</td></tr><tr><td>441</td><td><a href="https://github.com/nh2">
         <img src="https://avatars.githubusercontent.com/u/399535?s=72&v=4" height="12" />
         <b>Niklas Hambüchen</b>
-    </a></td><td>My own consultancy</td><td>Zürich</td><td>400</td><td>230</td></tr><tr><td>443</td><td><a href="https://github.com/philippkueng">
+    </a></td><td>My own consultancy</td><td>Zürich</td><td>400</td><td>230</td></tr><tr><td>442</td><td><a href="https://github.com/philippkueng">
         <img src="https://avatars.githubusercontent.com/u/204226?s=72&u=01ec5f2bd42bc7d9a83b85b6371f176b397c4e01&v=4" height="12" />
         <b>Philipp Küng</b>
-    </a></td><td>SIX Digital Exchange</td><td>Zürich, Switzerland</td><td>89</td><td>227</td></tr><tr><td>444</td><td><a href="https://github.com/klmr">
+    </a></td><td>SIX Digital Exchange</td><td>Zürich, Switzerland</td><td>89</td><td>227</td></tr><tr><td>443</td><td><a href="https://github.com/klmr">
         <img src="https://avatars.githubusercontent.com/u/38931?s=72&u=ea36bfb644b437cba05b4d20d52d2ddc193112bf&v=4" height="12" />
         <b>Konrad Rudolph</b>
-    </a></td><td>@Roche</td><td>Basel, CH</td><td>434</td><td>225</td></tr><tr><td>445</td><td><a href="https://github.com/oliverschwendener">
+    </a></td><td>@Roche</td><td>Basel, CH</td><td>434</td><td>225</td></tr><tr><td>444</td><td><a href="https://github.com/oliverschwendener">
         <img src="https://avatars.githubusercontent.com/u/15727229?s=72&u=5adeb6f186f378d204f85d740ba554c6587bd1db&v=4" height="12" />
         <b>Oliver Schwendener</b>
-    </a></td><td>-</td><td>Switzerland</td><td>99</td><td>224</td></tr><tr><td>446</td><td><a href="https://github.com/ravage84">
+    </a></td><td>-</td><td>Switzerland</td><td>99</td><td>224</td></tr><tr><td>445</td><td><a href="https://github.com/ravage84">
         <img src="https://avatars.githubusercontent.com/u/625761?s=72&u=0cb0d04232a5162cfcad88db4e8d73abf9dac2bd&v=4" height="12" />
         <b>Marc Würth</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>98</td><td>224</td></tr><tr><td>447</td><td><a href="https://github.com/treslines">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>98</td><td>224</td></tr><tr><td>446</td><td><a href="https://github.com/treslines">
         <img src="https://avatars.githubusercontent.com/u/1042887?s=72&u=280ed0b18fc655f34b2a9ac1896f9ecbf64386c4&v=4" height="12" />
         <b>Ricardo Ferreira</b>
-    </a></td><td>https://www.mptechnology.ch/</td><td>Switzerland / Brasil</td><td>127</td><td>219</td></tr><tr><td>448</td><td><a href="https://github.com/nilq">
+    </a></td><td>https://www.mptechnology.ch/</td><td>Switzerland / Brasil</td><td>127</td><td>219</td></tr><tr><td>447</td><td><a href="https://github.com/nilq">
         <img src="https://avatars.githubusercontent.com/u/8659021?s=72&u=09d13c10b6a0500392d26e98ddbbcc971e3dce73&v=4" height="12" />
         <b>Niels Horn</b>
-    </a></td><td>Senior Machine Learning Engineer, @Unity-Technologies</td><td>Zurich, Switzerland</td><td>110</td><td>218</td></tr><tr><td>449</td><td><a href="https://github.com/syedhassaanahmed">
+    </a></td><td>Senior Machine Learning Engineer, @Unity-Technologies</td><td>Zurich, Switzerland</td><td>110</td><td>218</td></tr><tr><td>448</td><td><a href="https://github.com/syedhassaanahmed">
         <img src="https://avatars.githubusercontent.com/u/6494187?s=72&u=459a673aab8def020e24ac56755d42ca93e5268c&v=4" height="12" />
         <b>Hassaan Ahmed</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>104</td><td>217</td></tr><tr><td>450</td><td><a href="https://github.com/ioch96">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>104</td><td>217</td></tr><tr><td>449</td><td><a href="https://github.com/ioch96">
         <img src="https://avatars.githubusercontent.com/u/48016428?s=72&u=e39947e4cba45d5fa3605cdcfd908c86ee9ee29c&v=4" height="12" />
         <b>Ioannis Christodoulakis</b>
-    </a></td><td>-</td><td>Switzerland</td><td>207</td><td>215</td></tr><tr><td>451</td><td><a href="https://github.com/helenol">
+    </a></td><td>-</td><td>Switzerland</td><td>207</td><td>215</td></tr><tr><td>450</td><td><a href="https://github.com/helenol">
         <img src="https://avatars.githubusercontent.com/u/5616392?s=72&u=caca9b7dc7e5e1583fb70070b0dd8a30f16d75d2&v=4" height="12" />
         <b>Helen Oleynikova</b>
-    </a></td><td>@ethz-asl </td><td>Zürich, Switzerland</td><td>308</td><td>214</td></tr><tr><td>452</td><td><a href="https://github.com/koczkatamas">
+    </a></td><td>@ethz-asl </td><td>Zürich, Switzerland</td><td>308</td><td>214</td></tr><tr><td>451</td><td><a href="https://github.com/koczkatamas">
         <img src="https://avatars.githubusercontent.com/u/2608082?s=72&u=00ce70017376d0d79f9f1937b6a80f716cbc21db&v=4" height="12" />
         <b>Tamás Koczka</b>
-    </a></td><td>Google</td><td>Switzerland</td><td>219</td><td>214</td></tr><tr><td>453</td><td><a href="https://github.com/devnoname120">
+    </a></td><td>Google</td><td>Switzerland</td><td>219</td><td>214</td></tr><tr><td>452</td><td><a href="https://github.com/devnoname120">
         <img src="https://avatars.githubusercontent.com/u/2824100?s=72&u=691a9322ced036e4635779cfb1822616507609fa&v=4" height="12" />
         <b>Paul</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>214</td><td>214</td></tr><tr><td>454</td><td><a href="https://github.com/sayands">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>214</td><td>214</td></tr><tr><td>453</td><td><a href="https://github.com/sayands">
         <img src="https://avatars.githubusercontent.com/u/29180645?s=72&u=e182390a9605cd5ff78658be08e145f778dbea91&v=4" height="12" />
         <b>Sayan Deb Sarkar</b>
-    </a></td><td>ETH Zürich</td><td>Zürich, Switzerland</td><td>149</td><td>208</td></tr><tr><td>455</td><td><a href="https://github.com/alina-yur">
+    </a></td><td>ETH Zürich</td><td>Zürich, Switzerland</td><td>149</td><td>208</td></tr><tr><td>454</td><td><a href="https://github.com/alina-yur">
         <img src="https://avatars.githubusercontent.com/u/10358408?s=72&u=d4d68eb745af87c03743e8d28c1de26fa5c52daa&v=4" height="12" />
         <b>Alina Yurenko</b>
-    </a></td><td>Oracle</td><td>Zurich, Switzerland</td><td>81</td><td>208</td></tr><tr><td>456</td><td><a href="https://github.com/wasadigi">
+    </a></td><td>Oracle</td><td>Zurich, Switzerland</td><td>81</td><td>208</td></tr><tr><td>455</td><td><a href="https://github.com/wasadigi">
         <img src="https://avatars.githubusercontent.com/u/1152779?s=72&v=4" height="12" />
         <b>Olivier Liechti</b>
-    </a></td><td>Avalia Sytems</td><td>Switzerland</td><td>80</td><td>206</td></tr><tr><td>457</td><td><a href="https://github.com/munen">
+    </a></td><td>Avalia Sytems</td><td>Switzerland</td><td>80</td><td>206</td></tr><tr><td>456</td><td><a href="https://github.com/munen">
         <img src="https://avatars.githubusercontent.com/u/505721?s=72&v=4" height="12" />
         <b>Zen Monk Alain M. Lafon</b>
-    </a></td><td>200ok GmbH</td><td>Lambda Zen Temple (Glarus, Switzerland)</td><td>227</td><td>204</td></tr><tr><td>458</td><td><a href="https://github.com/p-">
+    </a></td><td>200ok GmbH</td><td>Lambda Zen Temple (Glarus, Switzerland)</td><td>227</td><td>204</td></tr><tr><td>457</td><td><a href="https://github.com/p-">
         <img src="https://avatars.githubusercontent.com/u/176818?s=72&u=e628085af8238bd0ad1fcf46a0ebf794b454525b&v=4" height="12" />
         <b>Peter Stöckli</b>
-    </a></td><td>-</td><td>Switzerland</td><td>94</td><td>203</td></tr><tr><td>459</td><td><a href="https://github.com/adamcik">
+    </a></td><td>-</td><td>Switzerland</td><td>94</td><td>203</td></tr><tr><td>458</td><td><a href="https://github.com/adamcik">
         <img src="https://avatars.githubusercontent.com/u/82534?s=72&u=a9acbd460ae6a584f89aabc2f7106d927338832f&v=4" height="12" />
         <b>Thomas Adamcik</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>75</td><td>203</td></tr><tr><td>460</td><td><a href="https://github.com/burdges">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>75</td><td>203</td></tr><tr><td>459</td><td><a href="https://github.com/burdges">
         <img src="https://avatars.githubusercontent.com/u/680126?s=72&v=4" height="12" />
         <b>Jeff Burdges</b>
-    </a></td><td>@w3f </td><td>Zug, Switzerland</td><td>245</td><td>202</td></tr><tr><td>461</td><td><a href="https://github.com/FlorentRevest">
+    </a></td><td>@w3f </td><td>Zug, Switzerland</td><td>245</td><td>202</td></tr><tr><td>460</td><td><a href="https://github.com/FlorentRevest">
         <img src="https://avatars.githubusercontent.com/u/908424?s=72&u=de95a5155254a4c926c0d371c1c90ea77ec75661&v=4" height="12" />
         <b>Florent Revest</b>
-    </a></td><td>@Google</td><td>Zürich, Switzerland</td><td>175</td><td>202</td></tr><tr><td>462</td><td><a href="https://github.com/kynan">
+    </a></td><td>@Google</td><td>Zürich, Switzerland</td><td>175</td><td>202</td></tr><tr><td>461</td><td><a href="https://github.com/kynan">
         <img src="https://avatars.githubusercontent.com/u/346079?s=72&v=4" height="12" />
         <b>Florian Rathgeber</b>
-    </a></td><td>Google</td><td>Zurich area, Switzerland</td><td>119</td><td>202</td></tr><tr><td>463</td><td><a href="https://github.com/dengemann">
+    </a></td><td>Google</td><td>Zurich area, Switzerland</td><td>119</td><td>202</td></tr><tr><td>462</td><td><a href="https://github.com/dengemann">
         <img src="https://avatars.githubusercontent.com/u/1908618?s=72&u=4794cffa7bff3e1ddd2f0f7f4cf97bdc787ff805&v=4" height="12" />
         <b>Denis A. Engemann</b>
-    </a></td><td>Roche</td><td>Basel, Switzerland</td><td>162</td><td>199</td></tr><tr><td>464</td><td><a href="https://github.com/DaMatrix">
+    </a></td><td>Roche</td><td>Basel, Switzerland</td><td>162</td><td>199</td></tr><tr><td>463</td><td><a href="https://github.com/DaMatrix">
         <img src="https://avatars.githubusercontent.com/u/11216106?s=72&u=da7373897113bed375ca307a81c7353f6f44cfdc&v=4" height="12" />
         <b>DaPorkchop_</b>
-    </a></td><td>@PorkStudios </td><td>Baar, Switzerland</td><td>251</td><td>197</td></tr><tr><td>465</td><td><a href="https://github.com/cblichmann">
+    </a></td><td>@PorkStudios </td><td>Baar, Switzerland</td><td>251</td><td>197</td></tr><tr><td>464</td><td><a href="https://github.com/cblichmann">
         <img src="https://avatars.githubusercontent.com/u/213059?s=72&u=2dc19df75854897e74d55e2d141edec54aa0cd94&v=4" height="12" />
         <b>Christian Blichmann</b>
-    </a></td><td>@google @zynamics </td><td>Zurich, Switzerland</td><td>224</td><td>197</td></tr><tr><td>466</td><td><a href="https://github.com/mehdichaouch">
+    </a></td><td>@google @zynamics </td><td>Zurich, Switzerland</td><td>224</td><td>197</td></tr><tr><td>465</td><td><a href="https://github.com/mehdichaouch">
         <img src="https://avatars.githubusercontent.com/u/861701?s=72&v=4" height="12" />
         <b>Mehdi Chaouch</b>
-    </a></td><td>@advocodo @wideagency @babycrea</td><td>Paris ⇄ Geneva</td><td>94</td><td>197</td></tr><tr><td>467</td><td><a href="https://github.com/davidgfnet">
+    </a></td><td>@advocodo @wideagency @babycrea</td><td>Paris ⇄ Geneva</td><td>94</td><td>197</td></tr><tr><td>466</td><td><a href="https://github.com/davidgfnet">
         <img src="https://avatars.githubusercontent.com/u/3145339?s=72&v=4" height="12" />
         <b>David G. F.</b>
-    </a></td><td>-</td><td>Zürich</td><td>235</td><td>196</td></tr><tr><td>468</td><td><a href="https://github.com/romkatv">
+    </a></td><td>-</td><td>Zürich</td><td>235</td><td>196</td></tr><tr><td>467</td><td><a href="https://github.com/romkatv">
         <img src="https://avatars.githubusercontent.com/u/1282067?s=72&u=4e6e9bb432f7b5502008624ca3bb3f28cc15ff52&v=4" height="12" />
         <b>Roman Perepelitsa</b>
-    </a></td><td>-</td><td>Switzerland</td><td>1.02K</td><td>193</td></tr><tr><td>469</td><td><a href="https://github.com/sirdarckcat">
+    </a></td><td>-</td><td>Switzerland</td><td>1.02K</td><td>193</td></tr><tr><td>468</td><td><a href="https://github.com/sirdarckcat">
         <img src="https://avatars.githubusercontent.com/u/33089?s=72&u=fb6e9899776ed0397c081932232b33d68ae1b4f1&v=4" height="12" />
         <b>Eduardo' Vela" <Nava> (sirdarckcat)</b>
-    </a></td><td>elgooG</td><td>Zürich</td><td>213</td><td>193</td></tr><tr><td>470</td><td><a href="https://github.com/MarkusEicher">
+    </a></td><td>elgooG</td><td>Zürich</td><td>213</td><td>193</td></tr><tr><td>469</td><td><a href="https://github.com/MarkusEicher">
         <img src="https://avatars.githubusercontent.com/u/83175378?s=72&u=ca8cd7a19ba982e4842e441f70ed5a912c724220&v=4" height="12" />
         <b>Markus Eicher  </b>
-    </a></td><td>-</td><td>Switzerland</td><td>176</td><td>193</td></tr><tr><td>471</td><td><a href="https://github.com/ganqqwerty">
+    </a></td><td>-</td><td>Switzerland</td><td>176</td><td>193</td></tr><tr><td>470</td><td><a href="https://github.com/ganqqwerty">
         <img src="https://avatars.githubusercontent.com/u/697308?s=72&u=115485290603d1e3072f2426a5609fa6831512c0&v=4" height="12" />
         <b>Yuri Katkov</b>
-    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>152</td><td>191</td></tr><tr><td>472</td><td><a href="https://github.com/marco76">
+    </a></td><td>-</td><td>Lausanne, Switzerland</td><td>152</td><td>191</td></tr><tr><td>471</td><td><a href="https://github.com/marco76">
         <img src="https://avatars.githubusercontent.com/u/1313276?s=72&u=c77a0cc2d00d91bd04fe905a20504fd5e3f2ba78&v=4" height="12" />
         <b>Marco</b>
-    </a></td><td>Genidea Sagl</td><td>Switzerland</td><td>90</td><td>191</td></tr><tr><td>473</td><td><a href="https://github.com/louiskirsch">
+    </a></td><td>Genidea Sagl</td><td>Switzerland</td><td>90</td><td>191</td></tr><tr><td>472</td><td><a href="https://github.com/louiskirsch">
         <img src="https://avatars.githubusercontent.com/u/5778449?s=72&u=b68aa2283069342022616698e8f3724286174b8e&v=4" height="12" />
         <b>Louis Kirsch</b>
-    </a></td><td>-</td><td>Lugano Switzerland</td><td>118</td><td>188</td></tr><tr><td>474</td><td><a href="https://github.com/tobie">
+    </a></td><td>-</td><td>Lugano Switzerland</td><td>118</td><td>188</td></tr><tr><td>473</td><td><a href="https://github.com/tobie">
         <img src="https://avatars.githubusercontent.com/u/3392?s=72&v=4" height="12" />
         <b>Tobie Langel</b>
-    </a></td><td>UnlockOpen</td><td>Geneva, Switzerland</td><td>395</td><td>184</td></tr><tr><td>475</td><td><a href="https://github.com/KireinaHoro">
+    </a></td><td>UnlockOpen</td><td>Geneva, Switzerland</td><td>395</td><td>184</td></tr><tr><td>474</td><td><a href="https://github.com/KireinaHoro">
         <img src="https://avatars.githubusercontent.com/u/7804730?s=72&u=30e5ad659a92bfd8952b9e470f6f98956db63b68&v=4" height="12" />
         <b>Pengcheng Xu</b>
-    </a></td><td>ETH Zurich</td><td>Zürich, Switzerland</td><td>215</td><td>184</td></tr><tr><td>476</td><td><a href="https://github.com/mihaidusmanu">
+    </a></td><td>ETH Zurich</td><td>Zürich, Switzerland</td><td>215</td><td>184</td></tr><tr><td>475</td><td><a href="https://github.com/mihaidusmanu">
         <img src="https://avatars.githubusercontent.com/u/7276224?s=72&u=10b0ff2f4abe1e55f1e84d412f93e74c2d23f286&v=4" height="12" />
         <b>Mihai Dusmanu</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>333</td><td>182</td></tr><tr><td>477</td><td><a href="https://github.com/LeiShi1313">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>333</td><td>182</td></tr><tr><td>476</td><td><a href="https://github.com/LeiShi1313">
         <img src="https://avatars.githubusercontent.com/u/3712421?s=72&u=e8e8b1d7be2f7e717630a886a1510db243915dfa&v=4" height="12" />
         <b>Lei Shi</b>
-    </a></td><td>-</td><td>Switzerland</td><td>119</td><td>181</td></tr><tr><td>478</td><td><a href="https://github.com/calthaus">
+    </a></td><td>-</td><td>Switzerland</td><td>119</td><td>181</td></tr><tr><td>477</td><td><a href="https://github.com/calthaus">
         <img src="https://avatars.githubusercontent.com/u/6031393?s=72&u=a6872ce8c836e407e895e1c5aad1ddebc37a5e9c&v=4" height="12" />
         <b>Christian Althaus</b>
-    </a></td><td>@ISPMBern </td><td>Bern, Switzerland</td><td>82</td><td>179</td></tr><tr><td>479</td><td><a href="https://github.com/max-andr">
+    </a></td><td>@ISPMBern </td><td>Bern, Switzerland</td><td>82</td><td>179</td></tr><tr><td>478</td><td><a href="https://github.com/max-andr">
         <img src="https://avatars.githubusercontent.com/u/14852704?s=72&u=3475daa12cf5712ab095e290994b548fbbc9a691&v=4" height="12" />
         <b>Maksym Andriushchenko</b>
-    </a></td><td>EPFL</td><td>Lausanne</td><td>188</td><td>178</td></tr><tr><td>480</td><td><a href="https://github.com/marcelstoer">
+    </a></td><td>EPFL</td><td>Lausanne</td><td>188</td><td>178</td></tr><tr><td>479</td><td><a href="https://github.com/marcelstoer">
         <img src="https://avatars.githubusercontent.com/u/624195?s=72&u=482385737bcb897ad65ff00967ac3930ea95aa5f&v=4" height="12" />
         <b>Marcel Stör</b>
-    </a></td><td>@ThingPulse @NodeMCU</td><td>Switzerland</td><td>312</td><td>177</td></tr><tr><td>481</td><td><a href="https://github.com/msoeken">
+    </a></td><td>@ThingPulse @NodeMCU</td><td>Switzerland</td><td>312</td><td>177</td></tr><tr><td>480</td><td><a href="https://github.com/msoeken">
         <img src="https://avatars.githubusercontent.com/u/1998245?s=72&u=81d6dd27db7d2a6a65b5241c680c6376c81b0a82&v=4" height="12" />
         <b>Mathias Soeken</b>
-    </a></td><td>@microsoft</td><td>Switzerland</td><td>116</td><td>177</td></tr><tr><td>482</td><td><a href="https://github.com/freaktechnik">
+    </a></td><td>@microsoft</td><td>Switzerland</td><td>116</td><td>177</td></tr><tr><td>481</td><td><a href="https://github.com/freaktechnik">
         <img src="https://avatars.githubusercontent.com/u/640949?s=72&v=4" height="12" />
         <b>Martin Giger</b>
-    </a></td><td>@thunderbird</td><td>Switzerland</td><td>75</td><td>177</td></tr><tr><td>483</td><td><a href="https://github.com/xtaran">
+    </a></td><td>@thunderbird</td><td>Switzerland</td><td>75</td><td>177</td></tr><tr><td>482</td><td><a href="https://github.com/xtaran">
         <img src="https://avatars.githubusercontent.com/u/241094?s=72&u=979ca17f88204649dea1d3609f384c944d5f69ca&v=4" height="12" />
         <b>Axel Beckert</b>
-    </a></td><td>ETH Zürich (@ETHZ-IT-SeC) + @Debian</td><td>Zürich, Switzerland</td><td>118</td><td>175</td></tr><tr><td>484</td><td><a href="https://github.com/ceki">
+    </a></td><td>ETH Zürich (@ETHZ-IT-SeC) + @Debian</td><td>Zürich, Switzerland</td><td>118</td><td>175</td></tr><tr><td>483</td><td><a href="https://github.com/ceki">
         <img src="https://avatars.githubusercontent.com/u/115476?s=72&u=a6e29e2d8139a819d13957990580d9fbcb6e2a9c&v=4" height="12" />
         <b>Ceki Gülcü</b>
-    </a></td><td>QOS.ch (Switzerland)</td><td>Vaud, Switzerland</td><td>593</td><td>173</td></tr><tr><td>485</td><td><a href="https://github.com/rochus-keller">
+    </a></td><td>QOS.ch (Switzerland)</td><td>Vaud, Switzerland</td><td>593</td><td>173</td></tr><tr><td>484</td><td><a href="https://github.com/rochus-keller">
         <img src="https://avatars.githubusercontent.com/u/2523113?s=72&u=2d7857e3c617fe13ec7685b43ffd3eeef3cf6598&v=4" height="12" />
         <b>Rochus Keller</b>
-    </a></td><td>-</td><td>Switzerland</td><td>214</td><td>173</td></tr><tr><td>486</td><td><a href="https://github.com/Zzh2000">
+    </a></td><td>-</td><td>Switzerland</td><td>214</td><td>173</td></tr><tr><td>485</td><td><a href="https://github.com/Zzh2000">
         <img src="https://avatars.githubusercontent.com/u/13914052?s=72&v=4" height="12" />
         <b>Zihan Zhu</b>
-    </a></td><td> ETH Zurich</td><td>Zurich, Switzerland</td><td>99</td><td>170</td></tr><tr><td>487</td><td><a href="https://github.com/BafS">
+    </a></td><td> ETH Zurich</td><td>Zurich, Switzerland</td><td>99</td><td>170</td></tr><tr><td>486</td><td><a href="https://github.com/BafS">
         <img src="https://avatars.githubusercontent.com/u/588205?s=72&v=4" height="12" />
         <b>Fabien Salathe</b>
-    </a></td><td>@ProtonMail </td><td>Switzerland</td><td>276</td><td>169</td></tr><tr><td>488</td><td><a href="https://github.com/ParthS007">
+    </a></td><td>@ProtonMail </td><td>Switzerland</td><td>276</td><td>169</td></tr><tr><td>487</td><td><a href="https://github.com/ParthS007">
         <img src="https://avatars.githubusercontent.com/u/24358501?s=72&u=9ba2e47a16446c85658e1dc0d877f0cc78c96503&v=4" height="12" />
         <b>Parth Shandilya</b>
-    </a></td><td>@WeblateOrg </td><td>Basel</td><td>392</td><td>167</td></tr><tr><td>489</td><td><a href="https://github.com/MrMicky-FR">
+    </a></td><td>@WeblateOrg </td><td>Basel</td><td>392</td><td>167</td></tr><tr><td>488</td><td><a href="https://github.com/MrMicky-FR">
         <img src="https://avatars.githubusercontent.com/u/30863452?s=72&u=76765b31dac67f5f9606bfae64fd3ba7563c003d&v=4" height="12" />
         <b>MrMicky</b>
-    </a></td><td>-</td><td>Switzerland</td><td>101</td><td>165</td></tr><tr><td>490</td><td><a href="https://github.com/zzamboni">
+    </a></td><td>-</td><td>Switzerland</td><td>101</td><td>165</td></tr><tr><td>489</td><td><a href="https://github.com/zzamboni">
         <img src="https://avatars.githubusercontent.com/u/32876?s=72&v=4" height="12" />
         <b>Diego Zamboni</b>
-    </a></td><td>AWS</td><td>Switzerland</td><td>180</td><td>163</td></tr><tr><td>491</td><td><a href="https://github.com/romshark">
+    </a></td><td>AWS</td><td>Switzerland</td><td>180</td><td>163</td></tr><tr><td>490</td><td><a href="https://github.com/romshark">
         <img src="https://avatars.githubusercontent.com/u/9574743?s=72&u=67fafced8e52cf60cc383679db4609bba604b454&v=4" height="12" />
         <b>Roman Sharkov</b>
-    </a></td><td>tutti.ch | Swiss Marketplace Group</td><td>Switzerland</td><td>92</td><td>163</td></tr><tr><td>492</td><td><a href="https://github.com/ngtuna">
+    </a></td><td>tutti.ch | Swiss Marketplace Group</td><td>Switzerland</td><td>92</td><td>163</td></tr><tr><td>491</td><td><a href="https://github.com/ngtuna">
         <img src="https://avatars.githubusercontent.com/u/1963463?s=72&u=c5f8d416cdbcf5395ee2fa374ecc86e1b9a83936&v=4" height="12" />
         <b>Tuna</b>
-    </a></td><td>-</td><td>Switzerland</td><td>284</td><td>162</td></tr><tr><td>493</td><td><a href="https://github.com/KCreate">
+    </a></td><td>-</td><td>Switzerland</td><td>284</td><td>162</td></tr><tr><td>492</td><td><a href="https://github.com/KCreate">
         <img src="https://avatars.githubusercontent.com/u/1352680?s=72&u=0ad30f5755a778f8b5664c1a2a579b77267bee1a&v=4" height="12" />
         <b>Leonard Schütz</b>
-    </a></td><td>-</td><td>Zürich / Switzerland</td><td>150</td><td>161</td></tr><tr><td>494</td><td><a href="https://github.com/Inplex-sys">
+    </a></td><td>-</td><td>Zürich / Switzerland</td><td>150</td><td>161</td></tr><tr><td>493</td><td><a href="https://github.com/Inplex-sys">
         <img src="https://avatars.githubusercontent.com/u/69421356?s=72&u=e30c42f5cd4f06ff2851e05d22fb914d6ab4f843&v=4" height="12" />
         <b>Inplex-sys</b>
-    </a></td><td>@tria-group</td><td>Fribourg, Switzerland</td><td>131</td><td>161</td></tr><tr><td>495</td><td><a href="https://github.com/sspreitzer">
+    </a></td><td>@tria-group</td><td>Fribourg, Switzerland</td><td>131</td><td>161</td></tr><tr><td>494</td><td><a href="https://github.com/sspreitzer">
         <img src="https://avatars.githubusercontent.com/u/2178355?s=72&u=906ac96086d2860f8214eab17151e6ebaf5150a4&v=4" height="12" />
         <b>Sascha Spreitzer</b>
-    </a></td><td>Aveniq</td><td>Zurich, Switzerland</td><td>75</td><td>161</td></tr><tr><td>496</td><td><a href="https://github.com/andersx">
+    </a></td><td>Aveniq</td><td>Zurich, Switzerland</td><td>75</td><td>161</td></tr><tr><td>495</td><td><a href="https://github.com/andersx">
         <img src="https://avatars.githubusercontent.com/u/2253386?s=72&u=78a799b6c6db387a5f12cd7f0c75750bb4347677&v=4" height="12" />
         <b>Anders Steen Christensen</b>
-    </a></td><td>Quantum Consulting by Christensen</td><td>Basel, Switzerland</td><td>106</td><td>155</td></tr><tr><td>497</td><td><a href="https://github.com/franko">
+    </a></td><td>Quantum Consulting by Christensen</td><td>Basel, Switzerland</td><td>106</td><td>155</td></tr><tr><td>496</td><td><a href="https://github.com/franko">
         <img src="https://avatars.githubusercontent.com/u/433545?s=72&v=4" height="12" />
         <b>Francesco</b>
-    </a></td><td>-</td><td>Bienne, Switzerland</td><td>105</td><td>155</td></tr><tr><td>498</td><td><a href="https://github.com/romeokienzler">
+    </a></td><td>-</td><td>Bienne, Switzerland</td><td>105</td><td>155</td></tr><tr><td>497</td><td><a href="https://github.com/romeokienzler">
         <img src="https://avatars.githubusercontent.com/u/5694071?s=72&u=56c331f11ba1477dd9ce2ba31a35c4a4bfe0aa2a&v=4" height="12" />
         <b>Romeo Kienzler</b>
-    </a></td><td>Senior Scientific Software Engineer - STSM - AI for Climate Impact (ACT), IBM Research Europe</td><td>Switzerland</td><td>606</td><td>153</td></tr><tr><td>499</td><td><a href="https://github.com/nyancrimew">
+    </a></td><td>Senior Scientific Software Engineer - STSM - AI for Climate Impact (ACT), IBM Research Europe</td><td>Switzerland</td><td>606</td><td>153</td></tr><tr><td>498</td><td><a href="https://github.com/nyancrimew">
         <img src="https://avatars.githubusercontent.com/u/13785669?s=72&u=c1851eaee621909c627a42fbe6bb47d00d0435cf&v=4" height="12" />
         <b>maia arson crimew</b>
-    </a></td><td>Unemployment LLC</td><td>Switzerland</td><td>1.48K</td><td>152</td></tr><tr><td>500</td><td><a href="https://github.com/quantumjim">
+    </a></td><td>Unemployment LLC</td><td>Switzerland</td><td>1.48K</td><td>152</td></tr><tr><td>499</td><td><a href="https://github.com/quantumjim">
         <img src="https://avatars.githubusercontent.com/u/18051574?s=72&u=1e078657d91243fda971f917558e89beb4c79586&v=4" height="12" />
         <b>James Wootton</b>
-    </a></td><td>-</td><td>Basel, Switzerland</td><td>353</td><td>152</td></tr><tr><td>501</td><td><a href="https://github.com/progschj">
+    </a></td><td>-</td><td>Basel, Switzerland</td><td>353</td><td>152</td></tr><tr><td>500</td><td><a href="https://github.com/progschj">
         <img src="https://avatars.githubusercontent.com/u/1257680?s=72&v=4" height="12" />
         <b>Jakob Progsch</b>
-    </a></td><td>-</td><td>Switzerland</td><td>336</td><td>149</td></tr><tr><td>502</td><td><a href="https://github.com/gusty">
+    </a></td><td>-</td><td>Switzerland</td><td>336</td><td>149</td></tr><tr><td>501</td><td><a href="https://github.com/gusty">
         <img src="https://avatars.githubusercontent.com/u/1261319?s=72&u=1c1590c3154f8ce9ef751ab1e06b16f28880e4ed&v=4" height="12" />
         <b>Gustavo Leon</b>
-    </a></td><td>-</td><td>Switzerland</td><td>85</td><td>149</td></tr><tr><td>503</td><td><a href="https://github.com/mromanello">
+    </a></td><td>-</td><td>Switzerland</td><td>85</td><td>149</td></tr><tr><td>502</td><td><a href="https://github.com/mromanello">
         <img src="https://avatars.githubusercontent.com/u/310693?s=72&u=5875c56e69c715df816fb2dde4c2636d0ec01780&v=4" height="12" />
         <b>Matteo Romanello</b>
-    </a></td><td>@dhlab-epfl (previously @dains and @kcl-ddh) </td><td>Lausanne (CH)</td><td>116</td><td>146</td></tr><tr><td>504</td><td><a href="https://github.com/nivida">
+    </a></td><td>@dhlab-epfl (previously @dains and @kcl-ddh) </td><td>Lausanne (CH)</td><td>116</td><td>146</td></tr><tr><td>503</td><td><a href="https://github.com/nivida">
         <img src="https://avatars.githubusercontent.com/u/1699173?s=72&u=da4d5606b31a8add698d9df69ed363c90402ce50&v=4" height="12" />
         <b>Samuel Furter</b>
-    </a></td><td>-</td><td>Switzerland</td><td>313</td><td>145</td></tr><tr><td>505</td><td><a href="https://github.com/pboos">
+    </a></td><td>-</td><td>Switzerland</td><td>313</td><td>145</td></tr><tr><td>504</td><td><a href="https://github.com/pboos">
         <img src="https://avatars.githubusercontent.com/u/398400?s=72&v=4" height="12" />
         <b>Patrick Boos</b>
-    </a></td><td>GetYourGuide</td><td>Zurich, Switzerland</td><td>98</td><td>141</td></tr><tr><td>506</td><td><a href="https://github.com/hifiberry">
+    </a></td><td>GetYourGuide</td><td>Zurich, Switzerland</td><td>98</td><td>141</td></tr><tr><td>505</td><td><a href="https://github.com/hifiberry">
         <img src="https://avatars.githubusercontent.com/u/8243622?s=72&u=c2e67cc94c06b92bb70a50bf31a10e858d56463d&v=4" height="12" />
         <b>HiFiBerry</b>
-    </a></td><td>Modul 9 LLC</td><td>Switzerland</td><td>116</td><td>140</td></tr><tr><td>507</td><td><a href="https://github.com/Kirilbt">
+    </a></td><td>Modul 9 LLC</td><td>Switzerland</td><td>116</td><td>140</td></tr><tr><td>506</td><td><a href="https://github.com/Kirilbt">
         <img src="https://avatars.githubusercontent.com/u/98451613?s=72&u=a93f1b50fbcc9f0c41f4a49bc48bbac746271b67&v=4" height="12" />
         <b>Kiril Bernard Tucker</b>
-    </a></td><td>-</td><td>Lausanne</td><td>139</td><td>139</td></tr><tr><td>508</td><td><a href="https://github.com/ibauersachs">
+    </a></td><td>-</td><td>Lausanne</td><td>139</td><td>139</td></tr><tr><td>507</td><td><a href="https://github.com/ibauersachs">
         <img src="https://avatars.githubusercontent.com/u/949783?s=72&v=4" height="12" />
         <b>Ingo Bauersachs</b>
-    </a></td><td>-</td><td>Brugg, Switzerland</td><td>105</td><td>138</td></tr><tr><td>509</td><td><a href="https://github.com/bogdan-kulynych">
+    </a></td><td>-</td><td>Brugg, Switzerland</td><td>105</td><td>138</td></tr><tr><td>508</td><td><a href="https://github.com/bogdan-kulynych">
         <img src="https://avatars.githubusercontent.com/u/1592918?s=72&u=e7a7b21381817c5c4f3bfd7340329af976f28178&v=4" height="12" />
         <b>Bogdan Kulynych</b>
-    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>123</td><td>137</td></tr><tr><td>510</td><td><a href="https://github.com/mallibone">
+    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>123</td><td>137</td></tr><tr><td>509</td><td><a href="https://github.com/mallibone">
         <img src="https://avatars.githubusercontent.com/u/642823?s=72&u=58a1701aebde5b62aa9be1ce603fd1a9e0ecf089&v=4" height="12" />
         <b>Mark Allibone</b>
-    </a></td><td>-</td><td>Switzerland</td><td>108</td><td>137</td></tr><tr><td>511</td><td><a href="https://github.com/thomasmueller">
+    </a></td><td>-</td><td>Switzerland</td><td>108</td><td>137</td></tr><tr><td>510</td><td><a href="https://github.com/thomasmueller">
         <img src="https://avatars.githubusercontent.com/u/932377?s=72&v=4" height="12" />
         <b>Thomas Mueller</b>
-    </a></td><td>@adobe</td><td>Switzerland</td><td>116</td><td>136</td></tr><tr><td>512</td><td><a href="https://github.com/westlicht">
+    </a></td><td>@adobe</td><td>Switzerland</td><td>116</td><td>136</td></tr><tr><td>511</td><td><a href="https://github.com/westlicht">
         <img src="https://avatars.githubusercontent.com/u/49278?s=72&u=b80ac5fc5caebeeda37c4594bafdd8b762e2afc1&v=4" height="12" />
         <b>Simon Kallweit</b>
-    </a></td><td>-</td><td>Switzerland</td><td>156</td><td>135</td></tr><tr><td>513</td><td><a href="https://github.com/drugilsberg">
+    </a></td><td>-</td><td>Switzerland</td><td>156</td><td>135</td></tr><tr><td>512</td><td><a href="https://github.com/drugilsberg">
         <img src="https://avatars.githubusercontent.com/u/5406908?s=72&u=ed0bb7605151cd23110c1efb835515e665000512&v=4" height="12" />
         <b>Matteo Manica</b>
-    </a></td><td>IBM Research</td><td>Zürich</td><td>90</td><td>135</td></tr><tr><td>514</td><td><a href="https://github.com/pschwllr">
+    </a></td><td>IBM Research</td><td>Zürich</td><td>90</td><td>135</td></tr><tr><td>513</td><td><a href="https://github.com/yarrick">
+        <img src="https://avatars.githubusercontent.com/u/1261015?s=72&u=70cce10a4f828ad4f109c0949868846f78478cbd&v=4" height="12" />
+        <b>Erik Ekman</b>
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>309</td><td>133</td></tr><tr><td>514</td><td><a href="https://github.com/pschwllr">
         <img src="https://avatars.githubusercontent.com/u/38880871?s=72&u=f706181c8dd0eaf4f066aa7c0e470fd0d5ad70ed&v=4" height="12" />
         <b>Philippe Schwaller</b>
     </a></td><td>EPFL</td><td>Lausanne / Fribourg</td><td>178</td><td>131</td></tr><tr><td>515</td><td><a href="https://github.com/alderg">
@@ -1633,217 +1633,217 @@ github
     </a></td><td>@elastic </td><td>Zurich, Switzerland</td><td>119</td><td>126</td></tr><tr><td>523</td><td><a href="https://github.com/mnemocron">
         <img src="https://avatars.githubusercontent.com/u/13417604?s=72&u=5cf1cd28169bf7964a12e8d721353ec12181b2d2&v=4" height="12" />
         <b>Simon Burkhardt</b>
-    </a></td><td>-</td><td>Solothurn, Switzerland</td><td>119</td><td>126</td></tr><tr><td>524</td><td><a href="https://github.com/yarrick">
-        <img src="https://avatars.githubusercontent.com/u/1261015?s=72&u=70cce10a4f828ad4f109c0949868846f78478cbd&v=4" height="12" />
-        <b>Erik Ekman</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>309</td><td>125</td></tr><tr><td>525</td><td><a href="https://github.com/IP-CAM">
+    </a></td><td>-</td><td>Solothurn, Switzerland</td><td>119</td><td>126</td></tr><tr><td>524</td><td><a href="https://github.com/IP-CAM">
         <img src="https://avatars.githubusercontent.com/u/12776547?s=72&u=d2505ad889654fa3c8b2d60f883a475c611da278&v=4" height="12" />
         <b>Ernie</b>
-    </a></td><td>Jacob Technology & Information</td><td>Switzerland</td><td>271</td><td>125</td></tr><tr><td>526</td><td><a href="https://github.com/pimvanpelt">
+    </a></td><td>Jacob Technology & Information</td><td>Switzerland</td><td>271</td><td>125</td></tr><tr><td>525</td><td><a href="https://github.com/pimvanpelt">
         <img src="https://avatars.githubusercontent.com/u/8853821?s=72&u=f7621a01a2ad04a4f9a0accf9ed8b5d0c84e5777&v=4" height="12" />
         <b>Pim van Pelt</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>137</td><td>123</td></tr><tr><td>527</td><td><a href="https://github.com/davidmorgan">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>137</td><td>123</td></tr><tr><td>526</td><td><a href="https://github.com/davidmorgan">
         <img src="https://avatars.githubusercontent.com/u/5536920?s=72&u=d605e4da88da0bc30047dd6ead94f58f867e605e&v=4" height="12" />
         <b>David Morgan</b>
-    </a></td><td>Google</td><td>Switzerland</td><td>89</td><td>123</td></tr><tr><td>528</td><td><a href="https://github.com/marcruef">
+    </a></td><td>Google</td><td>Switzerland</td><td>89</td><td>123</td></tr><tr><td>527</td><td><a href="https://github.com/marcruef">
         <img src="https://avatars.githubusercontent.com/u/9268866?s=72&u=3a33514f0ce4710ff8d3e2e2d39f96b3022b26ea&v=4" height="12" />
         <b>Marc Ruef</b>
-    </a></td><td>@scipag </td><td>Zürich, Switzerland</td><td>86</td><td>121</td></tr><tr><td>529</td><td><a href="https://github.com/mpvl">
+    </a></td><td>@scipag </td><td>Zürich, Switzerland</td><td>86</td><td>121</td></tr><tr><td>528</td><td><a href="https://github.com/mpvl">
         <img src="https://avatars.githubusercontent.com/u/6445383?s=72&u=952ab166c615366ecc27a1068b038e66b2403d18&v=4" height="12" />
         <b>Marcel van Lohuizen</b>
-    </a></td><td>CUE</td><td>Zurich, Switzerland</td><td>483</td><td>120</td></tr><tr><td>530</td><td><a href="https://github.com/stephanemagnenat">
+    </a></td><td>CUE</td><td>Zurich, Switzerland</td><td>483</td><td>120</td></tr><tr><td>529</td><td><a href="https://github.com/stephanemagnenat">
         <img src="https://avatars.githubusercontent.com/u/390278?s=72&v=4" height="12" />
         <b>Stéphane Magnenat</b>
-    </a></td><td>@enlightware</td><td>Switzerland</td><td>74</td><td>120</td></tr><tr><td>531</td><td><a href="https://github.com/NorfairKing">
+    </a></td><td>@enlightware</td><td>Switzerland</td><td>74</td><td>120</td></tr><tr><td>530</td><td><a href="https://github.com/NorfairKing">
         <img src="https://avatars.githubusercontent.com/u/3521180?s=72&u=5a2f5c02ebb539218139376df37b13e879114f06&v=4" height="12" />
         <b>Tom Sydney Kerckhove</b>
-    </a></td><td>CS Kerckhove</td><td>Zürich</td><td>388</td><td>118</td></tr><tr><td>532</td><td><a href="https://github.com/mhauri">
+    </a></td><td>CS Kerckhove</td><td>Zürich</td><td>388</td><td>118</td></tr><tr><td>531</td><td><a href="https://github.com/mhauri">
         <img src="https://avatars.githubusercontent.com/u/402069?s=72&u=4bed067ff7edcda58e3499d8e59b223a2f4ba5a7&v=4" height="12" />
         <b>Marcel Hauri</b>
-    </a></td><td>ICT Berufsbildungscenter AG</td><td>Bern, Switzerland</td><td>93</td><td>116</td></tr><tr><td>533</td><td><a href="https://github.com/baderj">
+    </a></td><td>ICT Berufsbildungscenter AG</td><td>Bern, Switzerland</td><td>93</td><td>116</td></tr><tr><td>532</td><td><a href="https://github.com/baderj">
         <img src="https://avatars.githubusercontent.com/u/5196024?s=72&u=1245ca5b94ecbcea8fd0192ec674be27750da9af&v=4" height="12" />
         <b>Johannes Bader</b>
-    </a></td><td>-</td><td>Switzerland</td><td>180</td><td>114</td></tr><tr><td>534</td><td><a href="https://github.com/s3inlc">
+    </a></td><td>-</td><td>Switzerland</td><td>180</td><td>114</td></tr><tr><td>533</td><td><a href="https://github.com/s3inlc">
         <img src="https://avatars.githubusercontent.com/u/1167295?s=72&u=4c9772001541ab06a147e77c9194cb869b8e431e&v=4" height="12" />
         <b>Sein Coray</b>
-    </a></td><td>-</td><td>Switzerland</td><td>169</td><td>113</td></tr><tr><td>535</td><td><a href="https://github.com/martinchristen">
+    </a></td><td>-</td><td>Switzerland</td><td>169</td><td>113</td></tr><tr><td>534</td><td><a href="https://github.com/martinchristen">
         <img src="https://avatars.githubusercontent.com/u/703849?s=72&v=4" height="12" />
         <b>Martin Christen</b>
-    </a></td><td>University of Applied Sciences Northwestern Switzerland</td><td>Muttenz, Switzerland</td><td>84</td><td>113</td></tr><tr><td>536</td><td><a href="https://github.com/akospasztor">
+    </a></td><td>University of Applied Sciences Northwestern Switzerland</td><td>Muttenz, Switzerland</td><td>84</td><td>113</td></tr><tr><td>535</td><td><a href="https://github.com/akospasztor">
         <img src="https://avatars.githubusercontent.com/u/6011126?s=72&u=e5e1356c7e1a76cdacdd9c661e482e96d2846442&v=4" height="12" />
         <b>Akos Pasztor</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>147</td><td>112</td></tr><tr><td>537</td><td><a href="https://github.com/wil93">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>147</td><td>112</td></tr><tr><td>536</td><td><a href="https://github.com/wil93">
         <img src="https://avatars.githubusercontent.com/u/1285361?s=72&u=087acd5195b91bdd8347ffa7e4f83cd2722d1de9&v=4" height="12" />
         <b>William Di Luigi</b>
-    </a></td><td>@Google</td><td>Zürich</td><td>88</td><td>111</td></tr><tr><td>538</td><td><a href="https://github.com/dvicini">
+    </a></td><td>@Google</td><td>Zürich</td><td>88</td><td>111</td></tr><tr><td>537</td><td><a href="https://github.com/dvicini">
         <img src="https://avatars.githubusercontent.com/u/5487532?s=72&u=7929b4c10e613b89b68c213dff9590b1b2cd4d01&v=4" height="12" />
         <b>Delio Vicini</b>
-    </a></td><td>@googlers </td><td>Zürich</td><td>181</td><td>110</td></tr><tr><td>539</td><td><a href="https://github.com/adixchen">
+    </a></td><td>@googlers </td><td>Zürich</td><td>181</td><td>110</td></tr><tr><td>538</td><td><a href="https://github.com/adixchen">
         <img src="https://avatars.githubusercontent.com/u/6239971?s=72&u=7e388ea80a8f70ca46eb7a52cc7d51f20f7104e3&v=4" height="12" />
         <b>Adrian Matei</b>
-    </a></td><td>@CodepediaOrg </td><td>Bern, Switzerland</td><td>114</td><td>110</td></tr><tr><td>540</td><td><a href="https://github.com/BrunaFusiger">
+    </a></td><td>@CodepediaOrg </td><td>Bern, Switzerland</td><td>114</td><td>110</td></tr><tr><td>539</td><td><a href="https://github.com/BrunaFusiger">
         <img src="https://avatars.githubusercontent.com/u/90523641?s=72&u=7e164b35cec0115c90c2ffd448661a4198139242&v=4" height="12" />
         <b>Bruna Fusiger</b>
-    </a></td><td>Zytro</td><td>Switzerland</td><td>83</td><td>110</td></tr><tr><td>541</td><td><a href="https://github.com/anar-rzayev">
+    </a></td><td>Zytro</td><td>Switzerland</td><td>83</td><td>110</td></tr><tr><td>540</td><td><a href="https://github.com/anar-rzayev">
         <img src="https://avatars.githubusercontent.com/u/71382373?s=72&u=ab1b3e25ebdb6c25271d9228fec8dc9208bbcb53&v=4" height="12" />
         <b>Anar Rzayev</b>
-    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>102</td><td>109</td></tr><tr><td>542</td><td><a href="https://github.com/aloiscochard">
+    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>102</td><td>109</td></tr><tr><td>541</td><td><a href="https://github.com/aloiscochard">
         <img src="https://avatars.githubusercontent.com/u/215476?s=72&u=1ff66916337fa3925a4a671dd80fc465552cb568&v=4" height="12" />
         <b>Aloïs Cochard</b>
-    </a></td><td>-</td><td>Lausanne, CH</td><td>126</td><td>108</td></tr><tr><td>543</td><td><a href="https://github.com/sergeyprokudin">
+    </a></td><td>-</td><td>Lausanne, CH</td><td>126</td><td>108</td></tr><tr><td>542</td><td><a href="https://github.com/sergeyprokudin">
         <img src="https://avatars.githubusercontent.com/u/8117267?s=72&u=09edc4d343eb77ee0bf09689a71b3411aa3ae6d9&v=4" height="12" />
         <b>Sergey Prokudin</b>
-    </a></td><td>ETH Zürich</td><td>Zürich</td><td>97</td><td>107</td></tr><tr><td>544</td><td><a href="https://github.com/stakx">
+    </a></td><td>ETH Zürich</td><td>Zürich</td><td>97</td><td>107</td></tr><tr><td>543</td><td><a href="https://github.com/stakx">
         <img src="https://avatars.githubusercontent.com/u/104481?s=72&u=e8df0e2754d8a4ea5e534a47be6ee2cca15cec32&v=4" height="12" />
         <b>Dominique Schuppli</b>
-    </a></td><td>-</td><td>Switzerland</td><td>88</td><td>106</td></tr><tr><td>545</td><td><a href="https://github.com/emanuelhuber">
+    </a></td><td>-</td><td>Switzerland</td><td>88</td><td>106</td></tr><tr><td>544</td><td><a href="https://github.com/emanuelhuber">
         <img src="https://avatars.githubusercontent.com/u/12541363?s=72&u=6867bf1ac3be94b112bcbff90e1c9bf28a99452a&v=4" height="12" />
         <b>Emanuel Huber</b>
-    </a></td><td>buccaneer</td><td>Switzerland</td><td>75</td><td>105</td></tr><tr><td>546</td><td><a href="https://github.com/tobiasfshr">
+    </a></td><td>buccaneer</td><td>Switzerland</td><td>75</td><td>105</td></tr><tr><td>545</td><td><a href="https://github.com/tobiasfshr">
         <img src="https://avatars.githubusercontent.com/u/36965290?s=72&u=3f43c8647260b9d2fbc2b3107b1659dcbcccaac1&v=4" height="12" />
         <b>Tobias Fischer</b>
-    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>75</td><td>103</td></tr><tr><td>547</td><td><a href="https://github.com/alexanderadam">
+    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>75</td><td>103</td></tr><tr><td>546</td><td><a href="https://github.com/alexanderadam">
         <img src="https://avatars.githubusercontent.com/u/372620?s=72&u=9c18ddb233cbcbe6b40d89e77fea229410654520&v=4" height="12" />
         <b>Alexander ADAM</b>
-    </a></td><td>@vade-io </td><td>Zürich, Switzerland</td><td>168</td><td>102</td></tr><tr><td>548</td><td><a href="https://github.com/yangycpku">
+    </a></td><td>@vade-io </td><td>Zürich, Switzerland</td><td>168</td><td>102</td></tr><tr><td>547</td><td><a href="https://github.com/yangycpku">
         <img src="https://avatars.githubusercontent.com/u/16571711?s=72&v=4" height="12" />
         <b>Yucheng Yang</b>
-    </a></td><td>University of Zurich</td><td>Zurich, Switzerland</td><td>112</td><td>101</td></tr><tr><td>549</td><td><a href="https://github.com/kumar-shridhar">
+    </a></td><td>University of Zurich</td><td>Zurich, Switzerland</td><td>112</td><td>101</td></tr><tr><td>548</td><td><a href="https://github.com/kumar-shridhar">
         <img src="https://avatars.githubusercontent.com/u/20888097?s=72&u=b3c1b4cfc9ec18d5bebc4ad22fe04fec1e3885a2&v=4" height="12" />
         <b>Kumar Shridhar</b>
-    </a></td><td>ETH Zürich</td><td>Zürich, Switzerland</td><td>418</td><td>99</td></tr><tr><td>550</td><td><a href="https://github.com/axel22">
+    </a></td><td>ETH Zürich</td><td>Zürich, Switzerland</td><td>418</td><td>99</td></tr><tr><td>549</td><td><a href="https://github.com/axel22">
         <img src="https://avatars.githubusercontent.com/u/151774?s=72&u=921b179f119995994f807454ebd33a9c36695a6d&v=4" height="12" />
         <b>Aleksandar Prokopec</b>
-    </a></td><td>Oracle Labs</td><td>Switzerland</td><td>379</td><td>99</td></tr><tr><td>551</td><td><a href="https://github.com/0x6d69636b">
+    </a></td><td>Oracle Labs</td><td>Switzerland</td><td>379</td><td>99</td></tr><tr><td>550</td><td><a href="https://github.com/0x6d69636b">
         <img src="https://avatars.githubusercontent.com/u/13913706?s=72&u=90fb7254092fe0027586c0e9fbedac73f6e5fd54&v=4" height="12" />
         <b>Michael Schneider</b>
-    </a></td><td>@scipag </td><td>Winterthur, Switzerland</td><td>181</td><td>98</td></tr><tr><td>552</td><td><a href="https://github.com/veorq">
+    </a></td><td>@scipag </td><td>Winterthur, Switzerland</td><td>181</td><td>98</td></tr><tr><td>551</td><td><a href="https://github.com/veorq">
         <img src="https://avatars.githubusercontent.com/u/3204810?s=72&u=cc580bb522b5d445c60015b343019cf440c77af6&v=4" height="12" />
         <b>Jean-Philippe Aumasson</b>
-    </a></td><td>@taurusgroup </td><td>Switzerland</td><td>816</td><td>97</td></tr><tr><td>553</td><td><a href="https://github.com/cpitclaudel">
+    </a></td><td>@taurusgroup </td><td>Switzerland</td><td>816</td><td>97</td></tr><tr><td>552</td><td><a href="https://github.com/cpitclaudel">
         <img src="https://avatars.githubusercontent.com/u/8181630?s=72&u=2cc71597fa03b4f434d315d1de1bce99240a3e8a&v=4" height="12" />
         <b>Clément Pit-Claudel</b>
-    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>298</td><td>95</td></tr><tr><td>554</td><td><a href="https://github.com/lvandeve">
+    </a></td><td>EPFL</td><td>Lausanne, Switzerland</td><td>298</td><td>95</td></tr><tr><td>553</td><td><a href="https://github.com/lvandeve">
         <img src="https://avatars.githubusercontent.com/u/4254201?s=72&v=4" height="12" />
         <b>Lode Vandevenne</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>166</td><td>93</td></tr><tr><td>555</td><td><a href="https://github.com/harunurhan">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>166</td><td>93</td></tr><tr><td>554</td><td><a href="https://github.com/harunurhan">
         <img src="https://avatars.githubusercontent.com/u/4868667?s=72&u=3625b8f9d8f7cbd3d2e69b0454b2e12c897ed738&v=4" height="12" />
         <b>Harun Urhan</b>
-    </a></td><td>@microsoft</td><td>Geneva</td><td>89</td><td>93</td></tr><tr><td>556</td><td><a href="https://github.com/yulunzhang">
+    </a></td><td>@microsoft</td><td>Geneva</td><td>89</td><td>93</td></tr><tr><td>555</td><td><a href="https://github.com/yulunzhang">
         <img src="https://avatars.githubusercontent.com/u/22829440?s=72&u=ece1d7ef2c3c833bd358fe6b7c902fc4aa932522&v=4" height="12" />
         <b>Yulun Zhang</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>496</td><td>92</td></tr><tr><td>557</td><td><a href="https://github.com/simonaco">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>496</td><td>92</td></tr><tr><td>556</td><td><a href="https://github.com/simonaco">
         <img src="https://avatars.githubusercontent.com/u/1573904?s=72&u=4e610237f2474069c2bfb512b6a2472209bf0d47&v=4" height="12" />
         <b>Simona Cotin</b>
-    </a></td><td>@Google</td><td>Zurich, Switzerland</td><td>626</td><td>91</td></tr><tr><td>558</td><td><a href="https://github.com/lbarman">
+    </a></td><td>@Google</td><td>Zurich, Switzerland</td><td>626</td><td>91</td></tr><tr><td>557</td><td><a href="https://github.com/lbarman">
         <img src="https://avatars.githubusercontent.com/u/5019664?s=72&u=80fc46b24a8b89f3fb311abc6643efdd8ee230ee&v=4" height="12" />
         <b>Ludovic Barman</b>
-    </a></td><td>-</td><td>Switzerland</td><td>100</td><td>90</td></tr><tr><td>559</td><td><a href="https://github.com/julienr">
+    </a></td><td>-</td><td>Switzerland</td><td>100</td><td>90</td></tr><tr><td>558</td><td><a href="https://github.com/julienr">
         <img src="https://avatars.githubusercontent.com/u/506602?s=72&u=8cd93e239e64a23493349a87b538549d970ef573&v=4" height="12" />
         <b>Julien Rebetez</b>
-    </a></td><td>Picterra</td><td>Switzerland</td><td>163</td><td>89</td></tr><tr><td>560</td><td><a href="https://github.com/bar9">
+    </a></td><td>Picterra</td><td>Switzerland</td><td>163</td><td>89</td></tr><tr><td>559</td><td><a href="https://github.com/bar9">
         <img src="https://avatars.githubusercontent.com/u/10152191?s=72&u=ff11e0b2b775aed8b61a7fdf9e63d87e0c53bfa3&v=4" height="12" />
         <b>Roland Brand</b>
-    </a></td><td>@iwf-web</td><td>Basel, Switzerland</td><td>92</td><td>89</td></tr><tr><td>561</td><td><a href="https://github.com/jacekschae">
+    </a></td><td>@iwf-web</td><td>Basel, Switzerland</td><td>92</td><td>89</td></tr><tr><td>560</td><td><a href="https://github.com/jacekschae">
         <img src="https://avatars.githubusercontent.com/u/31179812?s=72&u=bd9045c8c27964144f237077ff63cb9b612c8474&v=4" height="12" />
         <b>Jacek Schæ</b>
-    </a></td><td>@clojurestream </td><td>Switzerland</td><td>201</td><td>88</td></tr><tr><td>562</td><td><a href="https://github.com/Diego999">
+    </a></td><td>@clojurestream </td><td>Switzerland</td><td>201</td><td>88</td></tr><tr><td>561</td><td><a href="https://github.com/Diego999">
         <img src="https://avatars.githubusercontent.com/u/1092464?s=72&u=60ef8dabb8a4a1e5db95b467d22674b046127758&v=4" height="12" />
         <b>Diego Antognini</b>
-    </a></td><td>IBM Research AI</td><td>Switzerland</td><td>164</td><td>88</td></tr><tr><td>563</td><td><a href="https://github.com/pflammertsma">
+    </a></td><td>IBM Research AI</td><td>Switzerland</td><td>164</td><td>88</td></tr><tr><td>562</td><td><a href="https://github.com/pflammertsma">
         <img src="https://avatars.githubusercontent.com/u/286051?s=72&v=4" height="12" />
         <b>Paul Lammertsma</b>
-    </a></td><td>@google</td><td>Zurich, Switzerland</td><td>146</td><td>88</td></tr><tr><td>564</td><td><a href="https://github.com/larsgeb">
+    </a></td><td>@google</td><td>Zurich, Switzerland</td><td>146</td><td>88</td></tr><tr><td>563</td><td><a href="https://github.com/larsgeb">
         <img src="https://avatars.githubusercontent.com/u/21038893?s=72&u=ac36fd128e59029fd9406324deba5f3262bad2f9&v=4" height="12" />
         <b>Lars Gebraad</b>
-    </a></td><td>Mondaic AG</td><td>Switzerland</td><td>78</td><td>88</td></tr><tr><td>565</td><td><a href="https://github.com/JuergenGutsch">
+    </a></td><td>Mondaic AG</td><td>Switzerland</td><td>78</td><td>88</td></tr><tr><td>564</td><td><a href="https://github.com/JuergenGutsch">
         <img src="https://avatars.githubusercontent.com/u/365688?s=72&u=87ea09bdf16991c1b2748deb28109810fb4607c0&v=4" height="12" />
         <b>Juergen Gutsch</b>
-    </a></td><td>YOO AG</td><td>Basel CH</td><td>282</td><td>85</td></tr><tr><td>566</td><td><a href="https://github.com/merlinND">
+    </a></td><td>YOO AG</td><td>Basel CH</td><td>282</td><td>85</td></tr><tr><td>565</td><td><a href="https://github.com/merlinND">
         <img src="https://avatars.githubusercontent.com/u/5563370?s=72&u=a0debc1ef8175503b5155c877fe51350b2ccca11&v=4" height="12" />
         <b>Merlin Nimier-David</b>
-    </a></td><td>-</td><td>Switzerland</td><td>227</td><td>85</td></tr><tr><td>567</td><td><a href="https://github.com/raducotescu">
+    </a></td><td>-</td><td>Switzerland</td><td>227</td><td>85</td></tr><tr><td>566</td><td><a href="https://github.com/raducotescu">
         <img src="https://avatars.githubusercontent.com/u/170911?s=72&u=665c1e6a701725b39faf750b415e14a5f410ddb9&v=4" height="12" />
         <b>Radu Cotescu</b>
-    </a></td><td>@adobe, @apache</td><td>Basel, Switzerland</td><td>104</td><td>85</td></tr><tr><td>568</td><td><a href="https://github.com/Chasel-Tsui">
+    </a></td><td>@adobe, @apache</td><td>Basel, Switzerland</td><td>104</td><td>85</td></tr><tr><td>567</td><td><a href="https://github.com/Chasel-Tsui">
         <img src="https://avatars.githubusercontent.com/u/52711765?s=72&u=399b746131299391b049cf89696bb5c752b6a6fd&v=4" height="12" />
         <b>Chang Xu</b>
-    </a></td><td>-</td><td>Lausanne</td><td>84</td><td>85</td></tr><tr><td>569</td><td><a href="https://github.com/zerefwayne">
+    </a></td><td>-</td><td>Lausanne</td><td>84</td><td>85</td></tr><tr><td>568</td><td><a href="https://github.com/zerefwayne">
         <img src="https://avatars.githubusercontent.com/u/28949397?s=72&u=bdb5913d4f045398661cfdaa5dce2ca34021a6dc&v=4" height="12" />
         <b>Aayush Joglekar</b>
-    </a></td><td>@cern</td><td>Geneva, Switzerland</td><td>224</td><td>83</td></tr><tr><td>570</td><td><a href="https://github.com/KalmanNet">
+    </a></td><td>@cern</td><td>Geneva, Switzerland</td><td>224</td><td>83</td></tr><tr><td>569</td><td><a href="https://github.com/KalmanNet">
         <img src="https://avatars.githubusercontent.com/u/87475986?s=72&u=e1f6fb20761c453783f840958ccbe8abaa918b47&v=4" height="12" />
         <b>KalmanNet</b>
-    </a></td><td>ETH</td><td>Switzerland</td><td>85</td><td>83</td></tr><tr><td>571</td><td><a href="https://github.com/htpcBeginner">
+    </a></td><td>ETH</td><td>Switzerland</td><td>85</td><td>83</td></tr><tr><td>570</td><td><a href="https://github.com/htpcBeginner">
         <img src="https://avatars.githubusercontent.com/u/7935041?s=72&u=f929578a3db0fb2995d2392b86ca63d302085c7c&v=4" height="12" />
         <b>SmartHomeBeginner</b>
-    </a></td><td>HTPCBEGINNER LLC</td><td>Lausanne, Switzerland</td><td>397</td><td>81</td></tr><tr><td>572</td><td><a href="https://github.com/jamuhl">
+    </a></td><td>HTPCBEGINNER LLC</td><td>Lausanne, Switzerland</td><td>398</td><td>81</td></tr><tr><td>571</td><td><a href="https://github.com/jamuhl">
         <img src="https://avatars.githubusercontent.com/u/977772?s=72&v=4" height="12" />
         <b>Jan Mühlemann</b>
-    </a></td><td>locize.com</td><td>Zürich, Switzerland</td><td>214</td><td>81</td></tr><tr><td>573</td><td><a href="https://github.com/Remo">
+    </a></td><td>locize.com</td><td>Zürich, Switzerland</td><td>214</td><td>81</td></tr><tr><td>572</td><td><a href="https://github.com/Remo">
         <img src="https://avatars.githubusercontent.com/u/129864?s=72&u=5084dabd0df1d4334241dec89c72d912f9ca4e59&v=4" height="12" />
         <b>Remo Laubacher</b>
-    </a></td><td>Ortic Solutions GmbH</td><td>Switzerland</td><td>76</td><td>81</td></tr><tr><td>574</td><td><a href="https://github.com/antenore">
+    </a></td><td>Ortic Solutions GmbH</td><td>Switzerland</td><td>76</td><td>81</td></tr><tr><td>573</td><td><a href="https://github.com/antenore">
         <img src="https://avatars.githubusercontent.com/u/5975?s=72&u=3d3d57cfd26ab745f68c85855683c8e153f3604e&v=4" height="12" />
         <b>Antenore Gatta</b>
-    </a></td><td>Kyndryl</td><td>Lausanne, Switzerland</td><td>139</td><td>78</td></tr><tr><td>575</td><td><a href="https://github.com/deshipu">
+    </a></td><td>Kyndryl</td><td>Lausanne, Switzerland</td><td>139</td><td>78</td></tr><tr><td>574</td><td><a href="https://github.com/deshipu">
         <img src="https://avatars.githubusercontent.com/u/1181357?s=72&v=4" height="12" />
         <b>Radomir Dopieralski</b>
-    </a></td><td>Red Hat</td><td>Zürich</td><td>137</td><td>78</td></tr><tr><td>576</td><td><a href="https://github.com/eamonnmag">
+    </a></td><td>Red Hat</td><td>Zürich</td><td>137</td><td>78</td></tr><tr><td>575</td><td><a href="https://github.com/eamonnmag">
         <img src="https://avatars.githubusercontent.com/u/282396?s=72&v=4" height="12" />
         <b>Eamonn Maguire</b>
-    </a></td><td>@protonmail </td><td>Geneva</td><td>88</td><td>78</td></tr><tr><td>577</td><td><a href="https://github.com/alxs">
+    </a></td><td>@protonmail </td><td>Geneva</td><td>88</td><td>78</td></tr><tr><td>576</td><td><a href="https://github.com/alxs">
         <img src="https://avatars.githubusercontent.com/u/15819210?s=72&u=2aff5bc6db24a62539d6359e3246f99802711153&v=4" height="12" />
         <b>Aleixo Sanchez</b>
-    </a></td><td>-</td><td>Switzerland</td><td>83</td><td>78</td></tr><tr><td>578</td><td><a href="https://github.com/davidhalter">
+    </a></td><td>-</td><td>Switzerland</td><td>83</td><td>78</td></tr><tr><td>577</td><td><a href="https://github.com/davidhalter">
         <img src="https://avatars.githubusercontent.com/u/748594?s=72&v=4" height="12" />
         <b>Dave Halter</b>
-    </a></td><td>@cloudscale-ch </td><td>Switzerland</td><td>440</td><td>77</td></tr><tr><td>579</td><td><a href="https://github.com/TommasoBelluzzo">
+    </a></td><td>@cloudscale-ch </td><td>Switzerland</td><td>440</td><td>77</td></tr><tr><td>578</td><td><a href="https://github.com/TommasoBelluzzo">
         <img src="https://avatars.githubusercontent.com/u/235053?s=72&u=a9c0a35db7521842454de68aad7825869aadfe8e&v=4" height="12" />
         <b>Tommaso Belluzzo</b>
-    </a></td><td>DXT Commodities SA</td><td>Lugano, Switzerland</td><td>104</td><td>77</td></tr><tr><td>580</td><td><a href="https://github.com/stealth">
+    </a></td><td>DXT Commodities SA</td><td>Lugano, Switzerland</td><td>104</td><td>77</td></tr><tr><td>579</td><td><a href="https://github.com/stealth">
         <img src="https://avatars.githubusercontent.com/u/1227710?s=72&u=3b37676ecdc394494c2aabc94755d82fd8873502&v=4" height="12" />
         <b>Sebastian</b>
-    </a></td><td>collect2: error: ld terminated with signal 11 [Segmentation fault]</td><td>Switzerland</td><td>552</td><td>76</td></tr><tr><td>581</td><td><a href="https://github.com/chregu">
+    </a></td><td>collect2: error: ld terminated with signal 11 [Segmentation fault]</td><td>Switzerland</td><td>552</td><td>76</td></tr><tr><td>580</td><td><a href="https://github.com/chregu">
         <img src="https://avatars.githubusercontent.com/u/47106?s=72&v=4" height="12" />
         <b>Christian Stocker</b>
-    </a></td><td>Liip AG</td><td>Zürich, Switzerland</td><td>137</td><td>76</td></tr><tr><td>582</td><td><a href="https://github.com/kdungs">
+    </a></td><td>Liip AG</td><td>Zürich, Switzerland</td><td>137</td><td>76</td></tr><tr><td>581</td><td><a href="https://github.com/kdungs">
         <img src="https://avatars.githubusercontent.com/u/891877?s=72&u=0a241cb8dcf99cb1e542da1b3239ec57a25115cb&v=4" height="12" />
         <b>Kevin Dungs</b>
-    </a></td><td>-</td><td>Zürich</td><td>134</td><td>76</td></tr><tr><td>583</td><td><a href="https://github.com/batiste">
+    </a></td><td>-</td><td>Zürich</td><td>134</td><td>76</td></tr><tr><td>582</td><td><a href="https://github.com/batiste">
         <img src="https://avatars.githubusercontent.com/u/66927?s=72&u=87ed236ac44b5fdcd82099124c516679526f93dd&v=4" height="12" />
         <b>Batiste Bieler</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>120</td><td>76</td></tr><tr><td>584</td><td><a href="https://github.com/kjelljorner">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>120</td><td>76</td></tr><tr><td>583</td><td><a href="https://github.com/kjelljorner">
         <img src="https://avatars.githubusercontent.com/u/36157530?s=72&u=d6c96f8d2cb6a1b1904508502bd4bad5e79f509a&v=4" height="12" />
         <b>Kjell Jorner</b>
-    </a></td><td>-</td><td>Zürich, Switzerland</td><td>95</td><td>76</td></tr><tr><td>585</td><td><a href="https://github.com/jiaxi-jiang">
+    </a></td><td>-</td><td>Zürich, Switzerland</td><td>95</td><td>76</td></tr><tr><td>584</td><td><a href="https://github.com/jiaxi-jiang">
         <img src="https://avatars.githubusercontent.com/u/26936848?s=72&u=4b194f0227ab95a7c0a68afa7438990154a92c43&v=4" height="12" />
         <b>Jiaxi Jiang</b>
-    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>75</td><td>76</td></tr><tr><td>586</td><td><a href="https://github.com/jwagner">
+    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>75</td><td>76</td></tr><tr><td>585</td><td><a href="https://github.com/jwagner">
         <img src="https://avatars.githubusercontent.com/u/293536?s=72&v=4" height="12" />
         <b>Jonas Wagner</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>1.04K</td><td>75</td></tr><tr><td>587</td><td><a href="https://github.com/jponttuset">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>1.04K</td><td>75</td></tr><tr><td>586</td><td><a href="https://github.com/jponttuset">
         <img src="https://avatars.githubusercontent.com/u/4990362?s=72&u=d9b95114908939a9051e7bddde306791285a9841&v=4" height="12" />
         <b>Jordi Pont-Tuset</b>
-    </a></td><td>Google</td><td>Zürich</td><td>155</td><td>75</td></tr><tr><td>588</td><td><a href="https://github.com/charnley">
+    </a></td><td>Google</td><td>Zürich</td><td>155</td><td>75</td></tr><tr><td>587</td><td><a href="https://github.com/charnley">
         <img src="https://avatars.githubusercontent.com/u/2011468?s=72&u=047ddbeca04dd7540e2caa9fd9989bf95d5fd682&v=4" height="12" />
         <b>Jimmy C. Kromann</b>
-    </a></td><td>Pharma</td><td>Basel, Switzerland</td><td>144</td><td>75</td></tr><tr><td>589</td><td><a href="https://github.com/Speierers">
+    </a></td><td>Pharma</td><td>Basel, Switzerland</td><td>144</td><td>75</td></tr><tr><td>588</td><td><a href="https://github.com/Speierers">
         <img src="https://avatars.githubusercontent.com/u/6662561?s=72&u=f4e86dd11f48400e4d28521a493f334bf120da4f&v=4" height="12" />
         <b>Sebastien Speierer</b>
-    </a></td><td>Research Engineer @ Meta</td><td>Switzerland</td><td>97</td><td>74</td></tr><tr><td>590</td><td><a href="https://github.com/zhendongsu">
+    </a></td><td>Research Engineer @ Meta</td><td>Switzerland</td><td>97</td><td>74</td></tr><tr><td>589</td><td><a href="https://github.com/zhendongsu">
         <img src="https://avatars.githubusercontent.com/u/5873220?s=72&u=4534d287a43df845afb053fb86b705dc688ef141&v=4" height="12" />
         <b>Zhendong Su</b>
-    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>87</td><td>73</td></tr><tr><td>591</td><td><a href="https://github.com/enisimsar">
+    </a></td><td>ETH Zurich</td><td>Zurich, Switzerland</td><td>87</td><td>73</td></tr><tr><td>590</td><td><a href="https://github.com/enisimsar">
         <img src="https://avatars.githubusercontent.com/u/10683524?s=72&u=b9562087198e6cf765f20a8dbe635e8469f4327f&v=4" height="12" />
         <b>Enis Simsar</b>
-    </a></td><td>-</td><td>Zurich, Switzerland</td><td>81</td><td>73</td></tr><tr><td>592</td><td><a href="https://github.com/gnebehay">
+    </a></td><td>-</td><td>Zurich, Switzerland</td><td>81</td><td>73</td></tr><tr><td>591</td><td><a href="https://github.com/gnebehay">
         <img src="https://avatars.githubusercontent.com/u/756433?s=72&u=785d5ed68fa0ab2b404112c5f1f2e0c45d008230&v=4" height="12" />
         <b>Georg Nebehay</b>
-    </a></td><td>Locatee</td><td>Zürich, Switzerland</td><td>293</td><td>72</td></tr><tr><td>593</td><td><a href="https://github.com/gcarleo">
+    </a></td><td>Locatee</td><td>Zürich, Switzerland</td><td>293</td><td>72</td></tr><tr><td>592</td><td><a href="https://github.com/gcarleo">
         <img src="https://avatars.githubusercontent.com/u/28149892?s=72&u=d1d29e2c29bb9e31440f4ee839f60ed4a51f7d80&v=4" height="12" />
         <b>Giuseppe Carleo</b>
-    </a></td><td>EPFL - Computational Quantum Science Lab</td><td>Lausanne, Switzerland </td><td>101</td><td>72</td></tr><tr><td>594</td><td><a href="https://github.com/joelbarmettlerUZH">
+    </a></td><td>EPFL - Computational Quantum Science Lab</td><td>Lausanne, Switzerland </td><td>101</td><td>72</td></tr><tr><td>593</td><td><a href="https://github.com/joelbarmettlerUZH">
+        <img src="https://avatars.githubusercontent.com/u/24369532?s=72&u=2145432896b5918136c32f86fd050c3f827616c0&v=4" height="12" />
+        <b>Joel Barmettler</b>
+    </a></td><td>PolygonSoftware</td><td>Zurich, Switzerland</td><td>109</td><td>70</td></tr><tr><td>594</td><td><a href="https://github.com/joelbarmettlerUZH">
         <img src="https://avatars.githubusercontent.com/u/24369532?s=72&u=2145432896b5918136c32f86fd050c3f827616c0&v=4" height="12" />
         <b>Joel Barmettler</b>
     </a></td><td>PolygonSoftware</td><td>Zurich, Switzerland</td><td>109</td><td>70</td></tr><tr><td>595</td><td><a href="https://github.com/newsoft">
@@ -1996,7 +1996,7 @@ github
     </a></td><td>Axpo group</td><td>Luzern, Switzerland</td><td>88</td><td>41</td></tr><tr><td>644</td><td><a href="https://github.com/gasteigerjo">
         <img src="https://avatars.githubusercontent.com/u/9202783?s=72&u=205873dde47c5306d931e7229fb4a42dc59c9f24&v=4" height="12" />
         <b>Johannes Gasteiger, né Klicpera</b>
-    </a></td><td>Google Research</td><td>Zürich, Switzerland</td><td>189</td><td>40</td></tr><tr><td>645</td><td><a href="https://github.com/underdoeg">
+    </a></td><td>Google Research</td><td>Zürich, Switzerland</td><td>190</td><td>40</td></tr><tr><td>645</td><td><a href="https://github.com/underdoeg">
         <img src="https://avatars.githubusercontent.com/u/243820?s=72&u=cfdb52f5e3788cf4ee72f5a539a18f9d93d34e82&v=4" height="12" />
         <b>Philip Whitfield</b>
     </a></td><td>undef</td><td>Basel, Switzerland</td><td>120</td><td>40</td></tr><tr><td>646</td><td><a href="https://github.com/atemerev">
@@ -2299,7 +2299,7 @@ github
     </a></td><td>-</td><td>Winterthur, Switzerland</td><td>78</td><td>11</td></tr><tr><td>745</td><td><a href="https://github.com/v7b1">
         <img src="https://avatars.githubusercontent.com/u/13332073?s=72&u=7319a9030470d0a70d430c5ebfbfd46ace3933bc&v=4" height="12" />
         <b>vboehm</b>
-    </a></td><td>Elektronisches Studio Basel</td><td>Basel, Switzerland</td><td>218</td><td>10</td></tr><tr><td>746</td><td><a href="https://github.com/tma">
+    </a></td><td>Elektronisches Studio Basel</td><td>Basel, Switzerland</td><td>219</td><td>10</td></tr><tr><td>746</td><td><a href="https://github.com/tma">
         <img src="https://avatars.githubusercontent.com/u/4719?s=72&u=1bb8d1b109e8e77e6e9214120d94e0e658e71a60&v=4" height="12" />
         <b>Thomas Maurer</b>
     </a></td><td>@github </td><td>Switzerland</td><td>184</td><td>10</td></tr><tr><td>747</td><td><a href="https://github.com/ksheremet">
