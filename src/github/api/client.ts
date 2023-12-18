@@ -4,16 +4,28 @@ import { Octokit } from 'octokit';
 
 const MAX_FAILED_ATTEMPTS = 10;
 
-const octokit = new Octokit({
-    auth: process.env.GITHUB_TOKEN,
-});
+let _octokit: Octokit;
+function getOctokit() {
+    if (!_octokit) {
+        if (!process.env.GITHUB_TOKEN) {
+            throw new Error(
+                'No Github token provided. Ensure GITHUB_TOKEN is set in the environment',
+            );
+        }
+
+        _octokit = new Octokit({
+            auth: process.env.GITHUB_TOKEN,
+        });
+    }
+    return _octokit;
+}
 
 export async function query<ResponseType, VariableType extends RequestParameters>(
     q: DocumentNode,
     variables: VariableType,
 ): Promise<ResponseType> {
     async function tryQuery() {
-        const data = (await octokit.graphql(q?.loc?.source.body ?? '', variables)) as any;
+        const data = (await getOctokit().graphql(q?.loc?.source.body ?? '', variables)) as any;
         if (data.rateLimit) {
             console.debug(`Rate limit: ${data.rateLimit.remaining}/${data.rateLimit.limit}`);
         }

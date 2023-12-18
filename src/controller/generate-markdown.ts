@@ -1,14 +1,14 @@
 import fs from 'fs';
-import { ProcessedGithubUser, EnhancedGithubUser } from '../types';
 import config from '../config/config';
 import { RANKINGS } from '../constants';
 import {
+    getMarkdownLoaderboardTable,
     getMarkdownPath,
     injectTemplateData,
-    getMarkdownLoaderboardTable,
 } from '../helper/markdown';
-import { computeRankings } from '../helper/ranking';
 import { getJsonPath, getTemplatePath } from '../helper/paths';
+import { computeRankings } from '../helper/ranking';
+import { EnhancedGithubUser, ProcessedGithubUser } from '../types';
 
 export function generateMarkdown(countryCode: string) {
     const countryDefinition = config.countries.find((c) => c.countryCode === countryCode);
@@ -26,7 +26,7 @@ export function generateMarkdown(countryCode: string) {
     });
 
     // Generate markdown files
-    for (const { type, title, userCount } of RANKINGS) {
+    for (const { type, valueColumnHeader, userCount } of RANKINGS) {
         const template = fs.readFileSync(getTemplatePath(type), 'utf8');
 
         // Rank users for this ranking type and keep only the top N
@@ -40,7 +40,7 @@ export function generateMarkdown(countryCode: string) {
             .slice(0, userCount);
 
         // Build the HTML table
-        const table = getMarkdownLoaderboardTable(type, leaderboard, title);
+        const table = getMarkdownLoaderboardTable(type, leaderboard, valueColumnHeader);
 
         // Build the whole markdown file
         const markdown = injectTemplateData(template, {

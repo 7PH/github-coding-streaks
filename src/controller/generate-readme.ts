@@ -28,6 +28,10 @@ function getLeaderboardTableHtml() {
     return `<table>
 <tbody>
     ${rows.join('')}
+    <td>
+        ➕ <a href="https://github.com/7PH/github-coding-streaks/issues/new">Add your country</a>
+    </td>
+    ${'<td />'.repeat(RANKINGS.length)}
 </tbody>
 </table>`;
 }

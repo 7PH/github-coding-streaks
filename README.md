@@ -25,6 +25,10 @@ This project aims to celebrate and motivate continuous coding efforts by ranking
         </td>
         <td><a href="docs/markdown/week-streak/fr.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/fr.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/fr.md">Top Contributors</a></td>
     </tr>
+    <td>
+        ➕ <a href="https://github.com/7PH/github-coding-streaks/issues/new">Add your country</a>
+    </td>
+    <td /><td /><td />
 </tbody>
 </table>
 

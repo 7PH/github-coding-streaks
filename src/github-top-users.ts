@@ -1,7 +1,8 @@
 import { program } from 'commander';
 import config from './config/config';
-import { assessCountry } from './controller/assess-country';
 import { fetchCountry } from './controller/fetch';
+import { findCountryFollowerCount } from './controller/find-country-follower-count';
+import { findCountryLocations } from './controller/find-country-locations';
 import { generateMarkdown } from './controller/generate-markdown';
 import { generateReadme } from './controller/generate-readme';
 
@@ -44,18 +45,35 @@ program
     });
 
 program
-    .command('assess-country')
-    .description('Assess a given country. Will find secondary locations and min follower count')
+    .command('find-country-locations')
+    .description(
+        'Find country secondary locations based on its name in multiple languages (e.g. "Switzerland,Suisse,Schweiz,Svizzera")',
+    )
     .option(
-        '-c, --country <country>',
+        '-m, --matches <matches>',
         'Country main locations, comma-separated if multiple languages are spoken in the country (e.g. "Switzerland,Suisse,Schweiz,Svizzera")',
     )
     .action(async (options) => {
-        if (!options.country) {
-            throw new Error('No country specified');
+        if (!options.matches) {
+            throw new Error('No matches specified');
         }
 
-        await assessCountry(options.country.toLowerCase());
+        await findCountryLocations(options.matches.toLowerCase().split(','));
+    });
+
+program
+    .command('find-country-follower-count')
+    .description('Find follower threshold for a given country based on all its locations')
+    .option(
+        '-m, --matches <matches>',
+        'Country main locations, comma-separated if multiple languages are spoken in the country (e.g. "Switzerland,Suisse,Schweiz,Svizzera")',
+    )
+    .action(async (options) => {
+        if (!options.matches) {
+            throw new Error('No matches specified');
+        }
+
+        await findCountryFollowerCount(options.matches.toLowerCase().split(','));
     });
 
 program

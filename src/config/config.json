@@ -4,15 +4,15 @@
             "countryCode": "ch",
             "countryName": "Switzerland",
             "symbol": "🇨🇭",
-            "countryMatch": ["Switzerland", "Swiss", "Schweiz", "Suisse", "Zürich", "Geneva", "Basel", "Lausanne"],
+            "countryMatch": ["switzerland","suisse","schweiz","svizzera","zurich","lausanne","basel","geneva","bern","zug","lugano","fribourg", "nyon"],
             "minFollowerCount": 70
         },
         {
             "countryCode": "fr",
             "countryName": "France",
             "symbol": "🇫🇷",
-            "countryMatch": ["France", "Paris", "Marseille", "Lyon", "Bordeaux", "Toulouse", "Strasbourg", "Nice", "Nantes", "Montpellier", "Lille"],
-            "minFollowerCount": 130
+            "countryMatch": ["france","frankreich","paris","lyon","nantes","toulouse","rennes","bordeaux","lille","grenoble","montpellier","nancy"],
+            "minFollowerCount": 150
         }
     ]
 }

@@ -17,11 +17,9 @@ function isValidLocation(location: string) {
     return true;
 }
 
-export async function assessCountry(countryMainLocations: string) {
-    const mainLocations = countryMainLocations.toLowerCase().split(',');
-
+export async function findCountryLocations(locations: string[]) {
     // At first, search for secondary locations
-    const query = mainLocations.map((match) => `location:${match}`).join(' ');
+    const query = locations.map((match) => `location:${match}`).join(' ');
     const users = await searchUsers(
         `${query} sort:followers-desc`,
         (users) => users.length >= USER_LOCATION_SAMPLE,
@@ -42,7 +40,7 @@ export async function assessCountry(countryMainLocations: string) {
             if (!isValidLocation(word)) {
                 continue;
             }
-            if (mainLocations.includes(word)) {
+            if (locations.includes(word)) {
                 continue;
             }
             if (!secondaryLocations[word]) {
@@ -53,7 +51,7 @@ export async function assessCountry(countryMainLocations: string) {
     }
 
     // Sort secondary locations by count
-    const secondaryLocationsSorted = mainLocations.concat(
+    const secondaryLocationsSorted = locations.concat(
         Object.entries(secondaryLocations)
             .filter(([, count]) => count >= MIN_LOCATION_COUNT)
             .sort((a, b) => b[1] - a[1])
@@ -70,10 +68,5 @@ export async function assessCountry(countryMainLocations: string) {
     console.log('_'.repeat(80));
     console.log('Secondary locations (JSON):');
     console.log(JSON.stringify(secondaryLocationsSorted));
-
     console.log('_'.repeat(80));
-
-    // console.log(`Found ${users.length} users`);
-    // const followerCount = users[users.length - 1].followers.totalCount;
-    // console.log(`> Recommended min follower count: ${followerCount}`);
 }

@@ -17,20 +17,24 @@ export const RANKINGS: {
     type: RankingType;
     title: string;
     userCount: number;
+    valueColumnHeader: string;
 }[] = [
     {
         type: RankingType.WeekStreak,
         title: 'Weekly Commit Streak',
         userCount: 1000,
+        valueColumnHeader: 'Weekly Commit Streak',
     },
     {
         type: RankingType.DayStreak,
         title: 'Daily Commit Streak',
         userCount: 200,
+        valueColumnHeader: 'Daily Commit Streak',
     },
     {
         type: RankingType.ContributionCount,
         title: 'Top Contributors',
         userCount: 1000,
+        valueColumnHeader: 'Contributions',
     },
 ];
