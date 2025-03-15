@@ -13,6 +13,13 @@
             "symbol": "🇫🇷",
             "countryMatch": ["france","frankreich","paris","lyon","nantes","toulouse","rennes","bordeaux","lille","grenoble","montpellier","nancy"],
             "minFollowerCount": 150
+        },
+        {
+            "countryCode": "jp",
+            "countryName": "Japan",
+            "symbol": "🇯🇵",
+            "countryMatch": ["japan","japon","tokyo","osaka","kyoto","nagoya","fukuoka","sapporo","sendai","hiroshima"],
+            "minFollowerCount": 150
         }
     ]
 }
