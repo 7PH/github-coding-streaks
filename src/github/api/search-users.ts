@@ -3,7 +3,7 @@ import { GithubUser } from '../../types';
 import { query } from './client';
 
 const MAX_FAILED_ATTEMPTS = 10;
-const PER_PAGE = 20;
+const PER_PAGE = 15;
 
 export async function searchUsers(
     q: string,
