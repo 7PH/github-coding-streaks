@@ -36,9 +36,8 @@ export async function query<ResponseType, VariableType extends RequestParameters
         try {
             return await tryQuery();
         } catch (error) {
-            console.log(`Unable to query Github API: ${(error as any).message ?? 'Unknown error'}`);
+            console.warn(`Unable to query Github API: ${(error as any).message ?? 'Unknown error'}`);
             await new Promise((resolve) => setTimeout(resolve, attemptIndex * 60 * 1000));
-            throw error;
         }
     }
 
