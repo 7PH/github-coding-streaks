@@ -80,6 +80,26 @@
                 "washington"
             ],
             "minFollowerCount": 250
+        },
+        {
+            "countryCode": "in",
+            "countryName": "India",
+            "symbol": "🇮🇳",
+            "countryMatch": [
+                "india",
+                "bharat",
+                "delhi",
+                "mumbai",
+                "bangalore",
+                "kolkata",
+                "chennai",
+                "hyderabad",
+                "pune",
+                "jaipur",
+                "ahmedabad",
+                "kochi"
+            ],
+            "minFollowerCount": 200
         }
     ]
 }

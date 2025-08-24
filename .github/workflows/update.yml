@@ -24,10 +24,14 @@ jobs:
             - run: npm run fetch -- -c us
               env:
                   GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+            - run: npm run fetch -- -c in
+              env:
+                  GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
             - run: npm run generate-markdown -- -c fr
             - run: npm run generate-markdown -- -c ch
             - run: npm run generate-markdown -- -c jp
             - run: npm run generate-markdown -- -c us
+            - run: npm run generate-markdown -- -c in
             - run: npm run generate-readme
             - name: Push changes
               run: |
