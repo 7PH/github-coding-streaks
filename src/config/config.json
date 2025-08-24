@@ -4,22 +4,82 @@
             "countryCode": "ch",
             "countryName": "Switzerland",
             "symbol": "🇨🇭",
-            "countryMatch": ["switzerland","suisse","schweiz","svizzera","zurich","lausanne","basel","geneva","bern","zug","lugano","fribourg", "nyon"],
+            "countryMatch": [
+                "switzerland",
+                "suisse",
+                "schweiz",
+                "svizzera",
+                "zurich",
+                "lausanne",
+                "basel",
+                "geneva",
+                "bern",
+                "zug",
+                "lugano",
+                "fribourg",
+                "nyon"
+            ],
             "minFollowerCount": 70
         },
         {
             "countryCode": "fr",
             "countryName": "France",
             "symbol": "🇫🇷",
-            "countryMatch": ["france","frankreich","paris","lyon","nantes","toulouse","rennes","bordeaux","lille","grenoble","montpellier","nancy"],
+            "countryMatch": [
+                "france",
+                "frankreich",
+                "paris",
+                "lyon",
+                "nantes",
+                "toulouse",
+                "rennes",
+                "bordeaux",
+                "lille",
+                "grenoble",
+                "montpellier",
+                "nancy"
+            ],
             "minFollowerCount": 150
         },
         {
             "countryCode": "jp",
             "countryName": "Japan",
             "symbol": "🇯🇵",
-            "countryMatch": ["japan","japon","tokyo","osaka","kyoto","nagoya","fukuoka","sapporo","sendai","hiroshima"],
+            "countryMatch": [
+                "japan",
+                "japon",
+                "tokyo",
+                "osaka",
+                "kyoto",
+                "nagoya",
+                "fukuoka",
+                "sapporo",
+                "sendai",
+                "hiroshima"
+            ],
             "minFollowerCount": 150
+        },
+        {
+            "countryCode": "us",
+            "countryName": "United States",
+            "symbol": "🇺🇸",
+            "countryMatch": [
+                "usa",
+                "us",
+                "america",
+                "united states",
+                "new york",
+                "los angeles",
+                "chicago",
+                "houston",
+                "miami",
+                "san francisco",
+                "boston",
+                "seattle",
+                "dallas",
+                "washington"
+            ],
+            "minFollowerCount": 250
         }
     ]
 }
