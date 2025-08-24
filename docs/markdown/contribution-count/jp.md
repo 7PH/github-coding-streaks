@@ -82,13 +82,13 @@ github
     </a></td><td>Kanmu, Inc. @kanmu</td><td>Japan</td><td>216</td><td>14.64K</td></tr><tr><td>6</td><td><a href="https://github.com/Songmu">
         <img src="https://avatars.githubusercontent.com/u/177122?s=72&v=4" height="12" />
         <b>Songmu</b>
-    </a></td><td>@bw-company</td><td>Tokyo, Japan</td><td>586</td><td>14.56K</td></tr><tr><td>7</td><td><a href="https://github.com/manman4">
+    </a></td><td>@bw-company</td><td>Tokyo, Japan</td><td>585</td><td>14.56K</td></tr><tr><td>7</td><td><a href="https://github.com/manman4">
         <img src="https://avatars.githubusercontent.com/u/7023566?s=72&u=23a789fef96ddbb09ae8b07da9c69216672177c7&v=4" height="12" />
         <b>manman4</b>
     </a></td><td>-</td><td>Japan</td><td>1.97K</td><td>14.31K</td></tr><tr><td>8</td><td><a href="https://github.com/shinh">
         <img src="https://avatars.githubusercontent.com/u/29770?s=72&u=261b69496ba5cc481d45d7eb0da470b1c824bcb5&v=4" height="12" />
         <b>shinh</b>
-    </a></td><td>Preferred Networks</td><td>Tokyo, Japan</td><td>520</td><td>13.11K</td></tr><tr><td>9</td><td><a href="https://github.com/dev-yakuza">
+    </a></td><td>Preferred Networks</td><td>Tokyo, Japan</td><td>521</td><td>13.11K</td></tr><tr><td>9</td><td><a href="https://github.com/dev-yakuza">
         <img src="https://avatars.githubusercontent.com/u/42969906?s=72&u=d508db5b8cad1bf6e94127e8e8b2e44b23d21592&v=4" height="12" />
         <b>dev-yakuza</b>
     </a></td><td>-</td><td>Japan</td><td>289</td><td>10.16K</td></tr><tr><td>10</td><td><a href="https://github.com/guitarrapc">
@@ -103,7 +103,7 @@ github
     </a></td><td>-</td><td>Tokyo, Japan</td><td>434</td><td>9.11K</td></tr><tr><td>13</td><td><a href="https://github.com/yuiseki">
         <img src="https://avatars.githubusercontent.com/u/25507?s=72&u=6aaa2ca06dc942e7e9afe7ee95d603318f6e4d3b&v=4" height="12" />
         <b>yuiseki</b>
-    </a></td><td>Yuiseki Inc.</td><td>Taito, Tokyo, Japan</td><td>637</td><td>8.8K</td></tr><tr><td>14</td><td><a href="https://github.com/amachang">
+    </a></td><td>Yuiseki Inc.</td><td>Taito, Tokyo, Japan</td><td>636</td><td>8.8K</td></tr><tr><td>14</td><td><a href="https://github.com/amachang">
         <img src="https://avatars.githubusercontent.com/u/10735?s=72&u=34a7f0d13fc3aedd0e41740bab50bb837ad9d3a9&v=4" height="12" />
         <b>amachang</b>
     </a></td><td>SmartNews, Inc.</td><td>Tokyo, Japan</td><td>316</td><td>8.37K</td></tr><tr><td>15</td><td><a href="https://github.com/YumNumm">
@@ -142,7 +142,7 @@ github
     </a></td><td>@AKARI-Inc @numfocus </td><td>Japan</td><td>319</td><td>6.39K</td></tr><tr><td>26</td><td><a href="https://github.com/sue445">
         <img src="https://avatars.githubusercontent.com/u/608755?s=72&v=4" height="12" />
         <b>sue445</b>
-    </a></td><td>@pixiv </td><td>Japan</td><td>391</td><td>5.85K</td></tr><tr><td>27</td><td><a href="https://github.com/unhappychoice">
+    </a></td><td>@pixiv </td><td>Japan</td><td>391</td><td>5.87K</td></tr><tr><td>27</td><td><a href="https://github.com/unhappychoice">
         <img src="https://avatars.githubusercontent.com/u/5608948?s=72&u=6ca2fca8320cb6be5b802f6c5a6359933754ab2e&v=4" height="12" />
         <b>unhappychoice</b>
     </a></td><td>@orderlyjp </td><td>Tokyo, Japan</td><td>1.48K</td><td>5.82K</td></tr><tr><td>28</td><td><a href="https://github.com/ursm">
@@ -178,13 +178,13 @@ github
     </a></td><td>-</td><td>Japan</td><td>969</td><td>5.42K</td></tr><tr><td>38</td><td><a href="https://github.com/smorimoto">
         <img src="https://avatars.githubusercontent.com/u/38746192?s=72&u=0c82eb6a1ba3789a28466e213d871f39bc2983bf&v=4" height="12" />
         <b>smorimoto</b>
-    </a></td><td>@ocaml @tc39</td><td>Tokyo, Japan</td><td>950</td><td>5.37K</td></tr><tr><td>39</td><td><a href="https://github.com/hsbt">
-        <img src="https://avatars.githubusercontent.com/u/12301?s=72&u=ff463d5b4856759aeb902725ad89b4392442077d&v=4" height="12" />
-        <b>hsbt</b>
-    </a></td><td>@ruby @rubygems @rbenv @88labs @andpad-dev</td><td>Tokyo, Japan</td><td>1.54K</td><td>5.35K</td></tr><tr><td>40</td><td><a href="https://github.com/yasulab">
+    </a></td><td>@ocaml @tc39</td><td>Tokyo, Japan</td><td>950</td><td>5.37K</td></tr><tr><td>39</td><td><a href="https://github.com/yasulab">
         <img src="https://avatars.githubusercontent.com/u/155807?s=72&u=0a39836834c1975e765900bff39dcdaa96ad658b&v=4" height="12" />
         <b>yasulab</b>
-    </a></td><td>@YassLab Inc.</td><td>CASE Shinjuku, Tokyo, Japan</td><td>343</td><td>5.35K</td></tr><tr><td>41</td><td><a href="https://github.com/mattatz">
+    </a></td><td>@YassLab Inc.</td><td>CASE Shinjuku, Tokyo, Japan</td><td>343</td><td>5.36K</td></tr><tr><td>40</td><td><a href="https://github.com/hsbt">
+        <img src="https://avatars.githubusercontent.com/u/12301?s=72&u=ff463d5b4856759aeb902725ad89b4392442077d&v=4" height="12" />
+        <b>hsbt</b>
+    </a></td><td>@ruby @rubygems @rbenv @88labs @andpad-dev</td><td>Tokyo, Japan</td><td>1.54K</td><td>5.35K</td></tr><tr><td>41</td><td><a href="https://github.com/mattatz">
         <img src="https://avatars.githubusercontent.com/u/1085910?s=72&u=227a71b91542b7113616f99fc277832d787963a1&v=4" height="12" />
         <b>mattatz</b>
     </a></td><td>DETOR</td><td>Tokyo, Japan</td><td>1.37K</td><td>5.35K</td></tr><tr><td>42</td><td><a href="https://github.com/yuki-kimoto">
@@ -301,10 +301,10 @@ github
     </a></td><td>-</td><td>Japan</td><td>377</td><td>3.79K</td></tr><tr><td>79</td><td><a href="https://github.com/zchee">
         <img src="https://avatars.githubusercontent.com/u/6366270?s=72&u=b3b4c30edcd4ad8fe5da44faacbd1d70a8c836f5&v=4" height="12" />
         <b>zchee</b>
-    </a></td><td>@gaudiy</td><td>Tokyo, Japan</td><td>729</td><td>3.76K</td></tr><tr><td>80</td><td><a href="https://github.com/toastkidjp">
+    </a></td><td>@gaudiy</td><td>Tokyo, Japan</td><td>730</td><td>3.76K</td></tr><tr><td>80</td><td><a href="https://github.com/toastkidjp">
         <img src="https://avatars.githubusercontent.com/u/15980475?s=72&u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4" height="12" />
         <b>toastkidjp</b>
-    </a></td><td>-</td><td>Toride city, Japan</td><td>435</td><td>3.72K</td></tr><tr><td>81</td><td><a href="https://github.com/superbrothers">
+    </a></td><td>-</td><td>Toride city, Japan</td><td>436</td><td>3.72K</td></tr><tr><td>81</td><td><a href="https://github.com/superbrothers">
         <img src="https://avatars.githubusercontent.com/u/230185?s=72&v=4" height="12" />
         <b>superbrothers</b>
     </a></td><td>@pfnet @scalar-labs</td><td>Kyoto, JAPAN and the Internet</td><td>215</td><td>3.69K</td></tr><tr><td>82</td><td><a href="https://github.com/ubugeeei">
@@ -322,7 +322,7 @@ github
     </a></td><td>esa LLC</td><td>Tokyo, Japan</td><td>258</td><td>3.6K</td></tr><tr><td>86</td><td><a href="https://github.com/lambdalisue">
         <img src="https://avatars.githubusercontent.com/u/546312?s=72&v=4" height="12" />
         <b>lambdalisue</b>
-    </a></td><td>-</td><td>Tokyo, Japan</td><td>807</td><td>3.59K</td></tr><tr><td>87</td><td><a href="https://github.com/Saqoosha">
+    </a></td><td>-</td><td>Tokyo, Japan</td><td>806</td><td>3.59K</td></tr><tr><td>87</td><td><a href="https://github.com/Saqoosha">
         <img src="https://avatars.githubusercontent.com/u/27694?s=72&u=71a3db9b5df3a5c47de26dc19255c71733f97910&v=4" height="12" />
         <b>Saqoosha</b>
     </a></td><td>@Whatever-Co</td><td>Tokyo, Japan</td><td>316</td><td>3.56K</td></tr><tr><td>88</td><td><a href="https://github.com/edom18">
@@ -463,7 +463,7 @@ github
     </a></td><td>Nature Inc.</td><td>Tokyo</td><td>364</td><td>2.73K</td></tr><tr><td>133</td><td><a href="https://github.com/ryohey">
         <img src="https://avatars.githubusercontent.com/u/5355966?s=72&u=e7de126c6512db94172e7ddc09c4b8db98c9edd2&v=4" height="12" />
         <b>ryohey</b>
-    </a></td><td>covelline, LLC.</td><td>Japan</td><td>266</td><td>2.73K</td></tr><tr><td>134</td><td><a href="https://github.com/mizchi">
+    </a></td><td>covelline, LLC.</td><td>Japan</td><td>267</td><td>2.73K</td></tr><tr><td>134</td><td><a href="https://github.com/mizchi">
         <img src="https://avatars.githubusercontent.com/u/73962?s=72&v=4" height="12" />
         <b>mizchi</b>
     </a></td><td>-</td><td>Tokyo/Japan</td><td>1.6K</td><td>2.72K</td></tr><tr><td>135</td><td><a href="https://github.com/1amageek">
@@ -868,10 +868,10 @@ github
     </a></td><td>@oven-sh </td><td>Tokyo, Japan</td><td>609</td><td>1.63K</td></tr><tr><td>268</td><td><a href="https://github.com/xerpi">
         <img src="https://avatars.githubusercontent.com/u/560596?s=72&u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4" height="12" />
         <b>xerpi</b>
-    </a></td><td>@arkedge</td><td>Tokyo</td><td>666</td><td>1.62K</td></tr><tr><td>269</td><td><a href="https://github.com/lhl">
+    </a></td><td>@arkedge</td><td>Tokyo</td><td>667</td><td>1.62K</td></tr><tr><td>269</td><td><a href="https://github.com/lhl">
         <img src="https://avatars.githubusercontent.com/u/2581?s=72&v=4" height="12" />
         <b>lhl</b>
-    </a></td><td>@AUGMXNT</td><td>Tokyo</td><td>257</td><td>1.6K</td></tr><tr><td>270</td><td><a href="https://github.com/kazu-yamamoto">
+    </a></td><td>@AUGMXNT</td><td>Tokyo</td><td>258</td><td>1.6K</td></tr><tr><td>270</td><td><a href="https://github.com/kazu-yamamoto">
         <img src="https://avatars.githubusercontent.com/u/165387?s=72&v=4" height="12" />
         <b>kazu-yamamoto</b>
     </a></td><td>IIJ Innovation Institute Inc</td><td>Tokyo, JAPAN</td><td>570</td><td>1.6K</td></tr><tr><td>271</td><td><a href="https://github.com/kiaking">
@@ -1018,7 +1018,7 @@ github
     </a></td><td>eureka, Inc.</td><td>Tokyo</td><td>211</td><td>1.34K</td></tr><tr><td>318</td><td><a href="https://github.com/deepak1556">
         <img src="https://avatars.githubusercontent.com/u/964386?s=72&v=4" height="12" />
         <b>deepak1556</b>
-    </a></td><td>Microsoft</td><td>Japan</td><td>764</td><td>1.34K</td></tr><tr><td>319</td><td><a href="https://github.com/Watson1978">
+    </a></td><td>Microsoft</td><td>Japan</td><td>765</td><td>1.34K</td></tr><tr><td>319</td><td><a href="https://github.com/Watson1978">
         <img src="https://avatars.githubusercontent.com/u/199156?s=72&v=4" height="12" />
         <b>Watson1978</b>
     </a></td><td>@clear-code</td><td>Japan</td><td>262</td><td>1.34K</td></tr><tr><td>320</td><td><a href="https://github.com/lloydmeta">
@@ -1105,10 +1105,10 @@ github
     </a></td><td>-</td><td>Tokyo, Japan</td><td>692</td><td>1.18K</td></tr><tr><td>347</td><td><a href="https://github.com/iAJue">
         <img src="https://avatars.githubusercontent.com/u/32321958?s=72&u=92c7e485ae43955696a5690ab5343be50cace5bc&v=4" height="12" />
         <b>iAJue</b>
-    </a></td><td>国立音ノ木坂学院</td><td>Akihabara, Japan</td><td>318</td><td>1.16K</td></tr><tr><td>348</td><td><a href="https://github.com/minaminao">
+    </a></td><td>国立音ノ木坂学院</td><td>Akihabara, Japan</td><td>318</td><td>1.17K</td></tr><tr><td>348</td><td><a href="https://github.com/minaminao">
         <img src="https://avatars.githubusercontent.com/u/20497787?s=72&u=a96a6c9f3dbec52ad60326770404a3f728a38efa&v=4" height="12" />
         <b>minaminao</b>
-    </a></td><td>-</td><td>Tokyo</td><td>403</td><td>1.16K</td></tr><tr><td>349</td><td><a href="https://github.com/reindex-ot">
+    </a></td><td>-</td><td>Tokyo</td><td>405</td><td>1.16K</td></tr><tr><td>349</td><td><a href="https://github.com/reindex-ot">
         <img src="https://avatars.githubusercontent.com/u/32851879?s=72&u=269ae5427e1af84078cdf69858f816f723d78bf1&v=4" height="12" />
         <b>reindex-ot</b>
     </a></td><td>ASTROMANTIC CHARM SCHOOL</td><td>Ibaraki-ken, Japan</td><td>354</td><td>1.16K</td></tr><tr><td>350</td><td><a href="https://github.com/viasnake">
@@ -1207,7 +1207,7 @@ github
     </a></td><td>-</td><td>Japan</td><td>792</td><td>987</td></tr><tr><td>381</td><td><a href="https://github.com/sideshowbarker">
         <img src="https://avatars.githubusercontent.com/u/194984?s=72&v=4" height="12" />
         <b>sideshowbarker</b>
-    </a></td><td>-</td><td>Tokyo</td><td>736</td><td>984</td></tr><tr><td>382</td><td><a href="https://github.com/takuseno">
+    </a></td><td>-</td><td>Tokyo</td><td>736</td><td>985</td></tr><tr><td>382</td><td><a href="https://github.com/takuseno">
         <img src="https://avatars.githubusercontent.com/u/5235131?s=72&u=5132c57c16d679df736bd65fa4578c9bf837836e&v=4" height="12" />
         <b>takuseno</b>
     </a></td><td>Turing Inc.</td><td>Japan</td><td>224</td><td>984</td></tr><tr><td>383</td><td><a href="https://github.com/hannoeru">
@@ -1315,7 +1315,7 @@ github
     </a></td><td>newmo, inc</td><td>Tokyo</td><td>216</td><td>831</td></tr><tr><td>417</td><td><a href="https://github.com/yannklein">
         <img src="https://avatars.githubusercontent.com/u/26819547?s=72&u=0efbdf2e7e68b2cd2992e71c1ee23f4930e2c555&v=4" height="12" />
         <b>yannklein</b>
-    </a></td><td>-</td><td>Tokyo, JP</td><td>212</td><td>828</td></tr><tr><td>418</td><td><a href="https://github.com/Jxck">
+    </a></td><td>-</td><td>Tokyo, JP</td><td>213</td><td>828</td></tr><tr><td>418</td><td><a href="https://github.com/Jxck">
         <img src="https://avatars.githubusercontent.com/u/322289?s=72&u=fee38d125ebdcd6da6a62341256d5b677709a071&v=4" height="12" />
         <b>Jxck</b>
     </a></td><td>-</td><td>Tokyo, Japan</td><td>571</td><td>818</td></tr><tr><td>419</td><td><a href="https://github.com/cbracken">
@@ -1450,34 +1450,34 @@ github
     </a></td><td>Mashmatrix, Inc.</td><td>Tokyo, Japan</td><td>283</td><td>664</td></tr><tr><td>462</td><td><a href="https://github.com/orisano">
         <img src="https://avatars.githubusercontent.com/u/1029249?s=72&u=ef42d26edf52d8322c264dd2830eb13ef488eb8c&v=4" height="12" />
         <b>orisano</b>
-    </a></td><td>@recruit-tech </td><td> Tokyo, Japan</td><td>280</td><td>664</td></tr><tr><td>463</td><td><a href="https://github.com/the0cp">
-        <img src="https://avatars.githubusercontent.com/u/63190431?s=72&u=7951897fd624ef55f4464b3c2493d66fa81e8b02&v=4" height="12" />
-        <b>the0cp</b>
-    </a></td><td>Feel Good Inc.</td><td>Japan 127.0.0.1:9050</td><td>291</td><td>659</td></tr><tr><td>464</td><td><a href="https://github.com/axzxs2001">
-        <img src="https://avatars.githubusercontent.com/u/522232?s=72&u=2d1eb741e39162c6fcfc173dc909a202db233d33&v=4" height="12" />
-        <b>axzxs2001</b>
-    </a></td><td>-</td><td>Tokyo</td><td>359</td><td>654</td></tr><tr><td>465</td><td><a href="https://github.com/adarshaj">
-        <img src="https://avatars.githubusercontent.com/u/511183?s=72&v=4" height="12" />
-        <b>adarshaj</b>
-    </a></td><td>@hackcave</td><td>Japan</td><td>259</td><td>652</td></tr><tr><td>466</td><td><a href="https://github.com/mapconcierge">
-        <img src="https://avatars.githubusercontent.com/u/416977?s=72&u=4ddf13867fbb9584a9ed54c6f6544903491d985d&v=4" height="12" />
-        <b>mapconcierge</b>
-    </a></td><td>MAPconcierge</td><td>Tokyo</td><td>258</td><td>652</td></tr><tr><td>467</td><td><a href="https://github.com/Dosugamea">
-        <img src="https://avatars.githubusercontent.com/u/17107514?s=72&u=bd4411de5818b2bcaa2689f20b7a5d89248bef1c&v=4" height="12" />
-        <b>Dosugamea</b>
-    </a></td><td>Frontend engineer</td><td>Japan, Tokyo</td><td>230</td><td>652</td></tr><tr><td>468</td><td><a href="https://github.com/kenjinote">
-        <img src="https://avatars.githubusercontent.com/u/2605401?s=72&u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" height="12" />
-        <b>kenjinote</b>
-    </a></td><td>-</td><td>Japan</td><td>18.71K</td><td>650</td></tr><tr><td>469</td><td><a href="https://github.com/unchama">
-        <img src="https://avatars.githubusercontent.com/u/11990197?s=72&u=63c7d60c9fb1517af78eda0197212e5e0d5544ea&v=4" height="12" />
-        <b>unchama</b>
-    </a></td><td>personal</td><td>japan</td><td>276</td><td>649</td></tr><tr><td>470</td><td><a href="https://github.com/lovyan03">
-        <img src="https://avatars.githubusercontent.com/u/42724151?s=72&u=01a30838a72fe0ee29e8206c5be866de41cdff4f&v=4" height="12" />
-        <b>lovyan03</b>
-    </a></td><td>-</td><td>Japan</td><td>559</td><td>646</td></tr><tr><td>471</td><td><a href="https://github.com/mrkn">
+    </a></td><td>@recruit-tech </td><td> Tokyo, Japan</td><td>280</td><td>664</td></tr><tr><td>463</td><td><a href="https://github.com/mrkn">
         <img src="https://avatars.githubusercontent.com/u/3959?s=72&u=951e5e4b534a96a7598601dd6ed25fe7ab8191f7&v=4" height="12" />
         <b>mrkn</b>
-    </a></td><td>@xica</td><td>Tokyo, Japan</td><td>665</td><td>642</td></tr><tr><td>472</td><td><a href="https://github.com/hotchemi">
+    </a></td><td>@xica</td><td>Tokyo, Japan</td><td>665</td><td>661</td></tr><tr><td>464</td><td><a href="https://github.com/the0cp">
+        <img src="https://avatars.githubusercontent.com/u/63190431?s=72&u=7951897fd624ef55f4464b3c2493d66fa81e8b02&v=4" height="12" />
+        <b>the0cp</b>
+    </a></td><td>Feel Good Inc.</td><td>Japan 127.0.0.1:9050</td><td>291</td><td>659</td></tr><tr><td>465</td><td><a href="https://github.com/axzxs2001">
+        <img src="https://avatars.githubusercontent.com/u/522232?s=72&u=2d1eb741e39162c6fcfc173dc909a202db233d33&v=4" height="12" />
+        <b>axzxs2001</b>
+    </a></td><td>-</td><td>Tokyo</td><td>359</td><td>654</td></tr><tr><td>466</td><td><a href="https://github.com/adarshaj">
+        <img src="https://avatars.githubusercontent.com/u/511183?s=72&v=4" height="12" />
+        <b>adarshaj</b>
+    </a></td><td>@hackcave</td><td>Japan</td><td>259</td><td>652</td></tr><tr><td>467</td><td><a href="https://github.com/mapconcierge">
+        <img src="https://avatars.githubusercontent.com/u/416977?s=72&u=4ddf13867fbb9584a9ed54c6f6544903491d985d&v=4" height="12" />
+        <b>mapconcierge</b>
+    </a></td><td>MAPconcierge</td><td>Tokyo</td><td>258</td><td>652</td></tr><tr><td>468</td><td><a href="https://github.com/Dosugamea">
+        <img src="https://avatars.githubusercontent.com/u/17107514?s=72&u=bd4411de5818b2bcaa2689f20b7a5d89248bef1c&v=4" height="12" />
+        <b>Dosugamea</b>
+    </a></td><td>Frontend engineer</td><td>Japan, Tokyo</td><td>230</td><td>652</td></tr><tr><td>469</td><td><a href="https://github.com/kenjinote">
+        <img src="https://avatars.githubusercontent.com/u/2605401?s=72&u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" height="12" />
+        <b>kenjinote</b>
+    </a></td><td>-</td><td>Japan</td><td>18.71K</td><td>650</td></tr><tr><td>470</td><td><a href="https://github.com/unchama">
+        <img src="https://avatars.githubusercontent.com/u/11990197?s=72&u=63c7d60c9fb1517af78eda0197212e5e0d5544ea&v=4" height="12" />
+        <b>unchama</b>
+    </a></td><td>personal</td><td>japan</td><td>276</td><td>649</td></tr><tr><td>471</td><td><a href="https://github.com/lovyan03">
+        <img src="https://avatars.githubusercontent.com/u/42724151?s=72&u=01a30838a72fe0ee29e8206c5be866de41cdff4f&v=4" height="12" />
+        <b>lovyan03</b>
+    </a></td><td>-</td><td>Japan</td><td>559</td><td>646</td></tr><tr><td>472</td><td><a href="https://github.com/hotchemi">
         <img src="https://avatars.githubusercontent.com/u/471318?s=72&u=387a154caf43aefb33fc2e1571a0031d8157d7d0&v=4" height="12" />
         <b>hotchemi</b>
     </a></td><td>@smartnews</td><td>Japan</td><td>814</td><td>641</td></tr><tr><td>473</td><td><a href="https://github.com/koute">
@@ -1510,7 +1510,7 @@ github
     </a></td><td>-</td><td>Tokyo, Japan</td><td>284</td><td>602</td></tr><tr><td>482</td><td><a href="https://github.com/zonuexe">
         <img src="https://avatars.githubusercontent.com/u/822086?s=72&u=fd85204aa0605b17a73757ec3c1f644af436f496&v=4" height="12" />
         <b>zonuexe</b>
-    </a></td><td>@pixiv Inc. and @emacs-php</td><td>Shibuya, Tokyo, Japan</td><td>387</td><td>598</td></tr><tr><td>483</td><td><a href="https://github.com/megabitsenmzq">
+    </a></td><td>@pixiv Inc. and @emacs-php</td><td>Shibuya, Tokyo, Japan</td><td>388</td><td>598</td></tr><tr><td>483</td><td><a href="https://github.com/megabitsenmzq">
         <img src="https://avatars.githubusercontent.com/u/5499507?s=72&u=c6fd767c197c3c6b9a60f59d9975bc4ea69d702c&v=4" height="12" />
         <b>megabitsenmzq</b>
     </a></td><td>-</td><td>Tokyo, Japan</td><td>235</td><td>596</td></tr><tr><td>484</td><td><a href="https://github.com/keroxp">
@@ -1591,7 +1591,7 @@ github
     </a></td><td>@IssueHunt</td><td>Busan / Tokyo</td><td>336</td><td>510</td></tr><tr><td>509</td><td><a href="https://github.com/tanaikech">
         <img src="https://avatars.githubusercontent.com/u/20408540?s=72&u=5f9f0b469cf50165be37d9683038e890980d4eed&v=4" height="12" />
         <b>tanaikech</b>
-    </a></td><td>-</td><td>Japan</td><td>727</td><td>508</td></tr><tr><td>510</td><td><a href="https://github.com/kissy24">
+    </a></td><td>-</td><td>Japan</td><td>728</td><td>508</td></tr><tr><td>510</td><td><a href="https://github.com/kissy24">
         <img src="https://avatars.githubusercontent.com/u/12809711?s=72&u=c1cbeba3c70237f188beabca38e01eff6007c9d1&v=4" height="12" />
         <b>kissy24</b>
     </a></td><td>-</td><td>Tokyo, Japan</td><td>348</td><td>502</td></tr><tr><td>511</td><td><a href="https://github.com/studiomohawk">
@@ -1705,7 +1705,7 @@ github
     </a></td><td>-</td><td>Tokyo</td><td>568</td><td>413</td></tr><tr><td>547</td><td><a href="https://github.com/chokkan">
         <img src="https://avatars.githubusercontent.com/u/478639?s=72&u=664b73b41f6dce5991027b6acb1d0e1f3892b8c7&v=4" height="12" />
         <b>chokkan</b>
-    </a></td><td>Tokyo Institute of Technology</td><td>Tokyo, Japan</td><td>303</td><td>411</td></tr><tr><td>548</td><td><a href="https://github.com/gugod">
+    </a></td><td>Tokyo Institute of Technology</td><td>Tokyo, Japan</td><td>302</td><td>411</td></tr><tr><td>548</td><td><a href="https://github.com/gugod">
         <img src="https://avatars.githubusercontent.com/u/4970?s=72&v=4" height="12" />
         <b>gugod</b>
     </a></td><td>-</td><td>Fukuoka, Japan</td><td>494</td><td>404</td></tr><tr><td>549</td><td><a href="https://github.com/huydx">
@@ -1729,7 +1729,7 @@ github
     </a></td><td>-</td><td>Tokyo, Japan <- Beijing, China</td><td>260</td><td>389</td></tr><tr><td>555</td><td><a href="https://github.com/Py-Ec">
         <img src="https://avatars.githubusercontent.com/u/122968273?s=72&u=bd653038ab5181c53527a9222b17e21efa2275bf&v=4" height="12" />
         <b>Py-Ec</b>
-    </a></td><td>-</td><td>Osaka, Japan</td><td>412</td><td>388</td></tr><tr><td>556</td><td><a href="https://github.com/takuma104">
+    </a></td><td>-</td><td>Osaka, Japan</td><td>411</td><td>388</td></tr><tr><td>556</td><td><a href="https://github.com/takuma104">
         <img src="https://avatars.githubusercontent.com/u/10776?s=72&v=4" height="12" />
         <b>takuma104</b>
     </a></td><td>-</td><td>Tokyo</td><td>271</td><td>388</td></tr><tr><td>557</td><td><a href="https://github.com/samundrak">
@@ -1762,7 +1762,7 @@ github
     </a></td><td>@mercari @metakgp</td><td>Tokyo</td><td>317</td><td>372</td></tr><tr><td>566</td><td><a href="https://github.com/utam0k">
         <img src="https://avatars.githubusercontent.com/u/13010913?s=72&u=90174cbd78bc19741c0789f55cef9926c91602ca&v=4" height="12" />
         <b>utam0k</b>
-    </a></td><td>Preferred Networks @pfnet</td><td>Japan</td><td>450</td><td>371</td></tr><tr><td>567</td><td><a href="https://github.com/potato4d">
+    </a></td><td>Preferred Networks @pfnet</td><td>Japan</td><td>451</td><td>371</td></tr><tr><td>567</td><td><a href="https://github.com/potato4d">
         <img src="https://avatars.githubusercontent.com/u/6993514?s=72&u=c792fee61377539e732dd9085109d074945bc1ce&v=4" height="12" />
         <b>potato4d</b>
     </a></td><td>@line, @elevenback</td><td>Tokyo, Japan</td><td>704</td><td>367</td></tr><tr><td>568</td><td><a href="https://github.com/miquelcampos">
@@ -1786,7 +1786,7 @@ github
     </a></td><td>-</td><td>Tokyo, Japan</td><td>292</td><td>350</td></tr><tr><td>574</td><td><a href="https://github.com/k-takata">
         <img src="https://avatars.githubusercontent.com/u/840186?s=72&u=dcf88259bd108b0d64380e1a49510bae28ce3ea1&v=4" height="12" />
         <b>k-takata</b>
-    </a></td><td>-</td><td>Tokyo, Japan</td><td>317</td><td>345</td></tr><tr><td>575</td><td><a href="https://github.com/uchan-nos">
+    </a></td><td>-</td><td>Tokyo, Japan</td><td>317</td><td>346</td></tr><tr><td>575</td><td><a href="https://github.com/uchan-nos">
         <img src="https://avatars.githubusercontent.com/u/1825663?s=72&u=fdef044ad0aec02313cc151636a301ad8d1d9155&v=4" height="12" />
         <b>uchan-nos</b>
     </a></td><td>Cybozu Labs, Inc.</td><td>Tokyo</td><td>310</td><td>343</td></tr><tr><td>576</td><td><a href="https://github.com/2bbb">
@@ -2248,7 +2248,7 @@ github
     </a></td><td>AMAZON JP</td><td>Tokyo, Japan</td><td>563</td><td>75</td></tr><tr><td>728</td><td><a href="https://github.com/mio-dokuhaki">
         <img src="https://avatars.githubusercontent.com/u/97223678?s=72&v=4" height="12" />
         <b>mio-dokuhaki</b>
-    </a></td><td>-</td><td>Kurume city , Fukuoka Pref. , Japan</td><td>437</td><td>75</td></tr><tr><td>729</td><td><a href="https://github.com/Grabacr07">
+    </a></td><td>-</td><td>Kurume city , Fukuoka Pref. , Japan</td><td>436</td><td>75</td></tr><tr><td>729</td><td><a href="https://github.com/Grabacr07">
         <img src="https://avatars.githubusercontent.com/u/1779073?s=72&u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" height="12" />
         <b>Grabacr07</b>
     </a></td><td>@lifebear </td><td>Tokyo, Japan</td><td>426</td><td>75</td></tr><tr><td>730</td><td><a href="https://github.com/nakabonne">
@@ -2392,7 +2392,7 @@ github
     </a></td><td>-</td><td>Tokyo</td><td>927</td><td>39</td></tr><tr><td>776</td><td><a href="https://github.com/codeninja819">
         <img src="https://avatars.githubusercontent.com/u/125676661?s=72&u=a2c1a2710e488f599df6843f9299fe99edc81809&v=4" height="12" />
         <b>codeninja819</b>
-    </a></td><td>@hashninjas</td><td>Tokyo, Japan</td><td>707</td><td>38</td></tr><tr><td>777</td><td><a href="https://github.com/KeenS">
+    </a></td><td>@hashninjas</td><td>Tokyo, Japan</td><td>708</td><td>38</td></tr><tr><td>777</td><td><a href="https://github.com/KeenS">
         <img src="https://avatars.githubusercontent.com/u/4434568?s=72&u=adea146b14efa3b5b9d656320f21cf1326ef910a&v=4" height="12" />
         <b>KeenS</b>
     </a></td><td>Preferred Networks Inc.</td><td>Tokyo, Japan</td><td>478</td><td>38</td></tr><tr><td>778</td><td><a href="https://github.com/arubdesu">
@@ -2458,7 +2458,7 @@ github
     </a></td><td>-</td><td>Tokyo, Japan</td><td>342</td><td>26</td></tr><tr><td>798</td><td><a href="https://github.com/15923-ORIX">
         <img src="https://avatars.githubusercontent.com/u/123633802?s=72&u=3e9d4bf866665fb96d8b2e05d3c95515ddf0af88&v=4" height="12" />
         <b>15923-ORIX</b>
-    </a></td><td>糸井HD</td><td>Japan, Windsor, London</td><td>243</td><td>26</td></tr><tr><td>799</td><td><a href="https://github.com/ichitaso">
+    </a></td><td>糸井HD</td><td>Japan, Windsor, London</td><td>244</td><td>26</td></tr><tr><td>799</td><td><a href="https://github.com/ichitaso">
         <img src="https://avatars.githubusercontent.com/u/980215?s=72&v=4" height="12" />
         <b>ichitaso</b>
     </a></td><td>-</td><td>Japan</td><td>416</td><td>25</td></tr><tr><td>800</td><td><a href="https://github.com/aajisaka">
@@ -2521,10 +2521,10 @@ github
     </a></td><td>-</td><td>Tokyo, Japan</td><td>266</td><td>19</td></tr><tr><td>819</td><td><a href="https://github.com/zhangysh1995">
         <img src="https://avatars.githubusercontent.com/u/8340592?s=72&u=75015996937129f0b359b42d6bc4eb78073627d4&v=4" height="12" />
         <b>zhangysh1995</b>
-    </a></td><td>@KOMOJU</td><td>Tokyo, Japan</td><td>254</td><td>19</td></tr><tr><td>820</td><td><a href="https://github.com/45288">
+    </a></td><td>@KOMOJU</td><td>Tokyo, Japan</td><td>253</td><td>19</td></tr><tr><td>820</td><td><a href="https://github.com/45288">
         <img src="https://avatars.githubusercontent.com/u/115737749?s=72&u=c097125fbbdd0bddec9acf24438e18695b1a239e&v=4" height="12" />
         <b>45288</b>
-    </a></td><td>King's Colledge London</td><td>Japan, Gunma 4183</td><td>248</td><td>19</td></tr><tr><td>821</td><td><a href="https://github.com/wynand1004">
+    </a></td><td>King's Colledge London</td><td>Japan, Gunma 4183</td><td>249</td><td>19</td></tr><tr><td>821</td><td><a href="https://github.com/wynand1004">
         <img src="https://avatars.githubusercontent.com/u/13484014?s=72&u=e5a19c1fe522535670bdfc1947be961f5b94bd99&v=4" height="12" />
         <b>wynand1004</b>
     </a></td><td>-</td><td>Tokyo</td><td>433</td><td>18</td></tr><tr><td>822</td><td><a href="https://github.com/cmod">
