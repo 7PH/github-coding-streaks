@@ -100,6 +100,23 @@
                 "kochi"
             ],
             "minFollowerCount": 200
+        },
+        {
+            "countryCode": "ng",
+            "countryName": "Nigeria",
+            "symbol": "🇳🇬",
+            "countryMatch": [
+                "nigeria",
+                "lagos",
+                "abuja",
+                "port harcourt",
+                "ibadan",
+                "kano",
+                "enugu",
+                "benin city",
+                "kaduna"
+            ],
+            "minFollowerCount": 50
         }
     ]
 }
