@@ -37,7 +37,7 @@ export async function searchUsers(
         allUsers.push(...users);
 
         // Should stop if an user does not match criteria or if we have less than PER_PAGE users
-        shouldStop = !cursor || users.length !== users.length;
+        shouldStop = !cursor || users.length < PER_PAGE;
 
         // Should stop if stopWhen returns true
         if (stopWhen && stopWhen(allUsers)) {

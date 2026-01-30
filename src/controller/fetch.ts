@@ -63,7 +63,7 @@ export async function fetchCountry({
     countryCode,
     minFollowerCount,
 }: CountryDefinition) {
-    const query = countryMatch.map((match) => `location:${match}`).join(' ');
+    const query = countryMatch.map((match) => `location:"${match}"`).join(' ');
     const users = await searchUsers(`${query} followers:>=${minFollowerCount} sort:followers-desc`);
     const enhancedUsers: EnhancedGithubUser[] = [];
     for (const user of users) {
