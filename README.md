@@ -42,6 +42,12 @@ This project aims to celebrate and motivate continuous coding efforts by ranking
             <b>India</b>
         </td>
         <td><a href="docs/markdown/week-streak/in.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/in.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/in.md">Top Contributors</a></td>
+    </tr><tr>
+        <td>
+            <img src="https://flagsapi.com/NG/flat/16.png" />
+            <b>Nigeria</b>
+        </td>
+        <td><a href="docs/markdown/week-streak/ng.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/ng.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/ng.md">Top Contributors</a></td>
     </tr>
     <td>
         ➕ <a href="https://github.com/7PH/github-coding-streaks/issues/new">Add your country</a>
