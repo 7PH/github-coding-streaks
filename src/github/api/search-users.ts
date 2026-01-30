@@ -36,8 +36,8 @@ export async function searchUsers(
         // Add users
         allUsers.push(...users);
 
-        // Should stop if an user does not match criteria or if we have less than PER_PAGE users
-        shouldStop = !cursor || users.length < PER_PAGE;
+        // Should stop if there are no more pages
+        shouldStop = !cursor || !data.search.pageInfo.hasNextPage;
 
         // Should stop if stopWhen returns true
         if (stopWhen && stopWhen(allUsers)) {
