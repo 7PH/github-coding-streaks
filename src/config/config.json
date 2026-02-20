@@ -117,6 +117,26 @@
                 "kaduna"
             ],
             "minFollowerCount": 50
+        },
+        {
+            "countryCode": "ca",
+            "countryName": "Canada",
+            "symbol": "🇨🇦",
+            "countryMatch": [
+                "canada",
+                "ca",
+                "can",
+                "canadian",
+                "toronto",
+                "vancouver",
+                "montreal",
+                "calgary",
+                "ottawa",
+                "edmonton",
+                "winnipeg",
+                "quebec"
+            ],
+            "minFollowerCount": 150
         }
     ]
 }
