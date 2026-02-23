@@ -48,6 +48,12 @@ This project aims to celebrate and motivate continuous coding efforts by ranking
             <b>Nigeria</b>
         </td>
         <td><a href="docs/markdown/week-streak/ng.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/ng.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/ng.md">Top Contributors</a></td>
+    </tr><tr>
+        <td>
+            <img src="https://flagsapi.com/CA/flat/16.png" />
+            <b>Canada</b>
+        </td>
+        <td><a href="docs/markdown/week-streak/ca.md">Weekly Commit Streak</a></td><td><a href="docs/markdown/day-streak/ca.md">Daily Commit Streak</a></td><td><a href="docs/markdown/contribution-count/ca.md">Top Contributors</a></td>
     </tr>
     <td>
         ➕ <a href="https://github.com/7PH/github-coding-streaks/issues/new">Add your country</a>
