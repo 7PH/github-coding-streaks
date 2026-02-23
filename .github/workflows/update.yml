@@ -10,6 +10,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
+            - uses: actions/cache@v4
+              with:
+                  path: dist/cache
+                  key: contributions-cache
             - run: npm install
             - run: npm run build
             - run: npm run fetch -- -c fr
